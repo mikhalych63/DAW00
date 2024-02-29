@@ -1,68 +1,136 @@
-(kicad_sch (version 20230121) (generator eeschema)
-
-  (uuid ca4cfd42-59e1-4265-8267-972d6aaac6ff)
-
-  (paper "A4")
-
-  (lib_symbols
-  )
-
-
-  (sheet (at 48.26 24.13) (size 95.25 46.355)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 4aeb4b63-8869-4af7-96e8-06e4a551ac30)
-    (property "Sheetname" "Amplifier" (at 52.07 34.29 0)
-      (effects (font (size 5.4 5.4) bold) (justify left bottom))
-    )
-    (property "Sheetfile" "Amplifier.kicad_sch" (at 48.26 71.0696 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "daw00"
-        (path "/ca4cfd42-59e1-4265-8267-972d6aaac6ff" (page "2"))
-      )
-    )
-  )
-
-  (sheet (at 49.53 90.17) (size 94.615 58.42)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid b084b188-d415-40e4-beac-379106b49ebb)
-    (property "Sheetname" "Power" (at 51.435 100.965 0)
-      (effects (font (size 5.4 5.4) bold) (justify left bottom))
-    )
-    (property "Sheetfile" "power.kicad_sch" (at 49.53 149.1746 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "daw00"
-        (path "/ca4cfd42-59e1-4265-8267-972d6aaac6ff" (page "4"))
-      )
-    )
-  )
-
-  (sheet (at 147.32 24.13) (size 88.9 46.355)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid ba08ac29-4415-4a1c-bc01-e302a0fb65d1)
-    (property "Sheetname" "Computer" (at 151.765 33.02 0)
-      (effects (font (size 5.4 5.4) bold) (justify left bottom))
-    )
-    (property "Sheetfile" "computer.kicad_sch" (at 147.32 71.0696 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (property "Поле2" "" (at 147.32 24.13 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "daw00"
-        (path "/ca4cfd42-59e1-4265-8267-972d6aaac6ff" (page "3"))
-      )
-    )
-  )
-
-  (sheet_instances
-    (path "/" (page "1"))
-  )
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "ca4cfd42-59e1-4265-8267-972d6aaac6ff")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 48.26 24.13)
+		(size 95.25 46.355)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4aeb4b63-8869-4af7-96e8-06e4a551ac30")
+		(property "Sheetname" "Amplifier"
+			(at 52.07 34.29 0)
+			(effects
+				(font
+					(size 5.4 5.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Amplifier.kicad_sch"
+			(at 48.26 71.0696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "daw00"
+				(path "/ca4cfd42-59e1-4265-8267-972d6aaac6ff"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 49.53 90.17)
+		(size 94.615 58.42)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b084b188-d415-40e4-beac-379106b49ebb")
+		(property "Sheetname" "Power"
+			(at 51.435 100.965 0)
+			(effects
+				(font
+					(size 5.4 5.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 49.53 149.1746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "daw00"
+				(path "/ca4cfd42-59e1-4265-8267-972d6aaac6ff"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 147.32 24.13)
+		(size 88.9 46.355)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ba08ac29-4415-4a1c-bc01-e302a0fb65d1")
+		(property "Sheetname" "Computer"
+			(at 151.765 33.02 0)
+			(effects
+				(font
+					(size 5.4 5.4)
+					(bold yes)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "computer.kicad_sch"
+			(at 147.32 71.0696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Поле2" ""
+			(at 147.32 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "daw00"
+				(path "/ca4cfd42-59e1-4265-8267-972d6aaac6ff"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
 )

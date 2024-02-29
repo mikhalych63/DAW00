@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "sp")(type "Legacy")(uri "${MY_LIBS}/Spice/pspicetilib/ACF2101.LIB")(options "")(descr ""))
+)
