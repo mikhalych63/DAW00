@@ -559,7 +559,7 @@
       "specctra_dsn": "",
       "step": "daw00.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "daw00.wrl"
     },
     "page_layout_descr_file": "/home/victor/Документы/PCB/Пустая.kicad_wks"
   },

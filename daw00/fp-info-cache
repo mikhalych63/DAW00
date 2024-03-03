@@ -1,4 +1,53 @@
-22458497730536603
+25149651732323750
+00-mylib
+Amp Terminal Block
+
+
+0
+9
+3
+00-mylib
+EDGE-2x6-2.54
+AT ISA 16 bits Bus Edge Connector
+BUS ISA AT Edge connector
+0
+12
+12
+00-mylib
+Fuse_Blade_vertical
+car blade fuse direct solder
+car blade fuse
+0
+2
+2
+00-mylib
+PJ313
+PJ-313
+Connector
+0
+5
+3
+00-mylib
+Transformer_ETD44_Horizontal
+Transformer, Transformator, ETD29, 13 Pin, Horizontal, EPCOS-B66359A1013T,
+Transformer Transformator ETD29 13 Pin Horizontal EPCOS-B66359A1013T 
+0
+18
+10
+00-mylib
+USB_A_CUI_UJ2-ADH-TH_Horizontal_Stacked
+USB-A two stacked horizontal receptacle, through-hole (https://www.cuidevices.com/product/resource/uj2-adh-th.pdf)
+USB-A CUI stacked horizontal through-hole
+0
+12
+9
+00-mylib
+USB_A_STACKED
+5787745-4
+Connector
+0
+12
+12
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -92504,3 +92553,12659 @@ varistor
 0
 2
 2
+w_battery_holders
+keystone_103
+Keystone type 103 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_104
+Keystone type 104 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_105
+Keystone type 105 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_106
+Keystone type 106 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_107
+Keystone type 107 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_301
+Keystone type 301 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_499
+Keystone type 499 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_500
+Keystone type 500 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_501
+Keystone type 501 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_502
+Keystone type 502 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_1025
+Keystone type 1025 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_1025-7
+Keystone type 1025-7 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_1026
+Keystone type 1026 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_1027
+Keystone type 1027 battery holder
+
+0
+2
+2
+w_battery_holders
+keystone_2990
+Keystone type 2990 negative battery contact
+
+0
+2
+1
+w_battery_holders
+keystone_2991
+Keystone type 2991 negative battery contact
+
+0
+2
+1
+w_battery_holders
+keystone_2992
+Keystone type 2992 negative battery contact
+
+0
+2
+1
+w_battery_holders
+keystone_2993
+Keystone type 2993 negative battery contact
+
+0
+1
+1
+w_battery_holders
+keystone_3000
+Keystone type 3000 coin cell retainer
+
+0
+3
+2
+w_battery_holders
+keystone_3001
+Keystone type 3001 coin cell retainer
+
+0
+3
+2
+w_battery_holders
+keystone_3008
+Keystone type 3008 coin cell retainer
+
+0
+3
+2
+w_battery_holders
+keystone_3009
+Keystone type 3009 coin cell retainer
+
+0
+3
+2
+w_capacitors
+CPA_5x11MM
+capacitor pol, axial 5x11mm
+
+0
+2
+2
+w_capacitors
+CPA_6x11MM
+capacitor pol, axial 6x11mm
+
+0
+2
+2
+w_capacitors
+CPA_8x21MM
+capacitor pol, axial 8x21mm
+
+0
+2
+2
+w_capacitors
+CPA_13x31MM
+capacitor pol, axial 13x31mm
+
+0
+2
+2
+w_capacitors
+CPA_16x31MM
+capacitor pol, axial 16x31mm
+
+0
+2
+2
+w_capacitors
+CPA_16x40MM
+capacitor pol, axial 16x40mm
+
+0
+2
+2
+w_capacitors
+CP_4x5mm
+Capacitor, pol, cyl 4x5mm
+
+0
+2
+2
+w_capacitors
+CP_4x7mm
+Capacitor, pol, cyl 4x7mm
+
+0
+2
+2
+w_capacitors
+CP_5x5mm
+Capacitor, pol, cyl 5x5mm
+
+0
+2
+2
+w_capacitors
+CP_5x7mm
+Capacitor, pol, cyl 5x7mm
+
+0
+2
+2
+w_capacitors
+CP_5x11mm
+Capacitor, pol, cyl 5x11mm
+
+0
+2
+2
+w_capacitors
+CP_5x15mm
+Capacitor, pol, cyl 5x15mm
+
+0
+2
+2
+w_capacitors
+CP_6.3x5mm
+Capacitor, pol, cyl 6.3x5mm
+
+0
+2
+2
+w_capacitors
+CP_6.3x7mm
+Capacitor, pol, cyl 6.3x7mm
+
+0
+2
+2
+w_capacitors
+CP_6.3x11mm
+Capacitor, pol, cyl 6.3x11mm
+
+0
+2
+2
+w_capacitors
+CP_6.3x15mm
+Capacitor, pol, cyl 6.3x15mm
+
+0
+2
+2
+w_capacitors
+CP_8x7mm
+Capacitor, pol, cyl 8x7mm
+
+0
+2
+2
+w_capacitors
+CP_8x11.5mm
+Capacitor, pol, cyl 8x11.5mm
+
+0
+2
+2
+w_capacitors
+CP_8x15mm
+Capacitor, pol, cyl 8x15mm
+
+0
+2
+2
+w_capacitors
+CP_8x20mm
+Capacitor, pol, cyl 8x20mm
+
+0
+2
+2
+w_capacitors
+CP_10x12.5mm
+Capacitor, pol, cyl 10x12.5mm
+
+0
+2
+2
+w_capacitors
+CP_10x16mm
+Capacitor, pol, cyl 10x16mm
+
+0
+2
+2
+w_capacitors
+CP_10x20mm
+Capacitor, pol, cyl 10x20mm
+
+0
+2
+2
+w_capacitors
+CP_10x25mm
+Capacitor, pol, cyl 10x25mm
+
+0
+2
+2
+w_capacitors
+CP_10x30mm
+Capacitor, pol, cyl 10x30mm
+
+0
+2
+2
+w_capacitors
+CP_12.5x15mm
+Capacitor, pol, cyl 12.5x15mm
+
+0
+2
+2
+w_capacitors
+CP_12.5x20mm
+Capacitor, pol, cyl 12.5x20mm
+
+0
+2
+2
+w_capacitors
+CP_12.5x25mm
+Capacitor, pol, cyl 12.5x25mm
+
+0
+2
+2
+w_capacitors
+CP_12.5x30mm
+Capacitor, pol, cyl 12.5x30mm
+
+0
+2
+2
+w_capacitors
+CP_12.5x35mm
+Capacitor, pol, cyl 12.5x35mm
+
+0
+2
+2
+w_capacitors
+CP_12.5x40mm
+Capacitor, pol, cyl 12.5x40mm
+
+0
+2
+2
+w_capacitors
+CP_16x16mm
+Capacitor, pol, cyl 16x16mm
+
+0
+2
+2
+w_capacitors
+CP_16x20mm
+Capacitor, pol, cyl 16x20mm
+
+0
+2
+2
+w_capacitors
+CP_16x25mm
+Capacitor, pol, cyl 16x25mm
+
+0
+2
+2
+w_capacitors
+CP_16x31.5mm
+Capacitor, pol, cyl 16x31.5mm
+
+0
+2
+2
+w_capacitors
+CP_16x35.5mm
+Capacitor, pol, cyl 16x35.5mm
+
+0
+2
+2
+w_capacitors
+CP_16x40mm
+Capacitor, pol, cyl 16x40mm
+
+0
+2
+2
+w_capacitors
+CP_18x16mm
+Capacitor, pol, cyl 18x16mm
+
+0
+2
+2
+w_capacitors
+CP_18x20mm
+Capacitor, pol, cyl 18x20mm
+
+0
+2
+2
+w_capacitors
+CP_18x25mm
+Capacitor, pol, cyl 18x25mm
+
+0
+2
+2
+w_capacitors
+CP_18x31.5mm
+Capacitor, pol, cyl 18x31.5mm
+
+0
+2
+2
+w_capacitors
+CP_18x35.5mm
+Capacitor, pol, cyl 18x35.5mm
+
+0
+2
+2
+w_capacitors
+CP_18x40mm
+Capacitor, pol, cyl 18x40mm
+
+0
+2
+2
+w_capacitors
+CP_22x20mm
+Capacitor, pol, cyl 22x20mm
+
+0
+2
+2
+w_capacitors
+CP_22x25mm
+Capacitor, pol, cyl 22x25mm
+
+0
+2
+2
+w_capacitors
+CP_22x30mm
+Capacitor, pol, cyl 22x30mm
+
+0
+2
+2
+w_capacitors
+CP_22x35mm
+Capacitor, pol, cyl 22x35mm
+
+0
+2
+2
+w_capacitors
+CP_22x40mm
+Capacitor, pol, cyl 22x40mm
+
+0
+2
+2
+w_capacitors
+CP_22x45mm
+Capacitor, pol, cyl 22x45mm
+
+0
+2
+2
+w_capacitors
+CP_22x50mm
+Capacitor, pol, cyl 22x50mm
+
+0
+2
+2
+w_capacitors
+CP_25x20mm
+Capacitor, pol, cyl 25x20mm
+
+0
+2
+2
+w_capacitors
+CP_25x25mm
+Capacitor, pol, cyl 25x25mm
+
+0
+2
+2
+w_capacitors
+CP_25x30mm
+Capacitor, pol, cyl 25x30mm
+
+0
+2
+2
+w_capacitors
+CP_25x35mm
+Capacitor, pol, cyl 25x35mm
+
+0
+2
+2
+w_capacitors
+CP_25x40mm
+Capacitor, pol, cyl 25x40mm
+
+0
+2
+2
+w_capacitors
+CP_25x45mm
+Capacitor, pol, cyl 25x45mm
+
+0
+2
+2
+w_capacitors
+CP_25x50mm
+Capacitor, pol, cyl 25x50mm
+
+0
+2
+2
+w_capacitors
+CP_30x20mm
+Capacitor, pol, cyl 30x20mm
+
+0
+2
+2
+w_capacitors
+CP_30x25mm
+Capacitor, pol, cyl 30x25mm
+
+0
+2
+2
+w_capacitors
+CP_30x30mm
+Capacitor, pol, cyl 30x30mm
+
+0
+2
+2
+w_capacitors
+CP_30x35mm
+Capacitor, pol, cyl 30x35mm
+
+0
+2
+2
+w_capacitors
+CP_30x40mm
+Capacitor, pol, cyl 30x40mm
+
+0
+2
+2
+w_capacitors
+CP_30x45mm
+Capacitor, pol, cyl 30x45mm
+
+0
+2
+2
+w_capacitors
+CP_30x50mm
+Capacitor, pol, cyl 30x50mm
+
+0
+2
+2
+w_capacitors
+CP_35x20mm
+Capacitor, pol, cyl 35x20mm
+
+0
+2
+2
+w_capacitors
+CP_35x25mm
+Capacitor, pol, cyl 35x25mm
+
+0
+2
+2
+w_capacitors
+CP_35x30mm
+Capacitor, pol, cyl 35x30mm
+
+0
+2
+2
+w_capacitors
+CP_35x35mm
+Capacitor, pol, cyl 35x35mm
+
+0
+2
+2
+w_capacitors
+CP_35x40mm
+Capacitor, pol, cyl 35x40mm
+
+0
+2
+2
+w_capacitors
+CP_35x45mm
+Capacitor, pol, cyl 35x45mm
+
+0
+2
+2
+w_capacitors
+CP_35x50mm
+Capacitor, pol, cyl 35x50mm
+
+0
+2
+2
+w_capacitors
+cnp_3mm_disc
+Small ceramic capacitor
+C
+0
+2
+2
+w_capacitors
+cnp_6mm_disc
+6mm disc ceramic capacitor
+C
+0
+2
+2
+w_capacitors
+cnp_7.5mm_disc
+7.5mm disc ceramic capacitor
+C
+0
+2
+2
+w_capacitors
+cnp_7x2mm
+Capacitor non pol, 7x2,5mm
+
+0
+2
+2
+w_capacitors
+cnp_7x4.5mm
+Capacitor non pol, 7x4,5mm
+
+0
+2
+2
+w_capacitors
+cnp_7x6mm
+Capacitor non pol, 7x6mm
+
+0
+2
+2
+w_capacitors
+cnp_12mm_disc
+12mm disc ceramic capacitor
+C
+0
+2
+2
+w_capacitors
+cnp_13x4mm
+Capacitor non pol, 13x4mm
+
+0
+2
+2
+w_capacitors
+cnp_18x5mm
+Capacitor non pol, 18x5mm
+
+0
+2
+2
+w_capacitors
+cnp_18x6mm
+Capacitor non pol, 18x6mm
+
+0
+2
+2
+w_capacitors
+cnp_18x8mm
+cap non pol, 18x8mm
+
+0
+2
+2
+w_capacitors
+cnpa_10x33mm
+capacitor, axial 10x33mm
+
+0
+2
+2
+w_capacitors
+cnpa_12x33mm
+capacitor, axial 12x33mm
+
+0
+2
+2
+w_capacitors
+cnpa_14x33mm
+capacitor, axial 14x33mm
+
+0
+2
+2
+w_capacitors
+cnpa_16x33mm
+capacitor, axial 16x33mm
+
+0
+2
+2
+w_capacitors
+cnpa_18x33mm
+capacitor, axial 18x33mm
+
+0
+2
+2
+w_capacitors
+cnpa_20x33mm
+capacitor, axial 20x33mm
+
+0
+2
+2
+w_capacitors
+cnpa_20x44mm
+capacitor, axial 20x44mm
+
+0
+2
+2
+w_capacitors
+cnpa_22x33mm
+capacitor, axial 22x33mm
+
+0
+2
+2
+w_capacitors
+cnpa_24x44mm
+capacitor, axial 24x44mm
+
+0
+2
+2
+w_capacitors
+cnpa_28x44mm
+capacitor, axial 28x44mm
+
+0
+2
+2
+w_capacitors
+cnpa_29x58mm
+capacitor, axial 29x58mm
+
+0
+2
+2
+w_capacitors
+cnpa_32x58mm
+capacitor, axial 32x58mm
+
+0
+2
+2
+w_capacitors
+cnpa_34x44mm
+capacitor, axial 34x44mm
+
+0
+2
+2
+w_capacitors
+phv_h_9x17.3x14.5
+PHV series supercapacitor, horizontal, 9x17.3x14.5
+
+0
+2
+2
+w_capacitors
+phv_h_9x17.3x22
+PHV series supercapacitor, horizontal, 9x17.3x22
+
+0
+2
+2
+w_capacitors
+phv_h_9x17.3x32.5
+PHV series supercapacitor, horizontal, 9x17.3x32.5
+
+0
+2
+2
+w_capacitors
+phv_h_11x21.3x23
+PHV series supercapacitor, horizontal, 11x21.3x23
+
+0
+2
+2
+w_capacitors
+phv_h_11x21.3x32.5
+PHV series supercapacitor, horizontal, 11x21.3x32.5
+
+0
+2
+2
+w_capacitors
+phv_v_9x17.3x14.5
+PHV series supercapacitor, vertical, 9x17.3x14.5
+
+0
+2
+2
+w_capacitors
+phv_v_9x17.3x22
+PHV series supercapacitor, vertical, 9x17.3x22
+
+0
+2
+2
+w_capacitors
+phv_v_9x17.3x32.5
+PHV series supercapacitor, vertical, 9x17.3x32.5
+
+0
+2
+2
+w_capacitors
+phv_v_11x21.3x23
+PHV series supercapacitor, vertical, 11x21.3x23
+
+0
+2
+2
+w_capacitors
+phv_v_11x21.3x32.5
+PHV series supercapacitor, vertical, 11x21.3x32.5
+
+0
+2
+2
+w_conn_9159
+9159_hp_2
+9159 horiz. plug 2-way, AVX P/N 109159002101116
+
+0
+4
+3
+w_conn_9159
+9159_hp_3
+9159 horiz. plug 3-way, AVX P/N 109159003101116
+
+0
+5
+4
+w_conn_9159
+9159_hp_4
+9159 horiz. plug 4-way, AVX P/N 109159004101116
+
+0
+6
+5
+w_conn_9159
+9159_hp_5
+9159 horiz. plug 5-way, AVX P/N 109159005101116
+
+0
+7
+6
+w_conn_9159
+9159_hp_6
+9159 horiz. plug 6-way, AVX P/N 109159006101116
+
+0
+8
+7
+w_conn_9159
+9159_hs_2
+9159 horiz. socket 2-way, AVX P/N 209159002101116
+
+0
+4
+3
+w_conn_9159
+9159_hs_3
+9159 horiz. socket 3-way, AVX P/N 209159003101116
+
+0
+5
+4
+w_conn_9159
+9159_hs_4
+9159 horiz. socket 4-way, AVX P/N 209159004101116
+
+0
+6
+5
+w_conn_9159
+9159_hs_5
+9159 horiz. socket 5-way, AVX P/N 209159005101116
+
+0
+7
+6
+w_conn_9159
+9159_hs_6
+9159 horiz. socket 6-way, AVX P/N 209159006101116
+
+0
+8
+7
+w_conn_av
+SCART
+SCART socket, Tyco P/N 1483465-1
+
+0
+21
+21
+w_conn_av
+din-5
+Din 5 (MIDI), Pro Signal P/N PSG03463
+
+0
+5
+5
+w_conn_av
+jack_3.5_pj313d-smt
+3.5mm jack, HK RTL PJ313D
+
+0
+6
+3
+w_conn_av
+jack_3.5_sj1-3513-smt
+3.5mm jack, CUI SJ1-3513-SMT
+
+0
+3
+3
+w_conn_av
+jack_3.5_sj1-3514-smt
+3.5mm jack, CUI SJ1-3514-SMT
+
+0
+4
+4
+w_conn_av
+jack_3.5_sj1-3515-smt
+3.5mm jack, CUI SJ1-3515-SMT
+
+0
+5
+5
+w_conn_av
+jack_3.5_vert_lje0352-4r
+Vertical 3.5mm jack, Lih Sheng LJE0352-4R
+
+0
+4
+4
+w_conn_av
+minidin-8
+MiniDin 8 (S-Video), Tyco P/N 1734096-1
+
+0
+11
+11
+w_conn_av
+rca_black
+RCA Audio connector, black, Pro Signal p/n PSG01544
+rca, audio
+0
+3
+2
+w_conn_av
+rca_red
+RCA Audio connector, red, Pro Signal p/n PSG01545
+rca, audio
+0
+3
+2
+w_conn_av
+rca_white
+RCA Audio connector, white, Pro Signal p/n PSG01546
+rca, audio
+0
+3
+2
+w_conn_av
+rca_yellow
+RCA Audio connector, yellow, Pro Signal p/n PSG01547
+rca, audio
+0
+3
+2
+w_conn_d-sub
+DB_9F
+D-SUB 9 pin socket, Tyco P/N 4-1634584-2
+
+0
+11
+9
+w_conn_d-sub
+DB_9M
+D-SUB 9 pin plug, Tyco P/N 4-338168-2
+
+0
+11
+9
+w_conn_d-sub
+DB_15F
+D-SUB 15 pin socket, Tyco P/N 5747845-5
+
+0
+17
+15
+w_conn_d-sub
+DB_15M
+D-SUB 15 pin plug, Tyco P/N 5747841-6
+
+0
+17
+15
+w_conn_d-sub
+DB_25F
+D-SUB 25 pin socket, Tyco P/N 4-106507-2
+
+0
+27
+25
+w_conn_d-sub
+DB_25M
+D-SUB 25 pin plug, Tyco P/N 5747842-5
+
+0
+27
+25
+w_conn_d-sub
+DB_26F
+D-SUB 26 pin receptacle, Tyco Amplimite P/N 5787082-2
+
+0
+28
+26
+w_conn_d-sub
+DB_28F
+D-SUB 28 pin receptacle, Tyco Amplimite P/N 5787082-3
+
+0
+30
+28
+w_conn_d-sub
+DB_37F
+D-SUB 37 pin socket, Assmann P/N A-DF37A/KG-T2
+
+0
+39
+37
+w_conn_d-sub
+DB_50F
+D-SUB 50 pin receptacle, Tyco Amplimite P/N 5787082-5
+
+0
+52
+50
+w_conn_d-sub
+DB_68F
+D-SUB 68 pin receptacle, Tyco Amplimite P/N 5787082-7
+
+0
+70
+68
+w_conn_d-sub
+DB_100F
+D-SUB 100 pin receptacle, Tyco Amplimite P/N 5787082-9
+
+0
+102
+100
+w_conn_df12
+df12(3.0)-10dp-0.5v
+Hirose DF12 series connector, DF12(3.0)-10DP-0.5V
+
+0
+13
+10
+w_conn_df12
+df12(3.0)-10ds-0.5v
+Hirose DF12 series connector, DF12(3.0)-10DS-0.5V
+
+0
+13
+10
+w_conn_df12
+df12(3.0)-14dp-0.5v
+Hirose DF12 series connector, DF12(3.0)-14DP-0.5V
+
+0
+17
+14
+w_conn_df12
+df12(3.0)-14ds-0.5v
+Hirose DF12 series connector, DF12(3.0)-14DS-0.5V
+
+0
+17
+14
+w_conn_df12
+df12(3.0)-20dp-0.5v
+Hirose DF12 series connector, DF12(3.0)-20DP-0.5V
+
+0
+23
+20
+w_conn_df12
+df12(3.0)-20ds-0.5v
+Hirose DF12 series connector, DF12(3.0)-20DS-0.5V
+
+0
+23
+20
+w_conn_df12
+df12(3.0)-30dp-0.5v
+Hirose DF12 series connector, DF12(3.0)-30DP-0.5V
+
+0
+33
+30
+w_conn_df12
+df12(3.0)-30ds-0.5v
+Hirose DF12 series connector, DF12(3.0)-30DS-0.5V
+
+0
+33
+30
+w_conn_df12
+df12(3.0)-32dp-0.5v
+Hirose DF12 series connector, DF12(3.0)-32DP-0.5V
+
+0
+35
+32
+w_conn_df12
+df12(3.0)-32ds-0.5v
+Hirose DF12 series connector, DF12(3.0)-32DS-0.5V
+
+0
+35
+32
+w_conn_df12
+df12(3.0)-36dp-0.5v
+Hirose DF12 series connector, DF12(3.0)-36DP-0.5V
+
+0
+39
+36
+w_conn_df12
+df12(3.0)-36ds-0.5v
+Hirose DF12 series connector, DF12(3.0)-36DS-0.5V
+
+0
+39
+36
+w_conn_df12
+df12(3.0)-40dp-0.5v
+Hirose DF12 series connector, DF12(3.0)-40DP-0.5V
+
+0
+43
+40
+w_conn_df12
+df12(3.0)-40ds-0.5v
+Hirose DF12 series connector, DF12(3.0)-40DS-0.5V
+
+0
+43
+40
+w_conn_df12
+df12(3.0)-50dp-0.5v
+Hirose DF12 series connector, DF12(3.0)-50DP-0.5V
+
+0
+53
+50
+w_conn_df12
+df12(3.0)-50ds-0.5v
+Hirose DF12 series connector, DF12(3.0)-50DS-0.5V
+
+0
+53
+50
+w_conn_df12
+df12(3.0)-60dp-0.5v
+Hirose DF12 series connector, DF12(3.0)-60DP-0.5V
+
+0
+63
+60
+w_conn_df12
+df12(3.0)-60ds-0.5v
+Hirose DF12 series connector, DF12(3.0)-60DS-0.5V
+
+0
+63
+60
+w_conn_df12
+df12(3.0)-80dp-0.5v
+Hirose DF12 series connector, DF12(3.0)-80DP-0.5V
+
+0
+83
+80
+w_conn_df12
+df12(3.0)-80ds-0.5v
+Hirose DF12 series connector, DF12(3.0)-80DS-0.5V
+
+0
+83
+80
+w_conn_df12
+df12a(3.0)-10ds-0.5v
+Hirose DF12 series connector, DF12A(3.0)-10DS-0.5V
+
+0
+11
+10
+w_conn_df12
+df12a(3.0)-14ds-0.5v
+Hirose DF12 series connector, DF12A(3.0)-14DS-0.5V
+
+0
+15
+14
+w_conn_df12
+df12a(3.0)-20ds-0.5v
+Hirose DF12 series connector, DF12A(3.0)-20DS-0.5V
+
+0
+21
+20
+w_conn_df12
+df12a(3.0)-30ds-0.5v
+Hirose DF12 series connector, DF12A(3.0)-30DS-0.5V
+
+0
+31
+30
+w_conn_df12
+df12a(3.0)-32ds-0.5v
+Hirose DF12 series connector, DF12A(3.0)-32DS-0.5V
+
+0
+33
+32
+w_conn_df12
+df12a(3.0)-36ds-0.5v
+Hirose DF12 series connector, DF12A(3.0)-36DS-0.5V
+
+0
+37
+36
+w_conn_df12
+df12a(3.0)-40ds-0.5v
+Hirose DF12 series connector, DF12A(3.0)-40DS-0.5V
+
+0
+41
+40
+w_conn_df12
+df12a(3.0)-50ds-0.5v
+Hirose DF12 series connector, DF12A(3.0)-50DS-0.5V
+
+0
+51
+50
+w_conn_df12
+df12a(3.0)-60ds-0.5v
+Hirose DF12 series connector, DF12A(3.0)-60DS-0.5V
+
+0
+61
+60
+w_conn_df12
+df12a(3.0)-80ds-0.5v
+Hirose DF12 series connector, DF12A(3.0)-80DS-0.5V
+
+0
+81
+80
+w_conn_df12
+df12b(3.0)-10dp-0.5v
+Hirose DF12 series connector, DF12B(3.0)-10DP-0.5V
+
+0
+13
+10
+w_conn_df12
+df12b(3.0)-10ds-0.5v
+Hirose DF12 series connector, DF12B(3.0)-10DS-0.5V
+
+0
+13
+10
+w_conn_df12
+df12b(3.0)-14dp-0.5v
+Hirose DF12 series connector, DF12B(3.0)-14DP-0.5V
+
+0
+17
+14
+w_conn_df12
+df12b(3.0)-14ds-0.5v
+Hirose DF12 series connector, DF12B(3.0)-14DS-0.5V
+
+0
+17
+14
+w_conn_df12
+df12b(3.0)-20dp-0.5v
+Hirose DF12 series connector, DF12B(3.0)-20DP-0.5V
+
+0
+23
+20
+w_conn_df12
+df12b(3.0)-20ds-0.5v
+Hirose DF12 series connector, DF12B(3.0)-20DS-0.5V
+
+0
+23
+20
+w_conn_df12
+df12b(3.0)-30dp-0.5v
+Hirose DF12 series connector, DF12B(3.0)-30DP-0.5V
+
+0
+33
+30
+w_conn_df12
+df12b(3.0)-30ds-0.5v
+Hirose DF12 series connector, DF12B(3.0)-30DS-0.5V
+
+0
+33
+30
+w_conn_df12
+df12b(3.0)-32dp-0.5v
+Hirose DF12 series connector, DF12B(3.0)-32DP-0.5V
+
+0
+35
+32
+w_conn_df12
+df12b(3.0)-32ds-0.5v
+Hirose DF12 series connector, DF12B(3.0)-32DS-0.5V
+
+0
+35
+32
+w_conn_df12
+df12b(3.0)-36dp-0.5v
+Hirose DF12 series connector, DF12B(3.0)-36DP-0.5V
+
+0
+39
+36
+w_conn_df12
+df12b(3.0)-36ds-0.5v
+Hirose DF12 series connector, DF12B(3.0)-36DS-0.5V
+
+0
+39
+36
+w_conn_df12
+df12b(3.0)-40dp-0.5v
+Hirose DF12 series connector, DF12B(3.0)-40DP-0.5V
+
+0
+43
+40
+w_conn_df12
+df12b(3.0)-40ds-0.5v
+Hirose DF12 series connector, DF12B(3.0)-40DS-0.5V
+
+0
+43
+40
+w_conn_df12
+df12b(3.0)-50dp-0.5v
+Hirose DF12 series connector, DF12B(3.0)-50DP-0.5V
+
+0
+53
+50
+w_conn_df12
+df12b(3.0)-50ds-0.5v
+Hirose DF12 series connector, DF12B(3.0)-50DS-0.5V
+
+0
+53
+50
+w_conn_df12
+df12b(3.0)-60dp-0.5v
+Hirose DF12 series connector, DF12B(3.0)-60DP-0.5V
+
+0
+63
+60
+w_conn_df12
+df12b(3.0)-60ds-0.5v
+Hirose DF12 series connector, DF12B(3.0)-60DS-0.5V
+
+0
+63
+60
+w_conn_df12
+df12b(3.0)-80dp-0.5v
+Hirose DF12 series connector, DF12B(3.0)-80DP-0.5V
+
+0
+83
+80
+w_conn_df12
+df12b(3.0)-80ds-0.5v
+Hirose DF12 series connector, DF12B(3.0)-80DS-0.5V
+
+0
+83
+80
+w_conn_df12
+df12c(3.0)-10ds-0.5v
+Hirose DF12 series connector, DF12C(3.0)-10DS-0.5V
+
+0
+11
+10
+w_conn_df12
+df12c(3.0)-14ds-0.5v
+Hirose DF12 series connector, DF12C(3.0)-14DS-0.5V
+
+0
+15
+14
+w_conn_df12
+df12c(3.0)-20ds-0.5v
+Hirose DF12 series connector, DF12C(3.0)-20DS-0.5V
+
+0
+21
+20
+w_conn_df12
+df12c(3.0)-30ds-0.5v
+Hirose DF12 series connector, DF12C(3.0)-30DS-0.5V
+
+0
+31
+30
+w_conn_df12
+df12c(3.0)-32ds-0.5v
+Hirose DF12 series connector, DF12C(3.0)-32DS-0.5V
+
+0
+33
+32
+w_conn_df12
+df12c(3.0)-36ds-0.5v
+Hirose DF12 series connector, DF12C(3.0)-36DS-0.5V
+
+0
+37
+36
+w_conn_df12
+df12c(3.0)-40ds-0.5v
+Hirose DF12 series connector, DF12C(3.0)-40DS-0.5V
+
+0
+41
+40
+w_conn_df12
+df12c(3.0)-50ds-0.5v
+Hirose DF12 series connector, DF12C(3.0)-50DS-0.5V
+
+0
+51
+50
+w_conn_df12
+df12c(3.0)-60ds-0.5v
+Hirose DF12 series connector, DF12C(3.0)-60DS-0.5V
+
+0
+61
+60
+w_conn_df12
+df12c(3.0)-80ds-0.5v
+Hirose DF12 series connector, DF12C(3.0)-80DS-0.5V
+
+0
+81
+80
+w_conn_df12
+df12d(3.0)-10dp-0.5v
+Hirose DF12 series connector, DF12D(3.0)-10DP-0.5V
+
+0
+11
+10
+w_conn_df12
+df12d(3.0)-14dp-0.5v
+Hirose DF12 series connector, DF12D(3.0)-14DP-0.5V
+
+0
+15
+14
+w_conn_df12
+df12d(3.0)-20dp-0.5v
+Hirose DF12 series connector, DF12D(3.0)-20DP-0.5V
+
+0
+21
+20
+w_conn_df12
+df12d(3.0)-30dp-0.5v
+Hirose DF12 series connector, DF12D(3.0)-30DP-0.5V
+
+0
+31
+30
+w_conn_df12
+df12d(3.0)-32dp-0.5v
+Hirose DF12 series connector, DF12D(3.0)-32DP-0.5V
+
+0
+33
+32
+w_conn_df12
+df12d(3.0)-36dp-0.5v
+Hirose DF12 series connector, DF12D(3.0)-36DP-0.5V
+
+0
+37
+36
+w_conn_df12
+df12d(3.0)-40dp-0.5v
+Hirose DF12 series connector, DF12D(3.0)-40DP-0.5V
+
+0
+41
+40
+w_conn_df12
+df12d(3.0)-50dp-0.5v
+Hirose DF12 series connector, DF12D(3.0)-50DP-0.5V
+
+0
+51
+50
+w_conn_df12
+df12d(3.0)-60dp-0.5v
+Hirose DF12 series connector, DF12D(3.0)-60DP-0.5V
+
+0
+61
+60
+w_conn_df12
+df12d(3.0)-80dp-0.5v
+Hirose DF12 series connector, DF12D(3.0)-80DP-0.5V
+
+0
+81
+80
+w_conn_df12
+df12e(3.0)-10dp-0.5v
+Hirose DF12 series connector, DF12E(3.0)-10DP-0.5V
+
+0
+11
+10
+w_conn_df12
+df12e(3.0)-14dp-0.5v
+Hirose DF12 series connector, DF12E(3.0)-14DP-0.5V
+
+0
+15
+14
+w_conn_df12
+df12e(3.0)-20dp-0.5v
+Hirose DF12 series connector, DF12E(3.0)-20DP-0.5V
+
+0
+21
+20
+w_conn_df12
+df12e(3.0)-30dp-0.5v
+Hirose DF12 series connector, DF12E(3.0)-30DP-0.5V
+
+0
+31
+30
+w_conn_df12
+df12e(3.0)-32dp-0.5v
+Hirose DF12 series connector, DF12E(3.0)-32DP-0.5V
+
+0
+33
+32
+w_conn_df12
+df12e(3.0)-36dp-0.5v
+Hirose DF12 series connector, DF12E(3.0)-36DP-0.5V
+
+0
+37
+36
+w_conn_df12
+df12e(3.0)-40dp-0.5v
+Hirose DF12 series connector, DF12E(3.0)-40DP-0.5V
+
+0
+41
+40
+w_conn_df12
+df12e(3.0)-50dp-0.5v
+Hirose DF12 series connector, DF12E(3.0)-50DP-0.5V
+
+0
+51
+50
+w_conn_df12
+df12e(3.0)-60dp-0.5v
+Hirose DF12 series connector, DF12E(3.0)-60DP-0.5V
+
+0
+61
+60
+w_conn_df12
+df12e(3.0)-80dp-0.5v
+Hirose DF12 series connector, DF12E(3.0)-80DP-0.5V
+
+0
+81
+80
+w_conn_df13
+df13-2p-125ds
+Hirose DF13 series, DF13-2P-1.25DS
+
+0
+2
+2
+w_conn_df13
+df13-2p-125dsa
+Hirose DF13 series, DF13-2P-1.25DSA
+
+0
+2
+2
+w_conn_df13
+df13-2p-125h
+Hirose DF13 series, DF13-2P-1.25H
+
+0
+4
+2
+w_conn_df13
+df13-3p-125ds
+Hirose DF13 series, DF13-3P-1.25DS
+
+0
+3
+3
+w_conn_df13
+df13-3p-125dsa
+Hirose DF13 series, DF13-3P-1.25DSA
+
+0
+3
+3
+w_conn_df13
+df13-3p-125h
+Hirose DF13 series, DF13-3P-1.25H
+
+0
+5
+3
+w_conn_df13
+df13-4p-125ds
+Hirose DF13 series, DF13-4P-1.25DS
+
+0
+4
+4
+w_conn_df13
+df13-4p-125dsa
+Hirose DF13 series, DF13-4P-1.25DSA
+
+0
+4
+4
+w_conn_df13
+df13-4p-125h
+Hirose DF13 series, DF13-4P-1.25H
+
+0
+6
+4
+w_conn_df13
+df13-5p-125ds
+Hirose DF13 series, DF13-5P-1.25DS
+
+0
+5
+5
+w_conn_df13
+df13-5p-125dsa
+Hirose DF13 series, DF13-5P-1.25DSA
+
+0
+5
+5
+w_conn_df13
+df13-5p-125h
+Hirose DF13 series, DF13-5P-1.25H
+
+0
+7
+5
+w_conn_df13
+df13-6p-125ds
+Hirose DF13 series, DF13-6P-1.25DS
+
+0
+6
+6
+w_conn_df13
+df13-6p-125dsa
+Hirose DF13 series, DF13-6P-1.25DSA
+
+0
+6
+6
+w_conn_df13
+df13-6p-125h
+Hirose DF13 series, DF13-6P-1.25H
+
+0
+8
+6
+w_conn_df13
+df13-7p-125ds
+Hirose DF13 series, DF13-7P-1.25DS
+
+0
+7
+7
+w_conn_df13
+df13-7p-125dsa
+Hirose DF13 series, DF13-7P-1.25DSA
+
+0
+7
+7
+w_conn_df13
+df13-7p-125h
+Hirose DF13 series, DF13-7P-1.25H
+
+0
+9
+7
+w_conn_df13
+df13-8p-125ds
+Hirose DF13 series, DF13-8P-1.25DS
+
+0
+8
+8
+w_conn_df13
+df13-8p-125dsa
+Hirose DF13 series, DF13-8P-1.25DSA
+
+0
+8
+8
+w_conn_df13
+df13-8p-125h
+Hirose DF13 series, DF13-8P-1.25H
+
+0
+10
+8
+w_conn_df13
+df13-9p-125ds
+Hirose DF13 series, DF13-9P-1.25DS
+
+0
+9
+9
+w_conn_df13
+df13-9p-125dsa
+Hirose DF13 series, DF13-9P-1.25DSA
+
+0
+9
+9
+w_conn_df13
+df13-9p-125h
+Hirose DF13 series, DF13-9P-1.25H
+
+0
+11
+9
+w_conn_df13
+df13-10p-125ds
+Hirose DF13 series, DF13-10P-1.25DS
+
+0
+10
+10
+w_conn_df13
+df13-10p-125dsa
+Hirose DF13 series, DF13-10P-1.25DSA
+
+0
+10
+10
+w_conn_df13
+df13-10p-125h
+Hirose DF13 series, DF13-10P-1.25H
+
+0
+12
+10
+w_conn_df13
+df13-11p-125ds
+Hirose DF13 series, DF13-11P-1.25DS
+
+0
+11
+11
+w_conn_df13
+df13-11p-125dsa
+Hirose DF13 series, DF13-11P-1.25DSA
+
+0
+11
+11
+w_conn_df13
+df13-11p-125h
+Hirose DF13 series, DF13-11P-1.25H
+
+0
+13
+11
+w_conn_df13
+df13-12p-125ds
+Hirose DF13 series, DF13-12P-1.25DS
+
+0
+12
+12
+w_conn_df13
+df13-12p-125dsa
+Hirose DF13 series, DF13-12P-1.25DSA
+
+0
+12
+12
+w_conn_df13
+df13-12p-125h
+Hirose DF13 series, DF13-12P-1.25H
+
+0
+14
+12
+w_conn_df13
+df13-13p-125dsa
+Hirose DF13 series, DF13-13P-1.25DSA
+
+0
+13
+13
+w_conn_df13
+df13-14p-125ds
+Hirose DF13 series, DF13-14P-1.25DS
+
+0
+14
+14
+w_conn_df13
+df13-14p-125dsa
+Hirose DF13 series, DF13-14P-1.25DSA
+
+0
+14
+14
+w_conn_df13
+df13-14p-125h
+Hirose DF13 series, DF13-14P-1.25H
+
+0
+16
+14
+w_conn_df13
+df13-15p-125ds
+Hirose DF13 series, DF13-15P-1.25DS
+
+0
+15
+15
+w_conn_df13
+df13-15p-125dsa
+Hirose DF13 series, DF13-15P-1.25DSA
+
+0
+15
+15
+w_conn_df13
+df13-15p-125h
+Hirose DF13 series, DF13-15P-1.25H
+
+0
+17
+15
+w_conn_df13
+df13a-2p-125h
+Hirose DF13 series, DF13A-2P-1.25H
+
+0
+4
+2
+w_conn_df13
+df13a-3p-125h
+Hirose DF13 series, DF13A-3P-1.25H
+
+0
+5
+3
+w_conn_df13
+df13a-4p-125h
+Hirose DF13 series, DF13A-4P-1.25H
+
+0
+6
+4
+w_conn_df13
+df13a-5p-125h
+Hirose DF13 series, DF13A-5P-1.25H
+
+0
+7
+5
+w_conn_df13
+df13a-6p-125h
+Hirose DF13 series, DF13A-6P-1.25H
+
+0
+8
+6
+w_conn_df13
+df13a-7p-125h
+Hirose DF13 series, DF13A-7P-1.25H
+
+0
+9
+7
+w_conn_df13
+df13a-8p-125h
+Hirose DF13 series, DF13A-8P-1.25H
+
+0
+10
+8
+w_conn_df13
+df13a-9p-125h
+Hirose DF13 series, DF13A-9P-1.25H
+
+0
+11
+9
+w_conn_df13
+df13a-10dp-125v
+Hirose DF13 series, DF13A-10DP-1.25V
+
+0
+13
+8
+w_conn_df13
+df13a-10p-125h
+Hirose DF13 series, DF13A-10P-1.25H
+
+0
+12
+10
+w_conn_df13
+df13a-11p-125h
+Hirose DF13 series, DF13A-11P-1.25H
+
+0
+13
+11
+w_conn_df13
+df13a-12p-125h
+Hirose DF13 series, DF13A-12P-1.25H
+
+0
+14
+12
+w_conn_df13
+df13a-14p-125h
+Hirose DF13 series, DF13A-14P-1.25H
+
+0
+16
+14
+w_conn_df13
+df13a-15p-125h
+Hirose DF13 series, DF13A-15P-1.25H
+
+0
+17
+15
+w_conn_df13
+df13a-20dp-125v
+Hirose DF13 series, DF13A-20DP-1.25V
+
+0
+23
+20
+w_conn_df13
+df13a-30dp-125v
+Hirose DF13 series, DF13A-30DP-1.25V
+
+0
+33
+30
+w_conn_df13
+df13a-40dp-125v
+Hirose DF13 series, DF13A-40DP-1.25V
+
+0
+43
+40
+w_conn_df13
+df13c-2p-125v
+Hirose DF13 series, DF13C-2P-1.25V
+
+0
+5
+2
+w_conn_df13
+df13c-3p-125v
+Hirose DF13 series, DF13C-3P-1.25V
+
+0
+6
+3
+w_conn_df13
+df13c-4p-125v
+Hirose DF13 series, DF13C-4P-1.25V
+
+0
+7
+4
+w_conn_df13
+df13c-5p-125v
+Hirose DF13 series, DF13C-5P-1.25V
+
+0
+8
+5
+w_conn_df13
+df13c-6p-125v
+Hirose DF13 series, DF13C-6P-1.25V
+
+0
+9
+6
+w_conn_df13
+df13c-7p-125v
+Hirose DF13 series, DF13C-7P-1.25V
+
+0
+10
+7
+w_conn_df13
+df13c-8p-125v
+Hirose DF13 series, DF13C-8P-1.25V
+
+0
+11
+8
+w_conn_df13
+df13c-9p-125v
+Hirose DF13 series, DF13C-9P-1.25V
+
+0
+12
+9
+w_conn_df13
+df13c-10p-125v
+Hirose DF13 series, DF13C-10P-1.25V
+
+0
+13
+10
+w_conn_df13
+df13c-11p-125v
+Hirose DF13 series, DF13C-11P-1.25V
+
+0
+14
+11
+w_conn_df13
+df13c-12p-125v
+Hirose DF13 series, DF13C-12P-1.25V
+
+0
+15
+12
+w_conn_df13
+df13c-14p-125v
+Hirose DF13 series, DF13C-14P-1.25V
+
+0
+17
+14
+w_conn_df13
+df13c-15p-125v
+Hirose DF13 series, DF13C-15P-1.25V
+
+0
+18
+15
+w_conn_ftsh
+ftsh-105-01-l-dv
+Smd dual-row strip connector, 5x2 pin, 1.27mm pitch
+
+0
+10
+10
+w_conn_gmkds
+gmkds_3-2-7,62
+2-way 7,62mm pitch terminal block, Phoenix GMKDS series
+
+0
+2
+2
+w_conn_gmkds
+gmkds_3-3-7,62
+3-way 7,62mm pitch terminal block, Phoenix GMKDS series
+
+0
+3
+3
+w_conn_jst-ph
+b2b-ph-kl
+JST PH series connector, B2B-PH-KL
+
+0
+2
+2
+w_conn_jst-ph
+b3b-ph-kl
+JST PH series connector, B3B-PH-KL
+
+0
+3
+3
+w_conn_jst-ph
+b4b-ph-kl
+JST PH series connector, B4B-PH-KL
+
+0
+4
+4
+w_conn_jst-ph
+b5b-ph-kl
+JST PH series connector, B5B-PH-KL
+
+0
+5
+5
+w_conn_jst-ph
+b6b-ph-kl
+JST PH series connector, B6B-PH-KL
+
+0
+6
+6
+w_conn_jst-ph
+b7b-ph-kl
+JST PH series connector, B7B-PH-KL
+
+0
+7
+7
+w_conn_jst-ph
+b8b-ph-kl
+JST PH series connector, B8B-PH-KL
+
+0
+8
+8
+w_conn_jst-ph
+b9b-ph-kl
+JST PH series connector, B9B-PH-KL
+
+0
+9
+9
+w_conn_jst-ph
+b10b-ph-kl
+JST PH series connector, B10B-PH-KL
+
+0
+10
+10
+w_conn_jst-ph
+b11b-ph-kl
+JST PH series connector, B11B-PH-KL
+
+0
+11
+11
+w_conn_jst-ph
+b12b-ph-kl
+JST PH series connector, B12B-PH-KL
+
+0
+12
+12
+w_conn_jst-ph
+b13b-ph-kl
+JST PH series connector, B13B-PH-KL
+
+0
+13
+13
+w_conn_jst-ph
+b14b-ph-kl
+JST PH series connector, B14B-PH-KL
+
+0
+14
+14
+w_conn_jst-ph
+b15b-ph-kl
+JST PH series connector, B15B-PH-KL
+
+0
+15
+15
+w_conn_jst-ph
+b16b-ph-kl
+JST PH series connector, B16B-PH-KL
+
+0
+16
+16
+w_conn_jst-ph
+s2b-ph-kl
+JST PH series connector, S2B-PH-KL
+
+0
+2
+2
+w_conn_jst-ph
+s2b-ph-sm4-tb
+JST PH series connector, S2B-PH-SM4-TB
+
+0
+4
+2
+w_conn_jst-ph
+s3b-ph-kl
+JST PH series connector, S3B-PH-KL
+
+0
+3
+3
+w_conn_jst-ph
+s3b-ph-sm4-tb
+JST PH series connector, S3B-PH-SM4-TB
+
+0
+5
+3
+w_conn_jst-ph
+s4b-ph-kl
+JST PH series connector, S4B-PH-KL
+
+0
+4
+4
+w_conn_jst-ph
+s4b-ph-sm4-tb
+JST PH series connector, S4B-PH-SM4-TB
+
+0
+6
+4
+w_conn_jst-ph
+s5b-ph-kl
+JST PH series connector, S5B-PH-KL
+
+0
+5
+5
+w_conn_jst-ph
+s5b-ph-sm4-tb
+JST PH series connector, S5B-PH-SM4-TB
+
+0
+7
+5
+w_conn_jst-ph
+s6b-ph-kl
+JST PH series connector, S6B-PH-KL
+
+0
+6
+6
+w_conn_jst-ph
+s6b-ph-sm4-tb
+JST PH series connector, S6B-PH-SM4-TB
+
+0
+8
+6
+w_conn_jst-ph
+s7b-ph-kl
+JST PH series connector, S7B-PH-KL
+
+0
+7
+7
+w_conn_jst-ph
+s7b-ph-sm4-tb
+JST PH series connector, S7B-PH-SM4-TB
+
+0
+9
+7
+w_conn_jst-ph
+s8b-ph-kl
+JST PH series connector, S8B-PH-KL
+
+0
+8
+8
+w_conn_jst-ph
+s8b-ph-sm4-tb
+JST PH series connector, S8B-PH-SM4-TB
+
+0
+10
+8
+w_conn_jst-ph
+s9b-ph-kl
+JST PH series connector, S9B-PH-KL
+
+0
+9
+9
+w_conn_jst-ph
+s9b-ph-sm4-tb
+JST PH series connector, S9B-PH-SM4-TB
+
+0
+11
+9
+w_conn_jst-ph
+s10b-ph-kl
+JST PH series connector, S10B-PH-KL
+
+0
+10
+10
+w_conn_jst-ph
+s10b-ph-sm4-tb
+JST PH series connector, S10B-PH-SM4-TB
+
+0
+12
+10
+w_conn_jst-ph
+s11b-ph-kl
+JST PH series connector, S11B-PH-KL
+
+0
+11
+11
+w_conn_jst-ph
+s11b-ph-sm4-tb
+JST PH series connector, S11B-PH-SM4-TB
+
+0
+13
+11
+w_conn_jst-ph
+s12b-ph-kl
+JST PH series connector, S12B-PH-KL
+
+0
+12
+12
+w_conn_jst-ph
+s12b-ph-sm4-tb
+JST PH series connector, S12B-PH-SM4-TB
+
+0
+14
+12
+w_conn_jst-ph
+s13b-ph-kl
+JST PH series connector, S13B-PH-KL
+
+0
+13
+13
+w_conn_jst-ph
+s13b-ph-sm4-tb
+JST PH series connector, S13B-PH-SM4-TB
+
+0
+15
+13
+w_conn_jst-ph
+s14b-ph-kl
+JST PH series connector, S14B-PH-KL
+
+0
+14
+14
+w_conn_jst-ph
+s14b-ph-sm4-tb
+JST PH series connector, S14B-PH-SM4-TB
+
+0
+16
+14
+w_conn_jst-ph
+s15b-ph-kl
+JST PH series connector, S15B-PH-KL
+
+0
+15
+15
+w_conn_jst-ph
+s15b-ph-sm4-tb
+JST PH series connector, S15B-PH-SM4-TB
+
+0
+17
+15
+w_conn_jst-ph
+s16b-ph-kl
+JST PH series connector, S16B-PH-KL
+
+0
+16
+16
+w_conn_kk100
+kk100_22-23-2021
+2 pin vert. connector, Molex KK100 series
+
+0
+2
+2
+w_conn_kk100
+kk100_22-23-2031
+3 pin vert. connector, Molex KK100 series
+
+0
+3
+3
+w_conn_kk100
+kk100_22-23-2041
+4 pin vert. connector, Molex KK100 series
+
+0
+4
+4
+w_conn_kk100
+kk100_22-23-2051
+5 pin vert. connector, Molex KK100 series
+
+0
+5
+5
+w_conn_kk100
+kk100_22-23-2061
+6 pin vert. connector, Molex KK100 series
+
+0
+6
+6
+w_conn_kk100
+kk100_22-23-2071
+7 pin vert. connector, Molex KK100 series
+
+0
+7
+7
+w_conn_kk100
+kk100_22-23-2081
+8 pin vert. connector, Molex KK100 series
+
+0
+8
+8
+w_conn_kk100
+kk100_22-23-2091
+9 pin vert. connector, Molex KK100 series
+
+0
+9
+9
+w_conn_kk100
+kk100_22-23-2101
+10 pin vert. connector, Molex KK100 series
+
+0
+10
+10
+w_conn_kk100
+kk100_22-23-2111
+11 pin vert. connector, Molex KK100 series
+
+0
+11
+11
+w_conn_kk100
+kk100_22-23-2121
+12 pin vert. connector, Molex KK100 series
+
+0
+12
+12
+w_conn_kk100
+kk100_22-23-2131
+13 pin vert. connector, Molex KK100 series
+
+0
+13
+13
+w_conn_kk100
+kk100_22-23-2141
+14 pin vert. connector, Molex KK100 series
+
+0
+14
+14
+w_conn_kk100
+kk100_22-23-2151
+15 pin vert. connector, Molex KK100 series
+
+0
+15
+15
+w_conn_kk100
+kk100_22-23-2161
+16 pin vert. connector, Molex KK100 series
+
+0
+16
+16
+w_conn_kk100
+kk100_22-23-2171
+17 pin vert. connector, Molex KK100 series
+
+0
+17
+17
+w_conn_kk100
+kk100_22-23-2181
+18 pin vert. connector, Molex KK100 series
+
+0
+18
+18
+w_conn_kk100
+kk100_22-23-2191
+19 pin vert. connector, Molex KK100 series
+
+0
+19
+19
+w_conn_kk100
+kk100_22-23-2201
+20 pin vert. connector, Molex KK100 series
+
+0
+20
+20
+w_conn_kk100
+kk100_22-23-2211
+21 pin vert. connector, Molex KK100 series
+
+0
+21
+21
+w_conn_kk100
+kk100_22-23-2221
+22 pin vert. connector, Molex KK100 series
+
+0
+22
+22
+w_conn_kk100
+kk100_22-23-2231
+23 pin vert. connector, Molex KK100 series
+
+0
+23
+23
+w_conn_kk100
+kk100_22-23-2241
+24 pin vert. connector, Molex KK100 series
+
+0
+24
+24
+w_conn_kk100
+kk100_22-23-2251
+25 pin vert. connector, Molex KK100 series
+
+0
+25
+25
+w_conn_kk100
+kk100_22-23-2261
+26 pin vert. connector, Molex KK100 series
+
+0
+26
+26
+w_conn_kk100
+kk100_22-23-2271
+27 pin vert. connector, Molex KK100 series
+
+0
+27
+27
+w_conn_kk100
+kk100_22-23-2281
+28 pin vert. connector, Molex KK100 series
+
+0
+28
+28
+w_conn_kk156
+kk156_26-60-4020
+2 pin vert. connector, Molex KK156 series
+
+0
+2
+2
+w_conn_kk156
+kk156_26-60-4030
+3 pin vert. connector, Molex KK156 series
+
+0
+3
+3
+w_conn_kk156
+kk156_26-60-4040
+4 pin vert. connector, Molex KK156 series
+
+0
+4
+4
+w_conn_kk156
+kk156_26-60-4050
+5 pin vert. connector, Molex KK156 series
+
+0
+5
+5
+w_conn_kk156
+kk156_26-60-4060
+6 pin vert. connector, Molex KK156 series
+
+0
+6
+6
+w_conn_kk156
+kk156_26-60-4070
+7 pin vert. connector, Molex KK156 series
+
+0
+7
+7
+w_conn_kk156
+kk156_26-60-4080
+8 pin vert. connector, Molex KK156 series
+
+0
+8
+8
+w_conn_kk156
+kk156_26-60-4090
+9 pin vert. connector, Molex KK156 series
+
+0
+9
+9
+w_conn_kk156
+kk156_26-60-4100
+10 pin vert. connector, Molex KK156 series
+
+0
+10
+10
+w_conn_kk156
+kk156_26-60-4110
+11 pin vert. connector, Molex KK156 series
+
+0
+11
+11
+w_conn_kk156
+kk156_26-60-4120
+12 pin vert. connector, Molex KK156 series
+
+0
+12
+12
+w_conn_kk156
+kk156_26-60-4130
+13 pin vert. connector, Molex KK156 series
+
+0
+13
+13
+w_conn_kk156
+kk156_26-60-4140
+14 pin vert. connector, Molex KK156 series
+
+0
+14
+14
+w_conn_kk156
+kk156_26-60-4150
+15 pin vert. connector, Molex KK156 series
+
+0
+15
+15
+w_conn_kk156
+kk156_26-60-4160
+16 pin vert. connector, Molex KK156 series
+
+0
+16
+16
+w_conn_kk156
+kk156_26-60-4170
+17 pin vert. connector, Molex KK156 series
+
+0
+17
+17
+w_conn_kk156
+kk156_26-60-4180
+18 pin vert. connector, Molex KK156 series
+
+0
+18
+18
+w_conn_kk156
+kk156_26-64-4020
+2 pin vert. connector with peg, Molex KK156 series
+
+0
+2
+2
+w_conn_kk156
+kk156_26-64-4030
+3 pin vert. connector with peg, Molex KK156 series
+
+0
+3
+3
+w_conn_kk156
+kk156_26-64-4040
+4 pin vert. connector with peg, Molex KK156 series
+
+0
+4
+4
+w_conn_kk156
+kk156_26-64-4050
+5 pin vert. connector with peg, Molex KK156 series
+
+0
+5
+5
+w_conn_kk156
+kk156_26-64-4060
+6 pin vert. connector with peg, Molex KK156 series
+
+0
+6
+6
+w_conn_kk156
+kk156_26-64-4070
+7 pin vert. connector with peg, Molex KK156 series
+
+0
+7
+7
+w_conn_kk156
+kk156_26-64-4080
+8 pin vert. connector with peg, Molex KK156 series
+
+0
+8
+8
+w_conn_kk156
+kk156_26-64-4090
+9 pin vert. connector with peg, Molex KK156 series
+
+0
+9
+9
+w_conn_kk156
+kk156_26-64-4100
+10 pin vert. connector with peg, Molex KK156 series
+
+0
+10
+10
+w_conn_kk156
+kk156_26-64-4110
+11 pin vert. connector with peg, Molex KK156 series
+
+0
+11
+11
+w_conn_kk156
+kk156_26-64-4120
+12 pin vert. connector with peg, Molex KK156 series
+
+0
+12
+12
+w_conn_misc
+6p4c
+6p4c socket
+
+0
+4
+4
+w_conn_misc
+6p6c
+6p6c socket
+
+0
+6
+6
+w_conn_misc
+8p8c
+8p8c socket
+
+0
+8
+8
+w_conn_misc
+arduino_header
+Arduino Header
+Arduino
+0
+32
+32
+w_conn_misc
+arduino_mega_header
+Arduino Mega/Due Header
+Arduino
+0
+86
+86
+w_conn_misc
+arduino_nano_header
+Arduino Nano Header
+Arduino
+0
+30
+30
+w_conn_misc
+arduino_pin_socket_8
+Pin socket 8pin for Arduino exp. boards
+CONN DEV
+0
+8
+8
+w_conn_misc
+dc_socket
+Socket, DC power supply
+
+0
+3
+3
+w_conn_misc
+dc_socket_rh
+Socket, DC power supply, round holes
+
+0
+18
+3
+w_conn_misc
+microsd_socket
+MicroSD Card socket, Molex P/N 502774-0811
+
+0
+14
+10
+w_conn_misc
+molex_6p6c
+RJ11 6p6c socket, Molex P/N 95009-7667
+
+0
+6
+6
+w_conn_misc
+sd_socket
+SD Card socket, 4UCON P/N 19607
+
+0
+17
+12
+w_conn_misc
+stm32f0_discovery_header
+STM32 F0 Discovery Header
+STM32F0 Discovery
+0
+66
+66
+w_conn_misc
+stm32f3_discovery_header
+STM32 F3 Discovery Header
+STM32F3 Discovery
+0
+106
+100
+w_conn_misc
+stm32f4_discovery_header
+STM32 F4 Discovery Header
+STM32F4 Discovery
+0
+104
+100
+w_conn_misc
+stm32vl_discovery_header
+STM32 Value Line Discovery Header
+STM32VL Discovery
+0
+62
+62
+w_conn_mkds
+mkds_1,5-2
+2-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+2
+2
+w_conn_mkds
+mkds_1,5-3
+3-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+3
+3
+w_conn_mkds
+mkds_1,5-4
+4-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+4
+4
+w_conn_mkds
+mkds_1,5-5
+5-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+5
+5
+w_conn_mkds
+mkds_1,5-6
+6-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+6
+6
+w_conn_mkds
+mkds_1,5-7
+7-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+7
+7
+w_conn_mkds
+mkds_1,5-8
+8-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+8
+8
+w_conn_mkds
+mkds_1,5-9
+9-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+9
+9
+w_conn_mkds
+mkds_1,5-10
+10-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+10
+10
+w_conn_mkds
+mkds_1,5-11
+11-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+11
+11
+w_conn_mkds
+mkds_1,5-12
+12-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+12
+12
+w_conn_mkds
+mkds_1,5-13
+13-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+13
+13
+w_conn_mkds
+mkds_1,5-14
+14-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+14
+14
+w_conn_mkds
+mkds_1,5-15
+15-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+15
+15
+w_conn_mkds
+mkds_1,5-16
+16-way 5mm pitch terminal block, Phoenix MKDS series
+
+0
+16
+16
+w_conn_modu
+AMP-MODU-2
+AMP modu 2 pins
+CONN DEV AMP MODU
+0
+2
+2
+w_conn_modu
+AMP-MODU-4
+AMP modu 4 pins
+CONN DEV AMP MODU
+0
+4
+4
+w_conn_modu
+AMP-MODU-6
+AMP modu 6 pins
+CONN DEV AMP MODU
+0
+6
+6
+w_conn_modu
+AMP-MODU-8
+AMP modu 8 pins
+CONN DEV AMP MODU
+0
+8
+8
+w_conn_modu
+AMP-MODU-9
+AMP modu 9 pins
+CONN DEV AMP MODU
+0
+9
+9
+w_conn_modu
+AMP-MODU-10
+AMP modu 10 pins
+CONN DEV AMP MODU
+0
+10
+10
+w_conn_modu
+AMP-MODU-12
+AMP modu 12 pins
+CONN DEV AMP MODU
+0
+12
+12
+w_conn_modu
+AMP-MODU-15
+AMP modu 15 pins
+CONN DEV AMP MODU
+0
+15
+15
+w_conn_modu
+AMP-MODU-22
+AMP modu 22 pins
+CONN DEV AMP MODU
+0
+22
+22
+w_conn_mpt
+mpt_0,5%2f2-2,54
+2-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+2
+2
+w_conn_mpt
+mpt_0,5%2f3-2,54
+3-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+3
+3
+w_conn_mpt
+mpt_0,5%2f4-2,54
+4-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+4
+4
+w_conn_mpt
+mpt_0,5%2f5-2,54
+5-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+5
+5
+w_conn_mpt
+mpt_0,5%2f6-2,54
+6-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+6
+6
+w_conn_mpt
+mpt_0,5%2f7-2,54
+7-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+7
+7
+w_conn_mpt
+mpt_0,5%2f8-2,54
+8-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+8
+8
+w_conn_mpt
+mpt_0,5%2f9-2,54
+9-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+9
+9
+w_conn_mpt
+mpt_0,5%2f10-2,54
+10-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+10
+10
+w_conn_mpt
+mpt_0,5%2f11-2,54
+11-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+11
+11
+w_conn_mpt
+mpt_0,5%2f12-2,54
+12-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+12
+12
+w_conn_panelmate
+panelmate_smd_2
+PanelMate connector 2-way, Molex P/N 53780-0270
+
+0
+4
+3
+w_conn_panelmate
+panelmate_smd_3
+PanelMate connector 3-way, Molex P/N 53780-0370
+
+0
+5
+4
+w_conn_panelmate
+panelmate_smd_4
+PanelMate connector 4-way, Molex P/N 53780-0470
+
+0
+6
+5
+w_conn_panelmate
+panelmate_smd_5
+PanelMate connector 5-way, Molex P/N 53780-0570
+
+0
+7
+6
+w_conn_panelmate
+panelmate_smd_6
+PanelMate connector 6-way, Molex P/N 53780-0670
+
+0
+8
+7
+w_conn_panelmate
+panelmate_smd_7
+PanelMate connector 7-way, Molex P/N 53780-0770
+
+0
+9
+8
+w_conn_panelmate
+panelmate_smd_8
+PanelMate connector 8-way, Molex P/N 53780-0870
+
+0
+10
+9
+w_conn_panelmate
+panelmate_smd_9
+PanelMate connector 9-way, Molex P/N 53780-0970
+
+0
+11
+10
+w_conn_panelmate
+panelmate_smd_10
+PanelMate connector 10-way, Molex P/N 53780-1070
+
+0
+12
+11
+w_conn_panelmate
+panelmate_smd_12
+PanelMate connector 12-way, Molex P/N 53780-1270
+
+0
+14
+13
+w_conn_panelmate
+panelmate_smd_14
+PanelMate connector 14-way, Molex P/N 53780-1470
+
+0
+16
+15
+w_conn_panelmate
+panelmate_smd_15
+PanelMate connector 15-way, Molex P/N 53780-1570
+
+0
+17
+16
+w_conn_panelmate
+panelmate_smd_18
+PanelMate connector 18-way, Molex P/N 53780-1870
+
+0
+20
+19
+w_conn_panelmate
+panelmate_smd_20
+PanelMate connector 20-way, Molex P/N 53780-2070
+
+0
+22
+21
+w_conn_panelmate
+panelmate_smd_30
+PanelMate connector 30-way, Molex P/N 53780-3070
+
+0
+32
+31
+w_conn_pc
+DB_15F-VGA
+D-SUB 15 pin VGA socket, Tyco P/N 440467-1
+
+0
+17
+15
+w_conn_pc
+conn_hdd_15-24-4441
+5.08mm Disk drive power connector, 90°, Molex P/N 15-24-4441
+
+0
+4
+4
+w_conn_pc
+conn_hdd_15-24-4449
+5.08mm Disk drive power connector, Molex P/N 15-24-4449
+
+0
+4
+4
+w_conn_pc
+conn_usb_A
+USB A-type receptacle, Tyco P/N 292303-3
+
+0
+6
+4
+w_conn_pc
+conn_usb_A-vert
+USB A-type vertical receptacle, Tyco P/N 440260-2
+
+0
+8
+4
+w_conn_pc
+conn_usb_A-vert2
+USB A-type vertical receptacle, Lumberg P/N 2410-01
+
+0
+6
+4
+w_conn_pc
+conn_usb_Ax2
+USB A-type receptacle, 2x stacked, Tyco P/N 5787617-3
+
+0
+12
+8
+w_conn_pc
+conn_usb_B
+USB B-type receptacle, Lumberg P/N 2411-02
+USB
+0
+6
+4
+w_conn_pc
+conn_usb_B-vert
+USB B-type vertical receptacle, Molex series 67265
+USB
+0
+8
+4
+w_conn_pc
+conn_usb_B_micro_smd
+USB B micro SMD connector, Molex P/N 47346-0001
+
+0
+11
+5
+w_conn_pc
+conn_usb_B_micro_smd-2
+USB B micro SMD connector with retention pins
+
+0
+9
+5
+w_conn_pc
+conn_usb_B_mini_smd
+USB B mini SMD connector
+
+0
+9
+5
+w_conn_pc
+dvi
+DVI connector, Tyco P/N 1-1734147-1
+
+0
+32
+29
+w_conn_pc
+pci-x_conn-x1
+PCI-X 1x card edge connector, FCI P/N 10018783-10x00x
+
+0
+36
+36
+w_conn_pc
+pci-x_conn-x4
+PCI-X 4x card edge connector, FCI P/N 10018783-10x01x
+
+0
+64
+64
+w_conn_pc
+pci-x_conn-x8
+PCI-X 8x card edge connector, FCI P/N 10018783-10x02x
+
+0
+98
+98
+w_conn_pc
+pci-x_conn-x16
+PCI-X 16x card edge connector, FCI P/N 10018783-10x03x
+
+0
+164
+164
+w_conn_pc
+pci_conn
+PCI card edge connector, Molex P/N 48200-60xx
+
+0
+120
+120
+w_conn_pc
+rj45-noshield
+RJ45, unshielded
+
+0
+8
+8
+w_conn_pc
+rj45-shield
+RJ45, shielded
+
+0
+10
+8
+w_conn_pc
+rj45-tyco-2-406549-7
+RJ45 + led indicators, Tyco P/N 2-406549-7
+
+0
+14
+12
+w_conn_pc
+rj45-tyco-5-6605758-4
+RJ45 + led indicators, Tyco P/N 5-6605758-4
+
+0
+14
+12
+w_conn_pc
+rj45-wiznet-rb1-125bag1a
+RJ45 + led indicators, Wiznet P/N RB1-125BAG1A
+
+0
+14
+13
+w_conn_pc
+rj45_wurth-7499211122a
+RJ45 + led + 10/100BaseT mag + PoE, Wurth P/N 7499211122a
+
+0
+15
+14
+w_conn_pt-1,5
+pt_1,5-2-3,5-h
+2-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+2
+2
+w_conn_pt-1,5
+pt_1,5-3-3,5-h
+3-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+3
+3
+w_conn_pt-1,5
+pt_1,5-4-3,5-h
+4-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+4
+4
+w_conn_pt-1,5
+pt_1,5-5-3,5-h
+5-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+5
+5
+w_conn_pt-1,5
+pt_1,5-6-3,5-h
+6-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+6
+6
+w_conn_pt-1,5
+pt_1,5-7-3,5-h
+7-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+7
+7
+w_conn_pt-1,5
+pt_1,5-8-3,5-h
+8-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+8
+8
+w_conn_pt-1,5
+pt_1,5-9-3,5-h
+9-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+9
+9
+w_conn_pt-1,5
+pt_1,5-10-3,5-h
+10-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+10
+10
+w_conn_pt-1,5
+pt_1,5-11-3,5-h
+11-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+11
+11
+w_conn_pt-1,5
+pt_1,5-12-3,5-h
+12-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+12
+12
+w_conn_pt-1,5
+pt_1,5-13-3,5-h
+13-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+13
+13
+w_conn_pt-1,5
+pt_1,5-14-3,5-h
+14-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+14
+14
+w_conn_pt-1,5
+pt_1,5-15-3,5-h
+15-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+15
+15
+w_conn_pt-1,5
+pt_1,5-16-3,5-h
+16-way 3.5mm pitch terminal block, Phoenix PT series
+
+0
+16
+16
+w_conn_rf
+bnc_90_1-1337543-0
+BNC connector, Tyco 1-1337543-0
+
+0
+2
+2
+w_conn_rf
+bnc_straight_1-1337541-0
+BNC connector, Tyco 1-1337541-0
+
+0
+2
+2
+w_conn_rf
+coaxial_u.fl-r-smt-1
+Ultra small surface mount coaxial connector, Hirose U.FL-R-SMT-1
+
+0
+3
+2
+w_conn_rf
+lemo_epb00250ntn
+LEMO connector, EPB.00.250.NTN
+
+0
+5
+2
+w_conn_rf
+sma_90_r300.124.403
+SMA 90° female connector, reverse polarity, Radiall R300.124.403
+
+0
+5
+2
+w_conn_rf
+sma_smd_73251-135x
+SMA straight SMD female connector, Molex 73251-135x
+
+0
+5
+2
+w_conn_rf
+sma_straight_32k101-400l5
+SMA straight female connector, Rosenberger 32K101-400L5
+
+0
+5
+2
+w_conn_screw
+mors_2p
+Terminal block 2 pins
+DEV
+0
+2
+2
+w_conn_screw
+mors_3p
+Terminal block 3 pins
+DEV
+0
+3
+3
+w_conn_screw
+mors_4p
+Terminal block 4 pins
+DEV
+0
+4
+4
+w_conn_screw
+mors_5p
+Terminal block 5 pins
+DEV
+0
+5
+5
+w_conn_screw
+mors_6p
+Terminal block 6 pins
+DEV
+0
+6
+6
+w_conn_screw
+mors_7p
+Terminal block 7 pins
+DEV
+0
+7
+7
+w_conn_screw
+mors_8p
+Terminal block 8 pins
+DEV
+0
+8
+8
+w_conn_screw
+mors_9p
+Terminal block 9 pins
+DEV
+0
+9
+9
+w_conn_screw
+mors_10p
+Terminal block 10 pins
+DEV
+0
+10
+10
+w_conn_screw
+mors_11p
+Terminal block 11 pins
+DEV
+0
+11
+11
+w_conn_screw
+mors_12p
+Terminal block 12 pins
+DEV
+0
+12
+12
+w_conn_screw
+mors_13p
+Terminal block 13 pins
+DEV
+0
+13
+13
+w_conn_screw
+mors_14p
+Terminal block 14 pins
+DEV
+0
+14
+14
+w_conn_screw
+mors_15p
+Terminal block 15 pins
+DEV
+0
+15
+15
+w_conn_screw
+mors_16p
+Terminal block 16 pins
+DEV
+0
+16
+16
+w_conn_screw
+mors_17p
+Terminal block 17 pins
+DEV
+0
+17
+17
+w_conn_screw
+mors_18p
+Terminal block 18 pins
+DEV
+0
+18
+18
+w_conn_screw
+mors_19p
+Terminal block 19 pins
+DEV
+0
+19
+19
+w_conn_screw
+mors_20p
+Terminal block 20 pins
+DEV
+0
+20
+20
+w_conn_screw
+mstba_2,5%2f2-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/2-G-5,08
+
+0
+2
+2
+w_conn_screw
+mstba_2,5%2f3-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/3-G-5,08
+
+0
+3
+3
+w_conn_screw
+mstba_2,5%2f4-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/4-G-5,08
+
+0
+4
+4
+w_conn_screw
+mstba_2,5%2f5-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/5-G-5,08
+
+0
+5
+5
+w_conn_screw
+mstba_2,5%2f6-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/6-G-5,08
+
+0
+6
+6
+w_conn_screw
+mstba_2,5%2f7-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/7-G-5,08
+
+0
+7
+7
+w_conn_screw
+mstba_2,5%2f8-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/8-G-5,08
+
+0
+8
+8
+w_conn_screw
+mstba_2,5%2f9-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/9-G-5,08
+
+0
+9
+9
+w_conn_screw
+mstba_2,5%2f10-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/10-G-5,08
+
+0
+10
+10
+w_conn_screw
+mstba_2,5%2f11-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/11-G-5,08
+
+0
+11
+11
+w_conn_screw
+mstba_2,5%2f12-g-5,08
+Terminal block 2 pins, Phoenix MSTBA 2,5/12-G-5,08
+
+0
+12
+12
+w_conn_screw
+mstbva_2,5%2f2-g-5,08
+Terminal block 2 pins, Phoenix MSTBVA 2,5/2-G-5,08
+DEV
+0
+2
+2
+w_conn_screw
+mstbva_2,5%2f3-g-5,08
+Terminal block 3 pins, Phoenix MSTBVA 2,5/3-G-5,08
+DEV
+0
+3
+3
+w_conn_screw
+mstbva_2,5%2f4-g-5,08
+Terminal block 4 pins, Phoenix MSTBVA 2,5/4-G-5,08
+DEV
+0
+4
+4
+w_conn_screw
+mstbva_2,5%2f5-g-5,08
+Terminal block 5 pins, Phoenix MSTBVA 2,5/5-G-5,08
+DEV
+0
+5
+5
+w_conn_screw
+mstbva_2,5%2f6-g-5,08
+Terminal block 6 pins, Phoenix MSTBVA 2,5/6-G-5,08
+DEV
+0
+6
+6
+w_conn_screw
+mstbva_2,5%2f7-g-5,08
+Terminal block 7 pins, Phoenix MSTBVA 2,5/7-G-5,08
+DEV
+0
+7
+7
+w_conn_screw
+mstbva_2,5%2f8-g-5,08
+Terminal block 8 pins, Phoenix MSTBVA 2,5/8-G-5,08
+DEV
+0
+8
+8
+w_conn_screw
+mstbva_2,5%2f9-g-5,08
+Terminal block 9 pins, Phoenix MSTBVA 2,5/9-G-5,08
+DEV
+0
+9
+9
+w_conn_screw
+mstbva_2,5%2f10-g-5,08
+Terminal block 10 pins, Phoenix MSTBVA 2,5/10-G-5,08
+DEV
+0
+10
+10
+w_conn_screw
+mstbva_2,5%2f11-g-5,08
+Terminal block 11 pins, Phoenix MSTBVA 2,5/11-G-5,08
+DEV
+0
+11
+11
+w_conn_screw
+mstbva_2,5%2f12-g-5,08
+Terminal block 12 pins, Phoenix MSTBVA 2,5/12-G-5,08
+DEV
+0
+12
+12
+w_conn_strip
+vasch_strip_3x2
+Box header 3x2pin 2.54mm
+CONN DEV
+0
+6
+6
+w_conn_strip
+vasch_strip_3x2_90
+Box header 3x2pin 90° 2.54mm
+CONN DEV
+0
+6
+6
+w_conn_strip
+vasch_strip_4x2
+Box header 4x2pin 2.54mm
+CONN DEV
+0
+8
+8
+w_conn_strip
+vasch_strip_4x2_90
+Box header 4x2pin 90° 2.54mm
+CONN DEV
+0
+8
+8
+w_conn_strip
+vasch_strip_5x2
+Box header 5x2pin 2.54mm
+CONN DEV
+0
+10
+10
+w_conn_strip
+vasch_strip_5x2_90
+Box header 5x2pin 90° 2.54mm
+CONN DEV
+0
+10
+10
+w_conn_strip
+vasch_strip_6x2
+Box header 6x2pin 2.54mm
+CONN DEV
+0
+12
+12
+w_conn_strip
+vasch_strip_6x2_90
+Box header 6x2pin 90° 2.54mm
+CONN DEV
+0
+12
+12
+w_conn_strip
+vasch_strip_7x2
+Box header 7x2pin 2.54mm
+CONN DEV
+0
+14
+14
+w_conn_strip
+vasch_strip_7x2_90
+Box header 7x2pin 90° 2.54mm
+CONN DEV
+0
+14
+14
+w_conn_strip
+vasch_strip_8x2
+Box header 8x2pin 2.54mm
+CONN DEV
+0
+16
+16
+w_conn_strip
+vasch_strip_8x2_90
+Box header 8x2pin 90° 2.54mm
+CONN DEV
+0
+16
+16
+w_conn_strip
+vasch_strip_9x2
+Box header 9x2pin 2.54mm
+CONN DEV
+0
+18
+18
+w_conn_strip
+vasch_strip_9x2_90
+Box header 9x2pin 90° 2.54mm
+CONN DEV
+0
+18
+18
+w_conn_strip
+vasch_strip_10x2
+Box header 10x2pin 2.54mm
+CONN DEV
+0
+20
+20
+w_conn_strip
+vasch_strip_10x2_90
+Box header 10x2pin 90° 2.54mm
+CONN DEV
+0
+20
+20
+w_conn_strip
+vasch_strip_12x2
+Box header 12x2pin 2.54mm
+CONN DEV
+0
+24
+24
+w_conn_strip
+vasch_strip_12x2_90
+Box header 12x2pin 90° 2.54mm
+CONN DEV
+0
+24
+24
+w_conn_strip
+vasch_strip_13x2
+Box header 13x2pin 2.54mm
+CONN DEV
+0
+26
+26
+w_conn_strip
+vasch_strip_13x2_90
+Box header 13x2pin 90° 2.54mm
+CONN DEV
+0
+26
+26
+w_conn_strip
+vasch_strip_15x2
+Box header 15x2pin 2.54mm
+CONN DEV
+0
+30
+30
+w_conn_strip
+vasch_strip_15x2_90
+Box header 15x2pin 90° 2.54mm
+CONN DEV
+0
+30
+30
+w_conn_strip
+vasch_strip_16x2
+Box header 16x2pin 2.54mm
+CONN DEV
+0
+32
+32
+w_conn_strip
+vasch_strip_16x2_90
+Box header 16x2pin 90° 2.54mm
+CONN DEV
+0
+32
+32
+w_conn_strip
+vasch_strip_17x2
+Box header 17x2pin 2.54mm
+CONN DEV
+0
+34
+34
+w_conn_strip
+vasch_strip_17x2_90
+Box header 17x2pin 90° 2.54mm
+CONN DEV
+0
+34
+34
+w_conn_strip
+vasch_strip_18x2
+Box header 18x2pin 2.54mm
+CONN DEV
+0
+36
+36
+w_conn_strip
+vasch_strip_18x2_90
+Box header 18x2pin 90° 2.54mm
+CONN DEV
+0
+36
+36
+w_conn_strip
+vasch_strip_20x2
+Box header 20x2pin 2.54mm
+CONN DEV
+0
+40
+40
+w_conn_strip
+vasch_strip_20x2_90
+Box header 20x2pin 90° 2.54mm
+CONN DEV
+0
+40
+40
+w_conn_strip
+vasch_strip_25x2
+Box header 25x2pin 2.54mm
+CONN DEV
+0
+50
+50
+w_conn_strip
+vasch_strip_25x2_90
+Box header 25x2pin 90° 2.54mm
+CONN DEV
+0
+50
+50
+w_conn_strip
+vasch_strip_30x2
+Box header 30x2pin 2.54mm
+CONN DEV
+0
+60
+60
+w_conn_strip
+vasch_strip_30x2_90
+Box header 30x2pin 90° 2.54mm
+CONN DEV
+0
+60
+60
+w_conn_strip
+vasch_strip_32x2
+Box header 32x2pin 2.54mm
+CONN DEV
+0
+64
+64
+w_conn_strip
+vasch_strip_32x2_90
+Box header 32x2pin 90° 2.54mm
+CONN DEV
+0
+64
+64
+w_crystal
+crystal_fa128
+FA-128 ultra miniature size low profile SMD Crystal unit
+
+0
+4
+4
+w_crystal
+crystal_hc-49s
+Crystal, HC-49S
+QUARTZ
+0
+2
+2
+w_crystal
+crystal_hc-49u
+Crystal, HC-49U
+QUARTZ
+0
+2
+2
+w_crystal
+crystal_hc-49u_horiz
+Crystal, HC-49U, horizontal
+QUARTZ
+0
+2
+2
+w_crystal
+crystal_smd_5x3.2mm
+5x3.2mm SMD glass Crystal
+
+0
+2
+2
+w_crystal
+crystal_smd_ma-406
+Epson MA-406 SMD crystal
+
+0
+4
+3
+w_crystal
+crystal_smd_ma-505
+Epson MA-505 SMD crystal
+
+0
+2
+2
+w_crystal
+crystal_smd_ma-506
+Epson MA-506 SMD crystal
+
+0
+4
+3
+w_crystal
+crystal_tc-26
+Crystal, TC-26
+QUARTZ
+0
+2
+2
+w_crystal
+crystal_tc-26_horiz
+Crystal, TC-26, horizontal
+QUARTZ
+0
+3
+2
+w_crystal
+crystal_tc-38
+Crystal, TC-38
+QUARTZ
+0
+2
+2
+w_crystal
+crystal_tc-38_horiz
+Crystal, TC-38, horizontal
+QUARTZ
+0
+3
+2
+w_crystal
+crystal_xrcgb
+Murata XRCGB SMD Crystal unit
+
+0
+4
+3
+w_crystal
+hc-49_smd
+Crystal, HC-49/SMD
+QUARTZ
+0
+2
+2
+w_crystal
+resonator_awscr
+Abracon AWSCR SMD Resonator unit
+
+0
+6
+3
+w_crystal
+resonator_sip3
+Ceramic resonator, SIP-3
+RESONATOR
+0
+3
+3
+w_details
+3-way_bridge_0603
+3-way solder bridge, 0603
+
+0
+3
+3
+w_details
+4-way_bridge_0603
+4-way solder bridge, 0603
+
+0
+4
+4
+w_details
+6-way_bridge_0603
+6-way solder bridge, 0603
+
+0
+6
+6
+w_details
+fiducial_075_300_round
+fiducial mark, 0.75mm + 3mm round
+
+0
+2
+1
+w_details
+fiducial_075_300_square
+fiducial mark, 0.75mm + 3mm square
+
+0
+2
+1
+w_details
+fiducial_100_200_round
+fiducial mark, 1mm + 2mm round
+
+0
+2
+1
+w_details
+fiducial_100_200_square
+fiducial mark, 1mm + 2mm square
+
+0
+2
+1
+w_details
+fiducial_100_300_round
+fiducial mark, 1mm + 3mm round
+
+0
+2
+1
+w_details
+fiducial_100_300_square
+fiducial mark, 1mm + 3mm square
+
+0
+2
+1
+w_details
+hole_1mm
+Hole 1mm
+
+0
+1
+1
+w_details
+hole_1mm5
+Hole 1.5mm
+
+0
+1
+1
+w_details
+hole_2mm
+Hole 2mm
+
+0
+1
+1
+w_details
+hole_2mm5
+Hole 2.5mm
+
+0
+1
+1
+w_details
+hole_3mm
+Hole 3mm
+
+0
+1
+1
+w_details
+hole_3mm5
+Hole 3.5mm
+
+0
+1
+1
+w_details
+hole_4mm
+Hole 4mm
+
+0
+1
+1
+w_details
+hole_4mm5
+Hole 4.5mm
+
+0
+1
+1
+w_details
+hole_5mm
+Hole 5mm
+
+0
+1
+1
+w_details
+hole_5mm5
+Hole 5.5mm
+
+0
+1
+1
+w_details
+hole_6mm
+Hole 6mm
+
+0
+1
+1
+w_details
+hole_6mm5
+Hole 6.5mm
+
+0
+1
+1
+w_details
+hole_7mm
+Hole 7mm
+
+0
+1
+1
+w_details
+hole_7mm5
+Hole 7.5mm
+
+0
+1
+1
+w_details
+hole_8mm
+Hole 8mm
+
+0
+1
+1
+w_details
+hole_8mm5
+Hole 8.5mm
+
+0
+1
+1
+w_details
+hole_9mm
+Hole 9mm
+
+0
+1
+1
+w_details
+hole_9mm5
+Hole 9.5mm
+
+0
+1
+1
+w_details
+hole_10mm
+Hole 10mm
+
+0
+1
+1
+w_details
+hs_11cw_to220
+11°C/W heat sink for TO220
+
+0
+2
+0
+w_details
+hs_14cw_to220
+14°C/W heat sink for TO220
+
+0
+2
+0
+w_details
+hs_5770
+Aavid 5770 type heatsink
+
+0
+1
+0
+w_details
+hs_5771
+Aavid 5771 type heatsink
+
+0
+1
+0
+w_details
+hs_5772
+Aavid 5772 type heatsink
+
+0
+1
+0
+w_details
+hs_5901
+Aavid 5901 type Heatsink
+
+0
+2
+0
+w_details
+hs_5903
+Aavid 5903 type Heatsink
+
+0
+2
+0
+w_details
+pad_2mm
+Pad 2mm
+
+0
+1
+1
+w_details
+pad_3mm
+Pad 3mm
+
+0
+1
+1
+w_details
+testpoint_1mm
+TestPoint 1mm
+
+0
+1
+1
+w_details
+testpoint_1mm5
+TestPoint 1.5mm
+
+0
+1
+1
+w_details
+testpoint_2mm
+TestPoint 2mm
+
+0
+1
+1
+w_details
+testpoint_2mm5
+TestPoint 2.5mm
+
+0
+1
+1
+w_details
+vite_2mm5
+vite 2,5mm
+
+0
+1
+1
+w_indicators
+7segdisp
+7 segments display
+display
+0
+10
+10
+w_indicators
+7segdisp_HDSP
+7 segments display, Avago HDSP
+display
+0
+10
+10
+w_indicators
+7segdisp_acda02
+.2" SMD dual digit display, Kingbright ACDA02
+
+0
+20
+20
+w_indicators
+7segdisp_sa05
+7 segments display, SA05 series
+display
+0
+10
+10
+w_indicators
+7segdisp_sa50
+5" 7 segments display, Kingbright SA50 series
+display
+0
+10
+10
+w_indicators
+7segdisp_sa52
+7 segments display, SA52 series
+display
+0
+10
+10
+w_indicators
+dotdisp_cmd557xx00
+dot matrix display, CMD-557XX00
+display
+0
+14
+14
+w_indicators
+lcd_16x2
+LCD Module, 16x2
+
+0
+16
+16
+w_indicators
+lcd_16x2_nmtc-s16205dfyhsay
+LCD Module, 16x2, Microtips NMTC-S16205DFYHSAY
+
+0
+16
+16
+w_indicators
+lcd_20x4
+LCD Module, 20x4
+
+0
+16
+16
+w_indicators
+lcd_g-128x64
+LCD Graphic Module, 128x64, Microtips MTG-12864A
+
+0
+20
+20
+w_indicators
+led_3mm_clear
+3mm clear led
+led
+0
+2
+2
+w_indicators
+led_3mm_green
+3mm green led
+led
+0
+2
+2
+w_indicators
+led_3mm_red
+3mm red led
+led
+0
+2
+2
+w_indicators
+led_3mm_yellow
+3mm yellow led
+led
+0
+2
+2
+w_indicators
+led_5mm_clear
+5mm clear led
+led
+0
+2
+2
+w_indicators
+led_5mm_green
+5mm green led
+led
+0
+2
+2
+w_indicators
+led_5mm_red
+5mm red led
+led
+0
+2
+2
+w_indicators
+led_5mm_yellow
+5mm yellow led
+led
+0
+2
+2
+w_indicators
+led_10mm_clear
+10mm (T-3) clear led
+led
+0
+2
+2
+w_indicators
+led_10mm_green
+10mm (T-3) green led
+led
+0
+2
+2
+w_indicators
+led_10mm_red
+10mm (T-3) red led
+led
+0
+2
+2
+w_indicators
+led_10mm_yellow
+10mm (T-3) yellow led
+led
+0
+2
+2
+w_logo
+Logo_copper_CC-BY-NC-SA_5x2mm
+CC BY-NC-SA logo, 5x2mm
+
+0
+0
+0
+w_logo
+Logo_copper_CC-BY-NC-SA_10x3.6mm
+CC BY-NC-SA logo, 10x3.6mm
+
+0
+0
+0
+w_logo
+Logo_copper_CC-BY-SA_5x2mm
+CC BY-SA logo, 5x2mm
+
+0
+0
+0
+w_logo
+Logo_copper_CC-BY-SA_10x4.5mm
+CC BY-SA logo, 10x4.5mm
+
+0
+0
+0
+w_logo
+Logo_copper_CE_5x3.6mm
+CE logo, 5x3.6mm
+
+0
+0
+0
+w_logo
+Logo_copper_CE_10x7.2mm
+CE logo, 10x7.2mm
+
+0
+0
+0
+w_logo
+Logo_copper_Lead-Free_5x5mm
+Lead Free logo, 5x5mm
+
+0
+0
+0
+w_logo
+Logo_copper_Lead-Free_10x10mm
+Lead Free logo, 10x10mm
+
+0
+0
+0
+w_logo
+Logo_copper_OSHW_6x6mm
+Open Hardware Logo, 6x6mm
+
+0
+0
+0
+w_logo
+Logo_copper_OSHW_12x13mm
+Open Hardware Logo, 12x13mm
+
+0
+0
+0
+w_logo
+Logo_copper_ROHS_5x2.8mm
+ROHS logo, 5x2.8mm
+
+0
+0
+0
+w_logo
+Logo_copper_ROHS_10x5.6mm
+ROHS logo, 10x5.6mm
+
+0
+0
+0
+w_logo
+Logo_copper_UR-C-US_5x2mm
+UL Recognized C+US logo, 5x2mm
+
+0
+0
+0
+w_logo
+Logo_copper_UR-C-US_10x4mm
+UL Recognized C+US logo, 10x4mm
+
+0
+0
+0
+w_logo
+Logo_copper_UR-C_5x2.5mm
+UL Recognized C logo, 5x2.5mm
+
+0
+0
+0
+w_logo
+Logo_copper_UR-C_10x4.5mm
+UL Recognized C logo, 10x4.5mm
+
+0
+0
+0
+w_logo
+Logo_copper_UR-US_5x2mm
+UL Recognized US logo, 5x2mm
+
+0
+0
+0
+w_logo
+Logo_copper_UR-US_10x4mm
+UL Recognized US logo, 10x4mm
+
+0
+0
+0
+w_logo
+Logo_copper_UR_5x3mm
+UL Recognized logo, 5x3mm
+
+0
+0
+0
+w_logo
+Logo_copper_UR_10x5.6mm
+UL Recognized logo, 10x5.6mm
+
+0
+0
+0
+w_logo
+Logo_copper_WEEE_3.4x5mm
+WEEE logo, 3.4x5mm
+
+0
+0
+0
+w_logo
+Logo_copper_WEEE_8x10mm
+WEEE logo, 8x10mm
+
+0
+0
+0
+w_logo
+Logo_copper_high_voltage_5x4.2mm
+High voltage logo, 5x4.2mm
+
+0
+0
+0
+w_logo
+Logo_copper_high_voltage_10x8.5mm
+High voltage logo, 10x8.5mm
+
+0
+0
+0
+w_logo
+Logo_copper_polarity_center_5x1.4mm
+Polarity logo, positive center, 5x1.4mm
+
+0
+0
+0
+w_logo
+Logo_copper_polarity_center_10x2.8mm
+Polarity logo, positive center, 10x2.8mm
+
+0
+0
+0
+w_logo
+Logo_copper_polarity_external_5x1.4mm
+Polarity logo, negative center, 5x1.4mm
+
+0
+0
+0
+w_logo
+Logo_copper_polarity_external_10x2.8mm
+Polarity logo, negative center, 10x2.8mm
+
+0
+0
+0
+w_logo
+Logo_copper_warning_5x4.2mm
+Warning logo, 5x4.2mm
+
+0
+0
+0
+w_logo
+Logo_copper_warning_10x8.5mm
+Warning logo, 10x8.5mm
+
+0
+0
+0
+w_logo
+Logo_silk_CC-BY-NC-SA_5x2mm
+CC BY-NC-SA logo, 5x2mm
+
+0
+0
+0
+w_logo
+Logo_silk_CC-BY-NC-SA_10x3.6mm
+CC BY-NC-SA logo, 10x3.6mm
+
+0
+0
+0
+w_logo
+Logo_silk_CC-BY-SA_5x2mm
+CC BY-SA logo, 5x2mm
+
+0
+0
+0
+w_logo
+Logo_silk_CC-BY-SA_10x4.5mm
+CC BY-SA logo, 10x4.5mm
+
+0
+0
+0
+w_logo
+Logo_silk_CE_5x3.6mm
+CE logo, 5x3.6mm
+
+0
+0
+0
+w_logo
+Logo_silk_CE_10x7.2mm
+CE logo, 10x7.2mm
+
+0
+0
+0
+w_logo
+Logo_silk_Lead-Free_5x5mm
+Lead Free logo, 5x5mm
+
+0
+0
+0
+w_logo
+Logo_silk_Lead-Free_10x10mm
+Lead Free logo, 10x10mm
+
+0
+0
+0
+w_logo
+Logo_silk_OSHW_6x6mm
+Open Hardware Logo, 6x6mm
+
+0
+0
+0
+w_logo
+Logo_silk_OSHW_12x13mm
+Open Hardware Logo, 12x13mm
+
+0
+0
+0
+w_logo
+Logo_silk_ROHS_5x2.8mm
+ROHS logo, 5x2.8mm
+
+0
+0
+0
+w_logo
+Logo_silk_ROHS_10x5.6mm
+ROHS logo, 10x5.6mm
+
+0
+0
+0
+w_logo
+Logo_silk_UR-C-US_5x2mm
+UL Recognized C+US logo, 5x2mm
+
+0
+0
+0
+w_logo
+Logo_silk_UR-C-US_10x4mm
+UL Recognized C+US logo, 10x4mm
+
+0
+0
+0
+w_logo
+Logo_silk_UR-C_5x2.5mm
+UL Recognized C logo, 5x2.5mm
+
+0
+0
+0
+w_logo
+Logo_silk_UR-C_10x4.5mm
+UL Recognized C logo, 10x4.5mm
+
+0
+0
+0
+w_logo
+Logo_silk_UR-US_5x2mm
+UL Recognized US logo, 5x2mm
+
+0
+0
+0
+w_logo
+Logo_silk_UR-US_10x4mm
+UL Recognized US logo, 10x4mm
+
+0
+0
+0
+w_logo
+Logo_silk_UR_5x3mm
+UL Recognized logo, 5x3mm
+
+0
+0
+0
+w_logo
+Logo_silk_UR_10x5.6mm
+UL Recognized logo, 10x5.6mm
+
+0
+0
+0
+w_logo
+Logo_silk_WEEE_3.4x5mm
+WEEE logo, 3.4x5mm
+
+0
+0
+0
+w_logo
+Logo_silk_WEEE_8x10mm
+WEEE logo, 8x10mm
+
+0
+0
+0
+w_logo
+Logo_silk_high_voltage_5x4.2mm
+High voltage logo, 5x4.2mm
+
+0
+0
+0
+w_logo
+Logo_silk_high_voltage_10x8.5mm
+High voltage logo, 10x8.5mm
+
+0
+0
+0
+w_logo
+Logo_silk_polarity_center_5x1.4mm
+Polarity logo, positive center, 5x1.4mm
+
+0
+0
+0
+w_logo
+Logo_silk_polarity_center_10x2.8mm
+Polarity logo, positive center, 10x2.8mm
+
+0
+0
+0
+w_logo
+Logo_silk_polarity_external_5x1.4mm
+Polarity logo, negative center, 5x1.4mm
+
+0
+0
+0
+w_logo
+Logo_silk_polarity_external_10x2.8mm
+Polarity logo, negative center, 10x2.8mm
+
+0
+0
+0
+w_logo
+Logo_silk_warning_5x4.2mm
+Warning logo, 5x4.2mm
+
+0
+0
+0
+w_logo
+Logo_silk_warning_10x8.5mm
+Warning logo, 10x8.5mm
+
+0
+0
+0
+w_misc_comp
+buzzer_sg13j12
+Buzzer, Kingstate SG13J12
+buzzer
+0
+3
+2
+w_misc_comp
+buzzer_tmb
+Buzzer, TMB
+buzzer
+0
+2
+2
+w_misc_comp
+encoder_alps-ec12d
+12mm rotary encoder, Alps EC12D
+encoder
+0
+7
+5
+w_misc_comp
+encoder_alps-ec12e
+12mm rotary encoder, Alps EC12E
+encoder
+0
+5
+3
+w_misc_comp
+fuse_holder_CQ-2
+Fuse holder, 5x20, CQ-200C
+fuse
+0
+2
+2
+w_misc_comp
+fuse_smf
+Fuse Holder SMF, Littelfuse
+Fuse
+0
+2
+2
+w_misc_comp
+inductor_8mm-p5
+Inductor, 8mm p5
+
+0
+2
+2
+w_misc_comp
+inductor_1400_24,4x14_p23,6
+Murata 1400 series power inductorinductor, 24,4x14mm p23,6
+
+0
+2
+2
+w_misc_comp
+inductor_1400_24,4x18,5_p23,5
+Murata 1400 series power inductorinductor, 24,4x18,5mm p23,5
+
+0
+2
+2
+w_misc_comp
+trafo_ei38
+EI38 Transformer
+fuse
+0
+6
+6
+w_misc_rf
+antenna_47948
+Molex SMD antenna, 47948
+
+0
+4
+1
+w_misc_rf
+antenna_flavus
+Antenova Flavus GSM Snap-In antenna
+
+0
+1
+1
+w_misc_rf
+antenna_rufa_a5839
+Antenova Rufa SMD antenna, A5839
+
+0
+5
+2
+w_misc_rf
+antenna_rufa_a5887
+Antenova Rufa SMD antenna, A5887
+
+0
+5
+2
+w_misc_rf
+balun_2450bm15
+Johanson Technology Balun filter 2450BM15
+
+0
+6
+6
+w_pga
+cpga-132
+Ceramic PGA, 132 pins
+
+0
+133
+133
+w_pin_strip
+PIN_SOCKET_19
+Pin socket 19pin
+CONN DEV
+0
+19
+19
+w_pin_strip
+pin_socket_1
+Pin socket 1pin
+CONN DEV
+0
+1
+1
+w_pin_strip
+pin_socket_2
+Pin socket 2pin
+CONN DEV
+0
+2
+2
+w_pin_strip
+pin_socket_2mm_1
+Pin socket 2mm 1pin
+CONN DEV
+0
+1
+1
+w_pin_strip
+pin_socket_2mm_2
+Pin socket 2mm 2pin
+CONN DEV
+0
+2
+2
+w_pin_strip
+pin_socket_2mm_2x2
+Pin socket 2mm 2x2pin
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_socket_2mm_3
+Pin socket 2mm 3pin
+CONN DEV
+0
+3
+3
+w_pin_strip
+pin_socket_2mm_3x2
+Pin socket 2mm 3x2pin
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_socket_2mm_4
+Pin socket 2mm 4pin
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_socket_2mm_4x2
+Pin socket 2mm 4x2pin
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_socket_2mm_5
+Pin socket 2mm 5pin
+CONN DEV
+0
+5
+5
+w_pin_strip
+pin_socket_2mm_5x2
+Pin socket 2mm 5x2pin
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_socket_2mm_6
+Pin socket 2mm 6pin
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_socket_2mm_6x2
+Pin socket 2mm 6x2pin
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_socket_2mm_7
+Pin socket 2mm 7pin
+CONN DEV
+0
+7
+7
+w_pin_strip
+pin_socket_2mm_7x2
+Pin socket 2mm 7x2pin
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_socket_2mm_8
+Pin socket 2mm 8pin
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_socket_2mm_8x2
+Pin socket 2mm 8x2pin
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_socket_2mm_9
+Pin socket 2mm 9pin
+CONN DEV
+0
+9
+9
+w_pin_strip
+pin_socket_2mm_9x2
+Pin socket 2mm 9x2pin
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_socket_2mm_10
+Pin socket 2mm 10pin
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_socket_2mm_10x2
+Pin socket 2mm 10x2pin
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_socket_2mm_11
+Pin socket 2mm 11pin
+CONN DEV
+0
+11
+11
+w_pin_strip
+pin_socket_2mm_11x2
+Pin socket 2mm 11x2pin
+CONN DEV
+0
+22
+22
+w_pin_strip
+pin_socket_2mm_12
+Pin socket 2mm 12pin
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_socket_2mm_12x2
+Pin socket 2mm 12x2pin
+CONN DEV
+0
+24
+24
+w_pin_strip
+pin_socket_2mm_13
+Pin socket 2mm 13pin
+CONN DEV
+0
+13
+13
+w_pin_strip
+pin_socket_2mm_13x2
+Pin socket 2mm 13x2pin
+CONN DEV
+0
+26
+26
+w_pin_strip
+pin_socket_2mm_14
+Pin socket 2mm 14pin
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_socket_2mm_14x2
+Pin socket 2mm 14x2pin
+CONN DEV
+0
+28
+28
+w_pin_strip
+pin_socket_2mm_15
+Pin socket 2mm 15pin
+CONN DEV
+0
+15
+15
+w_pin_strip
+pin_socket_2mm_15x2
+Pin socket 2mm 15x2pin
+CONN DEV
+0
+30
+30
+w_pin_strip
+pin_socket_2mm_16
+Pin socket 2mm 16pin
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_socket_2mm_16x2
+Pin socket 2mm 16x2pin
+CONN DEV
+0
+32
+32
+w_pin_strip
+pin_socket_2mm_17
+Pin socket 2mm 17pin
+CONN DEV
+0
+17
+17
+w_pin_strip
+pin_socket_2mm_17x2
+Pin socket 2mm 17x2pin
+CONN DEV
+0
+34
+34
+w_pin_strip
+pin_socket_2mm_18
+Pin socket 2mm 18pin
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_socket_2mm_18x2
+Pin socket 2mm 18x2pin
+CONN DEV
+0
+36
+36
+w_pin_strip
+pin_socket_2mm_19
+Pin socket 2mm 19pin
+CONN DEV
+0
+19
+19
+w_pin_strip
+pin_socket_2mm_19x2
+Pin socket 2mm 19x2pin
+CONN DEV
+0
+38
+38
+w_pin_strip
+pin_socket_2mm_20
+Pin socket 2mm 20pin
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_socket_2mm_20x2
+Pin socket 2mm 20x2pin
+CONN DEV
+0
+40
+40
+w_pin_strip
+pin_socket_2mm_21
+Pin socket 2mm 21pin
+CONN DEV
+0
+21
+21
+w_pin_strip
+pin_socket_2mm_21x2
+Pin socket 2mm 21x2pin
+CONN DEV
+0
+42
+42
+w_pin_strip
+pin_socket_2mm_22
+Pin socket 2mm 22pin
+CONN DEV
+0
+22
+22
+w_pin_strip
+pin_socket_2mm_22x2
+Pin socket 2mm 22x2pin
+CONN DEV
+0
+44
+44
+w_pin_strip
+pin_socket_2mm_23
+Pin socket 2mm 23pin
+CONN DEV
+0
+23
+23
+w_pin_strip
+pin_socket_2mm_23x2
+Pin socket 2mm 23x2pin
+CONN DEV
+0
+46
+46
+w_pin_strip
+pin_socket_2mm_24
+Pin socket 2mm 24pin
+CONN DEV
+0
+24
+24
+w_pin_strip
+pin_socket_2mm_24x2
+Pin socket 2mm 24x2pin
+CONN DEV
+0
+48
+48
+w_pin_strip
+pin_socket_2mm_25
+Pin socket 2mm 25pin
+CONN DEV
+0
+25
+25
+w_pin_strip
+pin_socket_2mm_25x2
+Pin socket 2mm 25x2pin
+CONN DEV
+0
+50
+50
+w_pin_strip
+pin_socket_2mm_26
+Pin socket 2mm 26pin
+CONN DEV
+0
+26
+26
+w_pin_strip
+pin_socket_2mm_26x2
+Pin socket 2mm 26x2pin
+CONN DEV
+0
+52
+52
+w_pin_strip
+pin_socket_2mm_27
+Pin socket 2mm 27pin
+CONN DEV
+0
+27
+27
+w_pin_strip
+pin_socket_2mm_27x2
+Pin socket 2mm 27x2pin
+CONN DEV
+0
+54
+54
+w_pin_strip
+pin_socket_2mm_28
+Pin socket 2mm 28pin
+CONN DEV
+0
+28
+28
+w_pin_strip
+pin_socket_2mm_28x2
+Pin socket 2mm 28x2pin
+CONN DEV
+0
+56
+56
+w_pin_strip
+pin_socket_2mm_29
+Pin socket 2mm 29pin
+CONN DEV
+0
+29
+29
+w_pin_strip
+pin_socket_2mm_29x2
+Pin socket 2mm 29x2pin
+CONN DEV
+0
+58
+58
+w_pin_strip
+pin_socket_2mm_30
+Pin socket 2mm 30pin
+CONN DEV
+0
+30
+30
+w_pin_strip
+pin_socket_2mm_30x2
+Pin socket 2mm 30x2pin
+CONN DEV
+0
+60
+60
+w_pin_strip
+pin_socket_2mm_31
+Pin socket 2mm 31pin
+CONN DEV
+0
+31
+31
+w_pin_strip
+pin_socket_2mm_31x2
+Pin socket 2mm 31x2pin
+CONN DEV
+0
+62
+62
+w_pin_strip
+pin_socket_2mm_32
+Pin socket 2mm 32pin
+CONN DEV
+0
+32
+32
+w_pin_strip
+pin_socket_2mm_32x2
+Pin socket 2mm 32x2pin
+CONN DEV
+0
+64
+64
+w_pin_strip
+pin_socket_2mm_33
+Pin socket 2mm 33pin
+CONN DEV
+0
+33
+33
+w_pin_strip
+pin_socket_2mm_33x2
+Pin socket 2mm 33x2pin
+CONN DEV
+0
+66
+66
+w_pin_strip
+pin_socket_2mm_34
+Pin socket 2mm 34pin
+CONN DEV
+0
+34
+34
+w_pin_strip
+pin_socket_2mm_34x2
+Pin socket 2mm 34x2pin
+CONN DEV
+0
+68
+68
+w_pin_strip
+pin_socket_2mm_35
+Pin socket 2mm 35pin
+CONN DEV
+0
+35
+35
+w_pin_strip
+pin_socket_2mm_35x2
+Pin socket 2mm 35x2pin
+CONN DEV
+0
+70
+70
+w_pin_strip
+pin_socket_2mm_36
+Pin socket 2mm 36pin
+CONN DEV
+0
+36
+36
+w_pin_strip
+pin_socket_2mm_36x2
+Pin socket 2mm 36x2pin
+CONN DEV
+0
+72
+72
+w_pin_strip
+pin_socket_2mm_37
+Pin socket 2mm 37pin
+CONN DEV
+0
+37
+37
+w_pin_strip
+pin_socket_2mm_37x2
+Pin socket 2mm 37x2pin
+CONN DEV
+0
+74
+74
+w_pin_strip
+pin_socket_2mm_38
+Pin socket 2mm 38pin
+CONN DEV
+0
+38
+38
+w_pin_strip
+pin_socket_2mm_38x2
+Pin socket 2mm 38x2pin
+CONN DEV
+0
+76
+76
+w_pin_strip
+pin_socket_2mm_39
+Pin socket 2mm 39pin
+CONN DEV
+0
+39
+39
+w_pin_strip
+pin_socket_2mm_39x2
+Pin socket 2mm 39x2pin
+CONN DEV
+0
+78
+78
+w_pin_strip
+pin_socket_2mm_40
+Pin socket 2mm 40pin
+CONN DEV
+0
+40
+40
+w_pin_strip
+pin_socket_2mm_40x2
+Pin socket 2mm 40x2pin
+CONN DEV
+0
+80
+80
+w_pin_strip
+pin_socket_2mm_41
+Pin socket 2mm 41pin
+CONN DEV
+0
+41
+41
+w_pin_strip
+pin_socket_2mm_41x2
+Pin socket 2mm 41x2pin
+CONN DEV
+0
+82
+82
+w_pin_strip
+pin_socket_2mm_42
+Pin socket 2mm 42pin
+CONN DEV
+0
+42
+42
+w_pin_strip
+pin_socket_2mm_42x2
+Pin socket 2mm 42x2pin
+CONN DEV
+0
+84
+84
+w_pin_strip
+pin_socket_2mm_43
+Pin socket 2mm 43pin
+CONN DEV
+0
+43
+43
+w_pin_strip
+pin_socket_2mm_43x2
+Pin socket 2mm 43x2pin
+CONN DEV
+0
+86
+86
+w_pin_strip
+pin_socket_2mm_44
+Pin socket 2mm 44pin
+CONN DEV
+0
+44
+44
+w_pin_strip
+pin_socket_2mm_44x2
+Pin socket 2mm 44x2pin
+CONN DEV
+0
+88
+88
+w_pin_strip
+pin_socket_2mm_45
+Pin socket 2mm 45pin
+CONN DEV
+0
+45
+45
+w_pin_strip
+pin_socket_2mm_45x2
+Pin socket 2mm 45x2pin
+CONN DEV
+0
+90
+90
+w_pin_strip
+pin_socket_2mm_46
+Pin socket 2mm 46pin
+CONN DEV
+0
+46
+46
+w_pin_strip
+pin_socket_2mm_46x2
+Pin socket 2mm 46x2pin
+CONN DEV
+0
+92
+92
+w_pin_strip
+pin_socket_2mm_47
+Pin socket 2mm 47pin
+CONN DEV
+0
+47
+47
+w_pin_strip
+pin_socket_2mm_47x2
+Pin socket 2mm 47x2pin
+CONN DEV
+0
+94
+94
+w_pin_strip
+pin_socket_2mm_48
+Pin socket 2mm 48pin
+CONN DEV
+0
+48
+48
+w_pin_strip
+pin_socket_2mm_48x2
+Pin socket 2mm 48x2pin
+CONN DEV
+0
+96
+96
+w_pin_strip
+pin_socket_2mm_49
+Pin socket 2mm 49pin
+CONN DEV
+0
+49
+49
+w_pin_strip
+pin_socket_2mm_49x2
+Pin socket 2mm 49x2pin
+CONN DEV
+0
+98
+98
+w_pin_strip
+pin_socket_2mm_50
+Pin socket 2mm 50pin
+CONN DEV
+0
+50
+50
+w_pin_strip
+pin_socket_2mm_50x2
+Pin socket 2mm 50x2pin
+CONN DEV
+0
+100
+100
+w_pin_strip
+pin_socket_2x2
+Pin socket 2x2pin
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_socket_2x2-90
+Pin socket 2x2pin 90
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_socket_3
+Pin socket 3pin
+CONN DEV
+0
+3
+3
+w_pin_strip
+pin_socket_3x2
+Pin socket 3x2pin
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_socket_3x2-90
+Pin socket 3x2pin 90
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_socket_4
+Pin socket 4pin
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_socket_4x2
+Pin socket 4x2pin
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_socket_4x2-90
+Pin socket 4x2pin 90
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_socket_5
+Pin socket 5pin
+CONN DEV
+0
+5
+5
+w_pin_strip
+pin_socket_5x2
+Pin socket 5x2pin
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_socket_5x2-90
+Pin socket 5x2pin 90
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_socket_6
+Pin socket 6pin
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_socket_6x2
+Pin socket 6x2pin
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_socket_6x2-90
+Pin socket 6x2pin 90
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_socket_7
+Pin socket 7pin
+CONN DEV
+0
+7
+7
+w_pin_strip
+pin_socket_7x2
+Pin socket 7x2pin
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_socket_7x2-90
+Pin socket 7x2pin 90
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_socket_8
+Pin socket 8pin
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_socket_8x2
+Pin socket 8x2pin
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_socket_8x2-90
+Pin socket 8x2pin 90
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_socket_9
+Pin socket 9pin
+CONN DEV
+0
+9
+9
+w_pin_strip
+pin_socket_9x2
+Pin socket 9x2pin
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_socket_9x2-90
+Pin socket 9x2pin 90
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_socket_10
+Pin socket 10pin
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_socket_10x2
+Pin socket 10x2pin
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_socket_10x2-90
+Pin socket 10x2pin 90
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_socket_11
+Pin socket 11pin
+CONN DEV
+0
+11
+11
+w_pin_strip
+pin_socket_11x2
+Pin socket 11x2pin
+CONN DEV
+0
+22
+22
+w_pin_strip
+pin_socket_11x2-90
+Pin socket 11x2pin 90
+CONN DEV
+0
+22
+22
+w_pin_strip
+pin_socket_12
+Pin socket 12pin
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_socket_12x2
+Pin socket 12x2pin
+CONN DEV
+0
+24
+24
+w_pin_strip
+pin_socket_12x2-90
+Pin socket 12x2pin 90
+CONN DEV
+0
+24
+24
+w_pin_strip
+pin_socket_13
+Pin socket 13pin
+CONN DEV
+0
+13
+13
+w_pin_strip
+pin_socket_13x2
+Pin socket 13x2pin
+CONN DEV
+0
+26
+26
+w_pin_strip
+pin_socket_13x2-90
+Pin socket 13x2pin 90
+CONN DEV
+0
+26
+26
+w_pin_strip
+pin_socket_14
+Pin socket 14pin
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_socket_14x2
+Pin socket 14x2pin
+CONN DEV
+0
+28
+28
+w_pin_strip
+pin_socket_14x2-90
+Pin socket 14x2pin 90
+CONN DEV
+0
+28
+28
+w_pin_strip
+pin_socket_15
+Pin socket 15pin
+CONN DEV
+0
+15
+15
+w_pin_strip
+pin_socket_15x2
+Pin socket 15x2pin
+CONN DEV
+0
+30
+30
+w_pin_strip
+pin_socket_15x2-90
+Pin socket 15x2pin 90
+CONN DEV
+0
+30
+30
+w_pin_strip
+pin_socket_16
+Pin socket 16pin
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_socket_16x2
+Pin socket 16x2pin
+CONN DEV
+0
+32
+32
+w_pin_strip
+pin_socket_16x2-90
+Pin socket 16x2pin 90
+CONN DEV
+0
+32
+32
+w_pin_strip
+pin_socket_17
+Pin socket 17pin
+CONN DEV
+0
+17
+17
+w_pin_strip
+pin_socket_17x2
+Pin socket 17x2pin
+CONN DEV
+0
+34
+34
+w_pin_strip
+pin_socket_17x2-90
+Pin socket 17x2pin 90
+CONN DEV
+0
+34
+34
+w_pin_strip
+pin_socket_18
+Pin socket 18pin
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_socket_18x2
+Pin socket 18x2pin
+CONN DEV
+0
+36
+36
+w_pin_strip
+pin_socket_18x2-90
+Pin socket 18x2pin 90
+CONN DEV
+0
+36
+36
+w_pin_strip
+pin_socket_19x2
+Pin socket 19x2pin
+CONN DEV
+0
+38
+38
+w_pin_strip
+pin_socket_19x2-90
+Pin socket 19x2pin 90
+CONN DEV
+0
+38
+38
+w_pin_strip
+pin_socket_20
+Pin socket 20pin
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_socket_20x2
+Pin socket 20x2pin
+CONN DEV
+0
+40
+40
+w_pin_strip
+pin_socket_20x2-90
+Pin socket 20x2pin 90
+CONN DEV
+0
+40
+40
+w_pin_strip
+pin_strip_1
+Pin strip 1pin
+CONN DEV
+0
+1
+1
+w_pin_strip
+pin_strip_1-90
+Pin strip 1pin 90
+CONN DEV
+0
+1
+1
+w_pin_strip
+pin_strip_1x2-90
+Pin strip 1x2pin 90
+CONN DEV
+0
+2
+2
+w_pin_strip
+pin_strip_2
+Pin strip 2pin
+CONN DEV
+0
+2
+2
+w_pin_strip
+pin_strip_2-90
+Pin strip 2pin 90
+CONN DEV
+0
+2
+2
+w_pin_strip
+pin_strip_2mm_1
+Pin strip 2mm 1pin
+CONN DEV
+0
+1
+1
+w_pin_strip
+pin_strip_2mm_2
+Pin strip 2mm 2pin
+CONN DEV
+0
+2
+2
+w_pin_strip
+pin_strip_2mm_2x2
+Pin strip 2mm 2x2pin
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_strip_2mm_3
+Pin strip 2mm 3pin
+CONN DEV
+0
+3
+3
+w_pin_strip
+pin_strip_2mm_3x2
+Pin strip 2mm 3x2pin
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_strip_2mm_4
+Pin strip 2mm 4pin
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_strip_2mm_4x2
+Pin strip 2mm 4x2pin
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_strip_2mm_5
+Pin strip 2mm 5pin
+CONN DEV
+0
+5
+5
+w_pin_strip
+pin_strip_2mm_5x2
+Pin strip 2mm 5x2pin
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_strip_2mm_6
+Pin strip 2mm 6pin
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_strip_2mm_6x2
+Pin strip 2mm 6x2pin
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_strip_2mm_7
+Pin strip 2mm 7pin
+CONN DEV
+0
+7
+7
+w_pin_strip
+pin_strip_2mm_7x2
+Pin strip 2mm 7x2pin
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_strip_2mm_8
+Pin strip 2mm 8pin
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_strip_2mm_8x2
+Pin strip 2mm 8x2pin
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_strip_2mm_9
+Pin strip 2mm 9pin
+CONN DEV
+0
+9
+9
+w_pin_strip
+pin_strip_2mm_9x2
+Pin strip 2mm 9x2pin
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_strip_2mm_10
+Pin strip 2mm 10pin
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_strip_2mm_10x2
+Pin strip 2mm 10x2pin
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_strip_2mm_11
+Pin strip 2mm 11pin
+CONN DEV
+0
+11
+11
+w_pin_strip
+pin_strip_2mm_11x2
+Pin strip 2mm 11x2pin
+CONN DEV
+0
+22
+22
+w_pin_strip
+pin_strip_2mm_12
+Pin strip 2mm 12pin
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_strip_2mm_12x2
+Pin strip 2mm 12x2pin
+CONN DEV
+0
+24
+24
+w_pin_strip
+pin_strip_2mm_13
+Pin strip 2mm 13pin
+CONN DEV
+0
+13
+13
+w_pin_strip
+pin_strip_2mm_13x2
+Pin strip 2mm 13x2pin
+CONN DEV
+0
+26
+26
+w_pin_strip
+pin_strip_2mm_14
+Pin strip 2mm 14pin
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_strip_2mm_14x2
+Pin strip 2mm 14x2pin
+CONN DEV
+0
+28
+28
+w_pin_strip
+pin_strip_2mm_15
+Pin strip 2mm 15pin
+CONN DEV
+0
+15
+15
+w_pin_strip
+pin_strip_2mm_15x2
+Pin strip 2mm 15x2pin
+CONN DEV
+0
+30
+30
+w_pin_strip
+pin_strip_2mm_16
+Pin strip 2mm 16pin
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_strip_2mm_16x2
+Pin strip 2mm 16x2pin
+CONN DEV
+0
+32
+32
+w_pin_strip
+pin_strip_2mm_17
+Pin strip 2mm 17pin
+CONN DEV
+0
+17
+17
+w_pin_strip
+pin_strip_2mm_17x2
+Pin strip 2mm 17x2pin
+CONN DEV
+0
+34
+34
+w_pin_strip
+pin_strip_2mm_18
+Pin strip 2mm 18pin
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_strip_2mm_18x2
+Pin strip 2mm 18x2pin
+CONN DEV
+0
+36
+36
+w_pin_strip
+pin_strip_2mm_19
+Pin strip 2mm 19pin
+CONN DEV
+0
+19
+19
+w_pin_strip
+pin_strip_2mm_19x2
+Pin strip 2mm 19x2pin
+CONN DEV
+0
+38
+38
+w_pin_strip
+pin_strip_2mm_20
+Pin strip 2mm 20pin
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_strip_2mm_20x2
+Pin strip 2mm 20x2pin
+CONN DEV
+0
+40
+40
+w_pin_strip
+pin_strip_2mm_21
+Pin strip 2mm 21pin
+CONN DEV
+0
+21
+21
+w_pin_strip
+pin_strip_2mm_21x2
+Pin strip 2mm 21x2pin
+CONN DEV
+0
+42
+42
+w_pin_strip
+pin_strip_2mm_22
+Pin strip 2mm 22pin
+CONN DEV
+0
+22
+22
+w_pin_strip
+pin_strip_2mm_22x2
+Pin strip 2mm 22x2pin
+CONN DEV
+0
+44
+44
+w_pin_strip
+pin_strip_2mm_23
+Pin strip 2mm 23pin
+CONN DEV
+0
+23
+23
+w_pin_strip
+pin_strip_2mm_23x2
+Pin strip 2mm 23x2pin
+CONN DEV
+0
+46
+46
+w_pin_strip
+pin_strip_2mm_24
+Pin strip 2mm 24pin
+CONN DEV
+0
+24
+24
+w_pin_strip
+pin_strip_2mm_24x2
+Pin strip 2mm 24x2pin
+CONN DEV
+0
+48
+48
+w_pin_strip
+pin_strip_2mm_25
+Pin strip 2mm 25pin
+CONN DEV
+0
+25
+25
+w_pin_strip
+pin_strip_2mm_25x2
+Pin strip 2mm 25x2pin
+CONN DEV
+0
+50
+50
+w_pin_strip
+pin_strip_2mm_26
+Pin strip 2mm 26pin
+CONN DEV
+0
+26
+26
+w_pin_strip
+pin_strip_2mm_26x2
+Pin strip 2mm 26x2pin
+CONN DEV
+0
+52
+52
+w_pin_strip
+pin_strip_2mm_27
+Pin strip 2mm 27pin
+CONN DEV
+0
+27
+27
+w_pin_strip
+pin_strip_2mm_27x2
+Pin strip 2mm 27x2pin
+CONN DEV
+0
+54
+54
+w_pin_strip
+pin_strip_2mm_28
+Pin strip 2mm 28pin
+CONN DEV
+0
+28
+28
+w_pin_strip
+pin_strip_2mm_28x2
+Pin strip 2mm 28x2pin
+CONN DEV
+0
+56
+56
+w_pin_strip
+pin_strip_2mm_29
+Pin strip 2mm 29pin
+CONN DEV
+0
+29
+29
+w_pin_strip
+pin_strip_2mm_29x2
+Pin strip 2mm 29x2pin
+CONN DEV
+0
+58
+58
+w_pin_strip
+pin_strip_2mm_30
+Pin strip 2mm 30pin
+CONN DEV
+0
+30
+30
+w_pin_strip
+pin_strip_2mm_30x2
+Pin strip 2mm 30x2pin
+CONN DEV
+0
+60
+60
+w_pin_strip
+pin_strip_2mm_31
+Pin strip 2mm 31pin
+CONN DEV
+0
+31
+31
+w_pin_strip
+pin_strip_2mm_31x2
+Pin strip 2mm 31x2pin
+CONN DEV
+0
+62
+62
+w_pin_strip
+pin_strip_2mm_32
+Pin strip 2mm 32pin
+CONN DEV
+0
+32
+32
+w_pin_strip
+pin_strip_2mm_32x2
+Pin strip 2mm 32x2pin
+CONN DEV
+0
+64
+64
+w_pin_strip
+pin_strip_2mm_33
+Pin strip 2mm 33pin
+CONN DEV
+0
+33
+33
+w_pin_strip
+pin_strip_2mm_33x2
+Pin strip 2mm 33x2pin
+CONN DEV
+0
+66
+66
+w_pin_strip
+pin_strip_2mm_34
+Pin strip 2mm 34pin
+CONN DEV
+0
+34
+34
+w_pin_strip
+pin_strip_2mm_34x2
+Pin strip 2mm 34x2pin
+CONN DEV
+0
+68
+68
+w_pin_strip
+pin_strip_2mm_35
+Pin strip 2mm 35pin
+CONN DEV
+0
+35
+35
+w_pin_strip
+pin_strip_2mm_35x2
+Pin strip 2mm 35x2pin
+CONN DEV
+0
+70
+70
+w_pin_strip
+pin_strip_2mm_36
+Pin strip 2mm 36pin
+CONN DEV
+0
+36
+36
+w_pin_strip
+pin_strip_2mm_36x2
+Pin strip 2mm 36x2pin
+CONN DEV
+0
+72
+72
+w_pin_strip
+pin_strip_2mm_37
+Pin strip 2mm 37pin
+CONN DEV
+0
+37
+37
+w_pin_strip
+pin_strip_2mm_37x2
+Pin strip 2mm 37x2pin
+CONN DEV
+0
+74
+74
+w_pin_strip
+pin_strip_2mm_38
+Pin strip 2mm 38pin
+CONN DEV
+0
+38
+38
+w_pin_strip
+pin_strip_2mm_38x2
+Pin strip 2mm 38x2pin
+CONN DEV
+0
+76
+76
+w_pin_strip
+pin_strip_2mm_39
+Pin strip 2mm 39pin
+CONN DEV
+0
+39
+39
+w_pin_strip
+pin_strip_2mm_39x2
+Pin strip 2mm 39x2pin
+CONN DEV
+0
+78
+78
+w_pin_strip
+pin_strip_2mm_40
+Pin strip 2mm 40pin
+CONN DEV
+0
+40
+40
+w_pin_strip
+pin_strip_2mm_40x2
+Pin strip 2mm 40x2pin
+CONN DEV
+0
+80
+80
+w_pin_strip
+pin_strip_2mm_41
+Pin strip 2mm 41pin
+CONN DEV
+0
+41
+41
+w_pin_strip
+pin_strip_2mm_41x2
+Pin strip 2mm 41x2pin
+CONN DEV
+0
+82
+82
+w_pin_strip
+pin_strip_2mm_42
+Pin strip 2mm 42pin
+CONN DEV
+0
+42
+42
+w_pin_strip
+pin_strip_2mm_42x2
+Pin strip 2mm 42x2pin
+CONN DEV
+0
+84
+84
+w_pin_strip
+pin_strip_2mm_43
+Pin strip 2mm 43pin
+CONN DEV
+0
+43
+43
+w_pin_strip
+pin_strip_2mm_43x2
+Pin strip 2mm 43x2pin
+CONN DEV
+0
+86
+86
+w_pin_strip
+pin_strip_2mm_44
+Pin strip 2mm 44pin
+CONN DEV
+0
+44
+44
+w_pin_strip
+pin_strip_2mm_44x2
+Pin strip 2mm 44x2pin
+CONN DEV
+0
+88
+88
+w_pin_strip
+pin_strip_2mm_45
+Pin strip 2mm 45pin
+CONN DEV
+0
+45
+45
+w_pin_strip
+pin_strip_2mm_45x2
+Pin strip 2mm 45x2pin
+CONN DEV
+0
+90
+90
+w_pin_strip
+pin_strip_2mm_46
+Pin strip 2mm 46pin
+CONN DEV
+0
+46
+46
+w_pin_strip
+pin_strip_2mm_46x2
+Pin strip 2mm 46x2pin
+CONN DEV
+0
+92
+92
+w_pin_strip
+pin_strip_2mm_47
+Pin strip 2mm 47pin
+CONN DEV
+0
+47
+47
+w_pin_strip
+pin_strip_2mm_47x2
+Pin strip 2mm 47x2pin
+CONN DEV
+0
+94
+94
+w_pin_strip
+pin_strip_2mm_48
+Pin strip 2mm 48pin
+CONN DEV
+0
+48
+48
+w_pin_strip
+pin_strip_2mm_48x2
+Pin strip 2mm 48x2pin
+CONN DEV
+0
+96
+96
+w_pin_strip
+pin_strip_2mm_49
+Pin strip 2mm 49pin
+CONN DEV
+0
+49
+49
+w_pin_strip
+pin_strip_2mm_49x2
+Pin strip 2mm 49x2pin
+CONN DEV
+0
+98
+98
+w_pin_strip
+pin_strip_2mm_50
+Pin strip 2mm 50pin
+CONN DEV
+0
+50
+50
+w_pin_strip
+pin_strip_2mm_50x2
+Pin strip 2mm 50x2pin
+CONN DEV
+0
+100
+100
+w_pin_strip
+pin_strip_2x2
+Pin strip 2x2pin
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_strip_2x2-90
+Pin strip 2x2pin 90
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_strip_3
+Pin strip 3pin
+CONN DEV
+0
+3
+3
+w_pin_strip
+pin_strip_3-90
+Pin strip 3pin 90
+CONN DEV
+0
+3
+3
+w_pin_strip
+pin_strip_3x2
+Pin strip 3x2pin
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_strip_3x2-90
+Pin strip 3x2pin 90
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_strip_4
+Pin strip 4pin
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_strip_4-90
+Pin strip 4pin 90
+CONN DEV
+0
+4
+4
+w_pin_strip
+pin_strip_4x2
+Pin strip 4x2pin
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_strip_4x2-90
+Pin strip 4x2pin 90
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_strip_5
+Pin strip 5pin
+CONN DEV
+0
+5
+5
+w_pin_strip
+pin_strip_5-90
+Pin strip 5pin 90
+CONN DEV
+0
+5
+5
+w_pin_strip
+pin_strip_5x2
+Pin strip 5x2pin
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_strip_5x2-90
+Pin strip 5x2pin 90
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_strip_6
+Pin strip 6pin
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_strip_6-90
+Pin strip 6pin 90
+CONN DEV
+0
+6
+6
+w_pin_strip
+pin_strip_6x2
+Pin strip 6x2pin
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_strip_6x2-90
+Pin strip 6x2pin 90
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_strip_7
+Pin strip 7pin
+CONN DEV
+0
+7
+7
+w_pin_strip
+pin_strip_7-90
+Pin strip 7pin 90
+CONN DEV
+0
+7
+7
+w_pin_strip
+pin_strip_7x2
+Pin strip 7x2pin
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_strip_7x2-90
+Pin strip 7x2pin 90
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_strip_8
+Pin strip 8pin
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_strip_8-90
+Pin strip 8pin 90
+CONN DEV
+0
+8
+8
+w_pin_strip
+pin_strip_8x2
+Pin strip 8x2pin
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_strip_8x2-90
+Pin strip 8x2pin 90
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_strip_9
+Pin strip 9pin
+CONN DEV
+0
+9
+9
+w_pin_strip
+pin_strip_9-90
+Pin strip 9pin 90
+CONN DEV
+0
+9
+9
+w_pin_strip
+pin_strip_9x2
+Pin strip 9x2pin
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_strip_9x2-90
+Pin strip 9x2pin 90
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_strip_10
+Pin strip 10pin
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_strip_10-90
+Pin strip 10pin 90
+CONN DEV
+0
+10
+10
+w_pin_strip
+pin_strip_10x2
+Pin strip 10x2pin
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_strip_10x2-90
+Pin strip 10x2pin 90
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_strip_11
+Pin strip 11pin
+CONN DEV
+0
+11
+11
+w_pin_strip
+pin_strip_11-90
+Pin strip 11pin 90
+CONN DEV
+0
+11
+11
+w_pin_strip
+pin_strip_11x2
+Pin strip 11x2pin
+CONN DEV
+0
+22
+22
+w_pin_strip
+pin_strip_11x2-90
+Pin strip 11x2pin 90
+CONN DEV
+0
+22
+22
+w_pin_strip
+pin_strip_12
+Pin strip 12pin
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_strip_12-90
+Pin strip 12pin 90
+CONN DEV
+0
+12
+12
+w_pin_strip
+pin_strip_12x2
+Pin strip 12x2pin
+CONN DEV
+0
+24
+24
+w_pin_strip
+pin_strip_12x2-90
+Pin strip 12x2pin 90
+CONN DEV
+0
+24
+24
+w_pin_strip
+pin_strip_13
+Pin strip 13pin
+CONN DEV
+0
+13
+13
+w_pin_strip
+pin_strip_13-90
+Pin strip 13pin 90
+CONN DEV
+0
+13
+13
+w_pin_strip
+pin_strip_13x2
+Pin strip 13x2pin
+CONN DEV
+0
+26
+26
+w_pin_strip
+pin_strip_13x2-90
+Pin strip 13x2pin 90
+CONN DEV
+0
+26
+26
+w_pin_strip
+pin_strip_14
+Pin strip 14pin
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_strip_14-90
+Pin strip 14pin 90
+CONN DEV
+0
+14
+14
+w_pin_strip
+pin_strip_14x2
+Pin strip 14x2pin
+CONN DEV
+0
+28
+28
+w_pin_strip
+pin_strip_14x2-90
+Pin strip 14x2pin 90
+CONN DEV
+0
+28
+28
+w_pin_strip
+pin_strip_15
+Pin strip 15pin
+CONN DEV
+0
+15
+15
+w_pin_strip
+pin_strip_15-90
+Pin strip 15pin 90
+CONN DEV
+0
+15
+15
+w_pin_strip
+pin_strip_15x2
+Pin strip 15x2pin
+CONN DEV
+0
+30
+30
+w_pin_strip
+pin_strip_15x2-90
+Pin strip 15x2pin 90
+CONN DEV
+0
+30
+30
+w_pin_strip
+pin_strip_16
+Pin strip 16pin
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_strip_16-90
+Pin strip 16pin 90
+CONN DEV
+0
+16
+16
+w_pin_strip
+pin_strip_16x2
+Pin strip 16x2pin
+CONN DEV
+0
+32
+32
+w_pin_strip
+pin_strip_16x2-90
+Pin strip 16x2pin 90
+CONN DEV
+0
+32
+32
+w_pin_strip
+pin_strip_17
+Pin strip 17pin
+CONN DEV
+0
+17
+17
+w_pin_strip
+pin_strip_17-90
+Pin strip 17pin 90
+CONN DEV
+0
+17
+17
+w_pin_strip
+pin_strip_17x2
+Pin strip 17x2pin
+CONN DEV
+0
+34
+34
+w_pin_strip
+pin_strip_17x2-90
+Pin strip 17x2pin 90
+CONN DEV
+0
+34
+34
+w_pin_strip
+pin_strip_18
+Pin strip 18pin
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_strip_18-90
+Pin strip 18pin 90
+CONN DEV
+0
+18
+18
+w_pin_strip
+pin_strip_18x2
+Pin strip 18x2pin
+CONN DEV
+0
+36
+36
+w_pin_strip
+pin_strip_18x2-90
+Pin strip 18x2pin 90
+CONN DEV
+0
+36
+36
+w_pin_strip
+pin_strip_19
+Pin strip 19pin
+CONN DEV
+0
+19
+19
+w_pin_strip
+pin_strip_19-90
+Pin strip 19pin 90
+CONN DEV
+0
+19
+19
+w_pin_strip
+pin_strip_19x2
+Pin strip 19x2pin
+CONN DEV
+0
+38
+38
+w_pin_strip
+pin_strip_19x2-90
+Pin strip 19x2pin 90
+CONN DEV
+0
+38
+38
+w_pin_strip
+pin_strip_20
+Pin strip 20pin
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_strip_20-90
+Pin strip 20pin 90
+CONN DEV
+0
+20
+20
+w_pin_strip
+pin_strip_20x2
+Pin strip 20x2pin
+CONN DEV
+0
+40
+40
+w_pin_strip
+pin_strip_20x2-90
+Pin strip 20x2pin 90
+CONN DEV
+0
+40
+40
+w_pth_circuits
+dcdc_dil
+DC/DC converter, DIP package
+
+0
+6
+6
+w_pth_circuits
+dcdc_dil8
+DC/DC converter, DIP8 package
+
+0
+4
+4
+w_pth_circuits
+dcdc_sil
+DC/DC converter, SIP package
+
+0
+5
+5
+w_pth_circuits
+dcdc_sil4
+DC/DC converter, SIP4 package
+
+0
+4
+4
+w_pth_circuits
+dcdc_sil7(2+4)
+DC/DC converter, SIP7 package (2+4 pins)
+
+0
+6
+6
+w_pth_circuits
+dil_4-300
+IC, DIL4 x 0,3"
+DIL
+0
+4
+4
+w_pth_circuits
+dil_6-300
+IC, DIL6 x 0,3"
+DIL
+0
+6
+6
+w_pth_circuits
+dil_6-300_socket
+IC, DIL6 x 0,3", with socket
+DIL
+0
+6
+6
+w_pth_circuits
+dil_8-300
+IC, DIL8 x 0,3"
+DIL
+0
+8
+8
+w_pth_circuits
+dil_8-300_socket
+IC, DIL8 x 0,3", with socket
+DIL
+0
+8
+8
+w_pth_circuits
+dil_14-300
+IC, DIL14 x 0,3"
+DIL
+0
+14
+14
+w_pth_circuits
+dil_14-300_socket
+IC, DIL14 x 0,3", with socket
+DIL
+0
+14
+14
+w_pth_circuits
+dil_16-300
+IC, DIL16 x 0,3"
+DIL
+0
+16
+16
+w_pth_circuits
+dil_16-300_socket
+IC, DIL16 x 0,3", with socket
+DIL
+0
+16
+16
+w_pth_circuits
+dil_18-300
+IC, DIL18 x 0,3"
+DIL
+0
+18
+18
+w_pth_circuits
+dil_18-300_socket
+IC, DIL18 x 0,3", with socket
+DIL
+0
+18
+18
+w_pth_circuits
+dil_20-300
+IC, DIL20 x 0,3"
+DIL
+0
+20
+20
+w_pth_circuits
+dil_20-300_socket
+IC, DIL20 x 0,3", with socket
+DIL
+0
+20
+20
+w_pth_circuits
+dil_22-300
+IC, DIL22 x 0,3"
+DIL
+0
+22
+22
+w_pth_circuits
+dil_22-300_socket
+IC, DIL22 x 0,3", with socket
+DIL
+0
+22
+22
+w_pth_circuits
+dil_24-300
+IC, DIL24 x 0,3"
+DIL
+0
+24
+24
+w_pth_circuits
+dil_24-300_socket
+IC, DIL24 x 0,3", with socket
+DIL
+0
+24
+24
+w_pth_circuits
+dil_24-600
+IC, DIL24 x 0,6"
+DIL
+0
+24
+24
+w_pth_circuits
+dil_24-600_socket
+IC, DIL24 x 0,6", with socket
+DIL
+0
+24
+24
+w_pth_circuits
+dil_28-300
+IC, DIL28 x 0,3"
+DIL
+0
+28
+28
+w_pth_circuits
+dil_28-300_socket
+IC, DIL28 x 0,3", with socket
+DIL
+0
+28
+28
+w_pth_circuits
+dil_28-600
+IC, DIL28 x 0,6"
+DIL
+0
+28
+28
+w_pth_circuits
+dil_28-600_socket
+IC, DIL28 x 0,6", with socket
+DIL
+0
+28
+28
+w_pth_circuits
+dil_40-600
+IC, DIL40 x 0,6"
+DIL
+0
+40
+40
+w_pth_circuits
+dil_40-600_socket
+IC, DIL40 x 0,6", with socket
+DIL
+0
+40
+40
+w_pth_circuits
+dil_48-600
+IC, DIL48 x 0,6"
+DIL
+0
+48
+48
+w_pth_circuits
+dil_48-600_socket
+IC, DIL48 x 0,6", with socket
+DIL
+0
+48
+48
+w_pth_circuits
+spm26
+Fairchild SPM26 DIL
+SPM26
+0
+26
+26
+w_pth_diodes
+bridge_2KBP
+diode bridge, 2KBP series
+
+0
+4
+4
+w_pth_diodes
+bridge_DFM
+Bridge, DFM Package
+DFM
+0
+4
+4
+w_pth_diodes
+bridge_KBU4
+diode bridge, KBU4 series
+
+0
+4
+4
+w_pth_diodes
+bridge_wob
+diode bridge, WOB package
+
+0
+4
+4
+w_pth_diodes
+diode_do15
+Diode, DO-15 package
+
+0
+2
+2
+w_pth_diodes
+diode_do35
+Diode, DO-35 package
+
+0
+2
+2
+w_pth_diodes
+diode_do41
+Diode, DO-41 package
+
+0
+2
+2
+w_pth_diodes
+diode_do201
+Diode, DO-201 package
+
+0
+2
+2
+w_pth_resistors
+R12x5.2
+Resistor, 12x5.2 mm
+R
+0
+2
+2
+w_pth_resistors
+R12x5.2_vert
+Resistor, 12x5.2 mm, vertical
+R
+0
+2
+2
+w_pth_resistors
+R13.5x6
+Resistor, 13.5x6 mm
+R
+0
+2
+2
+w_pth_resistors
+R13.5x6_vert
+Resistor, 13.5x62 mm, vertical
+R
+0
+2
+2
+w_pth_resistors
+R15.5x6
+Resistor, 15.5x6 mm
+R
+0
+2
+2
+w_pth_resistors
+R15.5x6_vert
+Resistor, 15.5x6 mm, vertical
+R
+0
+2
+2
+w_pth_resistors
+R22x8
+Resistor, 22x8 mm
+R
+0
+2
+2
+w_pth_resistors
+R22x8_vert
+Resistor, 22x8 mm, vertical
+R
+0
+2
+2
+w_pth_resistors
+R25x8
+Resistor, 25x8 mm
+R
+0
+2
+2
+w_pth_resistors
+R25x8_vert
+Resistor, 25x8 mm, vertical
+R
+0
+2
+2
+w_pth_resistors
+RC03
+Resistor, RC03
+R
+0
+2
+2
+w_pth_resistors
+RC05
+Resistor, RC05
+R
+0
+2
+2
+w_pth_resistors
+RC07
+Resistor, RC07
+R
+0
+2
+2
+w_pth_resistors
+r-sil_4
+R-net, sil package, 4pin
+CONN DEV
+0
+4
+4
+w_pth_resistors
+r-sil_5
+R-net, sil package, 5pin
+CONN DEV
+0
+5
+5
+w_pth_resistors
+r-sil_6
+R-net, sil package, 6pin
+CONN DEV
+0
+6
+6
+w_pth_resistors
+r-sil_7
+R-net, sil package, 7pin
+CONN DEV
+0
+7
+7
+w_pth_resistors
+r-sil_8
+R-net, sil package, 8pin
+CONN DEV
+0
+8
+8
+w_pth_resistors
+r-sil_9
+R-net, sil package, 9pin
+CONN DEV
+0
+9
+9
+w_pth_resistors
+r-sil_10
+R-net, sil package, 10pin
+CONN DEV
+0
+10
+10
+w_pth_resistors
+r-sil_11
+R-net, sil package, 11pin
+CONN DEV
+0
+11
+11
+w_pth_resistors
+r-sil_12
+R-net, sil package, 12pin
+CONN DEV
+0
+12
+12
+w_pth_resistors
+r-sil_13
+R-net, sil package, 13pin
+CONN DEV
+0
+13
+13
+w_pth_resistors
+r-sil_14
+R-net, sil package, 14pin
+CONN DEV
+0
+14
+14
+w_pth_resistors
+rc03_vert
+Resistor, RC03 vertical
+
+0
+2
+2
+w_pth_resistors
+rc05_vert
+Resistor, RC05 vertical
+
+0
+2
+2
+w_pth_resistors
+rc07_vert
+Resistor, RC07 vertical
+
+0
+2
+2
+w_pth_resistors
+rc_vert_26x14x10
+ceramic power resistor, vertical, 26,5mm
+
+0
+2
+2
+w_pth_resistors
+trimmer_alps-rk09k1130ah1
+9mm trimmer, Alps RK09K1130AH1
+trimmer
+0
+5
+3
+w_pth_resistors
+trimmer_alps_rk12l12c0-f15-c0
+12mm dual trimmer, Alps RK12L12C0-F15-C0
+trimmer
+0
+8
+6
+w_pth_resistors
+trimmer_alps_rk12l12c0-f20-c0
+12mm dual trimmer, Alps RK12L12C0-F20-C0
+trimmer
+0
+8
+6
+w_pth_resistors
+trimmer_alps_rk12l12c0-f25-c0
+12mm dual trimmer, Alps RK12L12C0-F25-C0
+trimmer
+0
+8
+6
+w_pth_resistors
+trimmer_alps_rk12l12c0-f30-c0
+12mm dual trimmer, Alps RK12L12C0-F30-C0
+trimmer
+0
+8
+6
+w_pth_resistors
+trimmer_bourns_3005
+trimmer, multiturn, bourns 3005
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_bourns_3006p
+trimmer, multiturn, bourns 3006p
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_bourns_3006w
+trimmer, multiturn, bourns 3006w
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_bourns_3006y
+trimmer, multiturn, bourns 3006y
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_bourns_3009p
+trimmer, multiturn, bourns 3009p
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_bourns_3009y
+trimmer, multiturn, bourns 3009y
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_bourns_3250w
+trimmer, multiturn, Bourns 3250W
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_diplohm_p91
+trimmer, multiturn cermet, Diplohmatic P91
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_diplohm_p92
+trimmer, multiturn cermet, Diplohmatic P92
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_diplohm_p94
+trimmer, multiturn cermet, Diplohmatic P94
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_diplohm_p95
+trimmer, multiturn cermet, Diplohmatic P95
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_diplohm_p97
+trimmer, multiturn cermet, Diplohmatic P97
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_ecp_ca9-h2,5
+trimmer, ECP CA9 H2,5
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_ecp_ca9-v10
+trimmer, ECP CA9 V10
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_piher_pt6xh
+trimmer, Piher PT6-xH
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_piher_pt6xv
+trimmer, Piher PT6-xV
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_piher_pt10xv10
+trimmer, Piher PT10-xV10
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_piher_pt15xh05
+trimmer, Piher PT15-xH05
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_piher_pt15xvx2
+trimmer, Piher PT15-xVx2
+trimmer
+0
+3
+3
+w_pth_resistors
+trimmer_vishay_64w
+trimmer, multiturn cermet, Vishay 64W
+trimmer
+0
+3
+3
+w_relay
+relay_34.51
+relay, 34.51series
+
+0
+5
+5
+w_relay
+relay_34.51.7
+relay, 34.51.7 series
+
+0
+5
+5
+w_relay
+relay_34.81
+relay, 34.81 series SSR
+
+0
+4
+4
+w_relay
+relay_40.31
+relay, 40.31
+
+0
+5
+5
+w_relay
+relay_40.31_socket
+relay, 40.31 + socket 95.13.2
+
+0
+5
+5
+w_relay
+relay_40.51
+relay, 40.51
+
+0
+5
+5
+w_relay
+relay_40.51_socket
+relay, 40.51 + socket 95.15.2
+
+0
+8
+5
+w_relay
+relay_40.52
+relay, 40.52
+
+0
+8
+8
+w_relay
+relay_40.52_socket
+relay, 40.52 + socket 95.15.2
+
+0
+8
+8
+w_relay
+relay_40.61
+relay, 40.61
+
+0
+8
+8
+w_relay
+relay_40.61_socket
+relay, 40.61 + socket 95.15.2
+
+0
+8
+8
+w_relay
+relay_9001
+relay, Coto 9001 series Reed
+
+0
+4
+4
+w_relay
+relay_9002
+relay, Coto 9002 series Reed
+
+0
+6
+6
+w_relay
+relay_DK1a
+relay, DK series
+
+0
+4
+4
+w_relay
+relay_DK1a-L2
+relay, DK series
+
+0
+5
+5
+w_relay
+relay_DK1a1b
+relay, DK series
+
+0
+6
+6
+w_relay
+relay_DK1a1b-L2
+relay, DK series
+
+0
+7
+7
+w_relay
+relay_DK2a
+relay, DK series
+
+0
+6
+6
+w_relay
+relay_DK2a-L2
+relay, DK series
+
+0
+7
+7
+w_relay
+relay_PE
+relay, PE series
+
+0
+5
+5
+w_relay
+relay_RT1
+relay, RT1 series
+
+0
+8
+5
+w_relay
+relay_RT1_3mm5_spdt
+relay, RT1 series, 3.5mm pitch, SPDT
+
+0
+5
+5
+w_relay
+relay_RT1_3mm5_spno
+relay, RT1 series, 3.5mm pitch, SPNO
+
+0
+4
+4
+w_relay
+relay_SJ-1M
+relay, Sanyou SJ-x-1xxxM series
+
+0
+4
+4
+w_relay
+relay_SSR-P03
+relay, SSR-P03 series
+
+0
+4
+4
+w_relay
+relay_SSR-xxDA
+Futek SSR-xxDA solid state relay
+
+0
+0
+0
+w_relay
+relay_SY
+relay, SY series
+
+0
+6
+6
+w_relay
+relay_V23042
+relay, V23042 series
+
+0
+8
+8
+w_relay
+relay_V23042-B2
+relay, V23042-B2 series
+
+0
+10
+10
+w_relay
+relay_V23101-D0
+relay, V23101-D0 series
+
+0
+6
+6
+w_relay
+relay_V23101-D1
+relay, V23101-D1 series
+
+0
+5
+5
+w_relay
+relay_gq-pth
+relay, GQ series, PTH version
+
+0
+8
+8
+w_relay
+relay_gq-smd-a
+relay, GQ series, SMD-A version
+
+0
+8
+8
+w_relay
+relay_gq-smd-s
+relay, GQ series, SMD-S version
+
+0
+8
+8
+w_relay
+relay_hb
+relay, HB series
+
+0
+8
+8
+w_relay
+relay_hjr-3ff_h
+relay, Tianbo HJR-3FF series
+
+0
+4
+4
+w_relay
+relay_hjr-3ff_z
+relay, Tianbo HJR-3FF series
+
+0
+5
+5
+w_relay
+relay_js-k
+relay, JS-K series, SPDT
+
+0
+5
+5
+w_relay
+relay_t9as1x1
+relay, TE T9AS1x1 series
+
+0
+4
+4
+w_relay
+relay_t9as2x1
+relay, TE T9AS2x1 series
+
+0
+4
+4
+w_relay
+relay_t9as5x1
+relay, TE T9AS5x1 series
+
+0
+5
+5
+w_rf_modules
+8devices_carambola2
+8Devices Carambola2 802.11 b/g/n Wireless LAN module
+
+0
+52
+52
+w_rf_modules
+ITEAD_HC-05
+Itead HC-05/HC-06 serial Bluetooth module
+
+0
+34
+34
+w_rf_modules
+QM-5767
+QM-5767 FM module
+
+0
+10
+10
+w_rf_modules
+RFM12B_PTH
+Hope RFM12B module, PTH version
+
+0
+12
+12
+w_rf_modules
+RFM12B_SMD
+Hope RFM12B module, SMD version
+
+0
+14
+14
+w_rf_modules
+RFM22B_PTH
+Hope RFM22B module, PTH version
+
+0
+14
+14
+w_rf_modules
+RFM22B_SMD
+Hope RFM22B module, SMD version
+
+0
+16
+16
+w_rf_modules
+anaren_a1101rxxa
+Anaren A1101RxxA Wireless module
+
+0
+30
+24
+w_rf_modules
+anaren_a1101rxxc
+Anaren A1101RxxC Wireless module
+
+0
+28
+24
+w_rf_modules
+anaren_a2500r24a
+Anaren A2500R24A Wireless module
+
+0
+28
+24
+w_rf_modules
+anaren_a8520e24a91
+Anaren A8520E24A91 PurePath Wireless module
+
+0
+34
+34
+w_rf_modules
+id_id2la
+ID-Innovations ID-2LA
+
+0
+11
+11
+w_rf_modules
+id_id12la
+ID-Innovations ID-12LA
+
+0
+11
+11
+w_rf_modules
+id_id20la
+ID-Innovations ID-20LA
+
+0
+11
+11
+w_rf_modules
+panasonic_pan131x
+Panasonic PAN131x Bluetooth module
+
+0
+24
+24
+w_rf_modules
+panasonic_pan132x
+Panasonic PAN132x Bluetooth module
+
+0
+29
+28
+w_rf_modules
+roving_rn-42
+Roving Networks RN-42 Bluetooth module
+
+0
+37
+32
+w_rf_modules
+roving_rn-42-n
+Roving Networks RN-42-N Bluetooth module
+
+0
+39
+35
+w_rf_modules
+roving_rn-131
+Roving Networks RN-131 802.11 b/g Wireless LAN module
+
+0
+47
+44
+w_rf_modules
+telit_gl865
+Telit GL865 GSM/GPRS module
+
+0
+48
+48
+w_smd_cap
+c_0402
+SMT capacitor, 0402
+
+0
+2
+2
+w_smd_cap
+c_0603
+SMT capacitor, 0603
+
+0
+2
+2
+w_smd_cap
+c_0805
+SMT capacitor, 0805
+
+0
+2
+2
+w_smd_cap
+c_1206
+SMT capacitor, 1206
+
+0
+2
+2
+w_smd_cap
+c_1210
+SMT capacitor, 1210
+
+0
+2
+2
+w_smd_cap
+c_1808
+SMT capacitor, 1808
+
+0
+2
+2
+w_smd_cap
+c_1812
+SMT capacitor, 1812
+
+0
+2
+2
+w_smd_cap
+c_1825
+SMT capacitor, 1825
+
+0
+2
+2
+w_smd_cap
+c_2220
+SMT capacitor, 2220
+
+0
+2
+2
+w_smd_cap
+c_2225
+SMT capacitor, 2225
+
+0
+2
+2
+w_smd_cap
+c_elec_3x5.3
+SMT capacitor, aluminium electrolytic, 3x5.3
+
+0
+2
+2
+w_smd_cap
+c_elec_4x4.5
+SMT capacitor, aluminium electrolytic, 4x4.5
+
+0
+2
+2
+w_smd_cap
+c_elec_4x5.3
+SMT capacitor, aluminium electrolytic, 4x5.3
+
+0
+2
+2
+w_smd_cap
+c_elec_4x5.7
+SMT capacitor, aluminium electrolytic, 4x5.7
+
+0
+2
+2
+w_smd_cap
+c_elec_4x5.8
+SMT capacitor, aluminium electrolytic, 4x5.8
+
+0
+2
+2
+w_smd_cap
+c_elec_5x4.5
+SMT capacitor, aluminium electrolytic, 5x4.5
+
+0
+2
+2
+w_smd_cap
+c_elec_5x5.3
+SMT capacitor, aluminium electrolytic, 5x5.3
+
+0
+2
+2
+w_smd_cap
+c_elec_5x5.7
+SMT capacitor, aluminium electrolytic, 5x5.7
+
+0
+2
+2
+w_smd_cap
+c_elec_5x5.8
+SMT capacitor, aluminium electrolytic, 5x5.8
+
+0
+2
+2
+w_smd_cap
+c_elec_6.3x4.5
+SMT capacitor, aluminium electrolytic, 6.3x4.5
+
+0
+2
+2
+w_smd_cap
+c_elec_6.3x5.3
+SMT capacitor, aluminium electrolytic, 6.3x5.3
+
+0
+2
+2
+w_smd_cap
+c_elec_6.3x5.7
+SMT capacitor, aluminium electrolytic, 6.3x5.7
+
+0
+2
+2
+w_smd_cap
+c_elec_6.3x5.8
+SMT capacitor, aluminium electrolytic, 6.3x5.8
+
+0
+2
+2
+w_smd_cap
+c_elec_6.3x7.7
+SMT capacitor, aluminium electrolytic, 6.3x7.7
+
+0
+2
+2
+w_smd_cap
+c_elec_8x6.5
+SMT capacitor, aluminium electrolytic, 8x6.5
+
+0
+2
+2
+w_smd_cap
+c_elec_8x6.7
+SMT capacitor, aluminium electrolytic, 8x6.7
+
+0
+2
+2
+w_smd_cap
+c_elec_8x10
+SMT capacitor, aluminium electrolytic, 8x10
+
+0
+2
+2
+w_smd_cap
+c_elec_8x10.5
+SMT capacitor, aluminium electrolytic, 8x10.5
+
+0
+2
+2
+w_smd_cap
+c_elec_10x7.7
+SMT capacitor, aluminium electrolytic, 10x7.7
+
+0
+2
+2
+w_smd_cap
+c_elec_10x10
+SMT capacitor, aluminium electrolytic, 10x10
+
+0
+2
+2
+w_smd_cap
+c_elec_10x10.5
+SMT capacitor, aluminium electrolytic, 10x10.5
+
+0
+2
+2
+w_smd_cap
+c_tant_A
+SMT capacitor, tantalum size A
+
+0
+2
+2
+w_smd_cap
+c_tant_B
+SMT capacitor, tantalum size B
+
+0
+2
+2
+w_smd_cap
+c_tant_C
+SMT capacitor, tantalum size C
+
+0
+2
+2
+w_smd_cap
+c_tant_D
+SMT capacitor, tantalum size D
+
+0
+2
+2
+w_smd_cap
+c_tant_E
+SMT capacitor, tantalum size E
+
+0
+2
+2
+w_smd_cap
+c_tant_R
+SMT capacitor, tantalum size R
+
+0
+2
+2
+w_smd_cap
+c_tant_S
+SMT capacitor, tantalum size S
+
+0
+2
+2
+w_smd_cap
+c_tant_T
+SMT capacitor, tantalum size T
+
+0
+2
+2
+w_smd_cap
+c_tant_U
+SMT capacitor, tantalum size U
+
+0
+2
+2
+w_smd_cap
+c_tant_V
+SMT capacitor, tantalum size V
+
+0
+2
+2
+w_smd_cap
+c_tant_X
+SMT capacitor, tantalum size X
+
+0
+2
+2
+w_smd_cap
+cfeed_0805
+SMT FeedThrough capacitor, 0805
+
+0
+3
+3
+w_smd_dil
+hsop-44
+HSOP-44, Freescale 1291-02
+
+0
+46
+45
+w_smd_dil
+mdip_4
+SMD DIL4 x 0,3"
+SMD DIL
+0
+4
+4
+w_smd_dil
+mdip_6
+SMD DIL6 x 0,3"
+SMD DIL
+0
+6
+6
+w_smd_dil
+mdip_8
+SMD DIL8 x 0,3"
+SMD DIL
+0
+8
+8
+w_smd_dil
+mfp_4
+Mini flat package, 4 pin
+
+0
+4
+4
+w_smd_dil
+msoic-8
+MSOIC-8
+
+0
+8
+8
+w_smd_dil
+msoic-8_powerpad
+MSOIC-8 Powerpad
+
+0
+9
+9
+w_smd_dil
+msoic-10
+MSOIC-10
+
+0
+10
+10
+w_smd_dil
+msop-12
+MSOP-12
+
+0
+13
+13
+w_smd_dil
+msop-16
+MSOP-16
+
+0
+17
+17
+w_smd_dil
+multipowerso-30
+MultiPowerSO-30
+
+0
+33
+33
+w_smd_dil
+pdso-8
+PDSO-8
+
+0
+8
+8
+w_smd_dil
+powerso-20
+PowerSO-20, Jedec MO-166
+
+0
+22
+21
+w_smd_dil
+psop-8
+PSOP-8
+
+0
+9
+9
+w_smd_dil
+psop-24
+PSOP-24 - PowerPad Small-Outline
+
+0
+25
+25
+w_smd_dil
+qsop-16ep
+QSOP-16EP
+
+0
+17
+17
+w_smd_dil
+smd_4
+SMD4 package
+
+0
+4
+4
+w_smd_dil
+so-8
+SO-8
+
+0
+8
+8
+w_smd_dil
+so-14
+SO-14
+
+0
+14
+14
+w_smd_dil
+so-16
+SO-16
+
+0
+16
+16
+w_smd_dil
+soic-14
+SOIC Wide, 14 pins
+
+0
+14
+14
+w_smd_dil
+soic-16
+SOIC Wide, 16 pins
+
+0
+16
+16
+w_smd_dil
+soic-18
+SOIC Wide, 18 pins
+
+0
+18
+18
+w_smd_dil
+soic-20
+SOIC Wide, 20 pins
+
+0
+20
+20
+w_smd_dil
+soic-24
+SOIC Wide, 24 pins
+
+0
+24
+24
+w_smd_dil
+soic-28
+SOIC Wide, 28 pins
+
+0
+28
+28
+w_smd_dil
+soij-8
+SOIJ-8
+
+0
+8
+8
+w_smd_dil
+ssop-16
+SSOP-16
+
+0
+16
+16
+w_smd_dil
+ssop-24
+SSOP-24
+
+0
+24
+24
+w_smd_dil
+ssop-28
+SSOP-16
+
+0
+28
+28
+w_smd_dil
+ssop-48
+SSOP-48
+
+0
+48
+48
+w_smd_dil
+tsoc-6
+TSOC-6
+
+0
+6
+6
+w_smd_dil
+tsop2-44
+TSOP2-44
+
+0
+44
+44
+w_smd_dil
+tssop-8
+TSSOP-8
+
+0
+8
+8
+w_smd_dil
+tssop-14
+TSSOP-14
+
+0
+14
+14
+w_smd_dil
+tssop-16
+TSSOP-16
+
+0
+16
+16
+w_smd_dil
+tssop-20
+TSSOP-20
+
+0
+20
+20
+w_smd_dil
+tssop-24
+TSSOP-24
+
+0
+24
+24
+w_smd_dil
+tssop-28
+TSSOP-28
+
+0
+28
+28
+w_smd_dil
+tssop-32
+TSSOP-32
+
+0
+32
+32
+w_smd_diode
+MBS
+
+
+0
+4
+4
+w_smd_diode
+SDIP04A
+
+
+0
+4
+4
+w_smd_diode
+do214aa
+DO214AA
+
+0
+2
+2
+w_smd_diode
+do214ab
+DO214AB
+
+0
+2
+2
+w_smd_diode
+do214ac
+DO214AC
+
+0
+2
+2
+w_smd_diode
+do219ab
+DO219AB
+
+0
+2
+2
+w_smd_diode
+melf
+Melf
+
+0
+2
+2
+w_smd_diode
+micromelf
+Micromelf
+
+0
+2
+2
+w_smd_diode
+sod80c
+SOD80C
+
+0
+2
+2
+w_smd_diode
+sod87
+SOD87
+
+0
+2
+2
+w_smd_diode
+sod123
+SOD123
+
+0
+2
+2
+w_smd_diode
+sod323
+SOD323
+
+0
+2
+2
+w_smd_diode
+sod523
+SOD523
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_4.8x2.8mm
+Inductor SMD, d.4.8mm x h.2.8mm
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_5.8x2.8mm
+Inductor SMD, d.5.8mm x h.2.8mm
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_6.5x4.8mm
+Inductor SMD, 6.5mm x h.4.8mm
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_8x5mm
+Inductor SMD, d.8mm x h.5mm
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_0402
+Inductor SMD, 0402
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_0603
+Inductor SMD, 0603
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_0805
+Inductor SMD, 0805
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_1008
+Inductor SMD, 1008
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_do3316p
+Inductor SMD, Coilcraft DO3316P series
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_pm2120
+Inductor SMD, Bourns PM2120 series
+
+0
+2
+2
+w_smd_inductors
+inductor_smd_ser2900
+Inductor SMD, Coilcraft SER2900 series
+
+0
+3
+2
+w_smd_inductors
+transf_smd_ep7-8
+Transformer SMD, EP7-8 model
+
+0
+8
+8
+w_smd_inductors
+transf_smd_ep10-8
+Transformer SMD, EP10-8 model
+
+0
+8
+8
+w_smd_inductors
+transf_smd_ep13-10
+Transformer SMD, EP13-10 model
+
+0
+10
+10
+w_smd_leds
+Avago_Aveon
+Avago Aveon
+
+0
+3
+3
+w_smd_leds
+Avago_Jade
+Avago Jade
+
+0
+3
+3
+w_smd_leds
+Citizen_CL82x
+Citizen_CL82x
+
+0
+3
+2
+w_smd_leds
+Citizen_CLL600
+Citizen_CLL600
+
+0
+2
+2
+w_smd_leds
+Cree_CLM3C
+
+
+0
+2
+2
+w_smd_leds
+Cree_CLP6B
+Cree PLCC6 Led - CLP6B
+
+0
+6
+6
+w_smd_leds
+Cree_MC-E
+Cree MC-E
+
+0
+9
+9
+w_smd_leds
+Cree_ML-E
+Cree ML-E
+
+0
+5
+5
+w_smd_leds
+Cree_MT
+Cree MT
+
+0
+9
+3
+w_smd_leds
+Cree_MX
+Cree MX
+
+0
+3
+3
+w_smd_leds
+Cree_XB
+Cree XB
+
+0
+5
+3
+w_smd_leds
+Cree_XM
+Cree XM
+
+0
+5
+3
+w_smd_leds
+Cree_XM-L_Color
+Cree XM-L Color
+
+0
+10
+9
+w_smd_leds
+Cree_XP
+Cree XP
+
+0
+5
+3
+w_smd_leds
+Cree_XR
+Cree XR
+
+0
+9
+3
+w_smd_leds
+Edison_Edixeon_A
+Edison Edixeon A
+
+0
+3
+3
+w_smd_leds
+Edison_Edixeon_RGB
+Edison Edixeon RGB
+
+0
+7
+7
+w_smd_leds
+Edison_Federal_5050
+Edison Federal 5050
+
+0
+17
+9
+w_smd_leds
+Led_0402
+SMD LED, 0402
+
+0
+2
+2
+w_smd_leds
+Led_0603
+SMD LED, 0603
+
+0
+2
+2
+w_smd_leds
+Led_0805
+SMD LED, 0805
+
+0
+2
+2
+w_smd_leds
+Led_1206
+SMD LED_ 1206
+
+0
+2
+2
+w_smd_leds
+Led_PLCC2_3528
+3528 PLCC2 SMD led
+
+0
+2
+2
+w_smd_leds
+Luxeon_C
+Philips Lumileds Luxeon C
+
+0
+6
+2
+w_smd_leds
+Luxeon_M
+Philips Lumileds Luxeon M
+
+0
+10
+3
+w_smd_leds
+Luxeon_Rebel
+Philips Lumileds Luxeon Rebel
+
+0
+7
+3
+w_smd_leds
+Multi_Rebel+XP
+Multi footprint, Rebel+XP
+
+0
+10
+2
+w_smd_leds
+Osram_Duris_E3
+Osram Duris E 3
+
+0
+2
+2
+w_smd_leds
+Osram_Duris_E5
+Osram Duris E 5
+
+0
+7
+5
+w_smd_leds
+Osram_Duris_S5
+Osram Duris S 5
+
+0
+8
+2
+w_smd_leds
+Osram_GoldenDragon
+Osram Golden Dragon
+
+0
+3
+3
+w_smd_leds
+Osram_GoldenDragonPlus
+Osram Golden Dragon Plus
+
+0
+3
+3
+w_smd_leds
+Osram_PlatinumDragon
+Osram Platinum Dragon
+
+0
+3
+3
+w_smd_leds
+Samsung_2323
+
+
+0
+9
+2
+w_smd_leds
+Seoul_5630
+Seoul 5630
+
+0
+5
+5
+w_smd_leds
+Seoul_P4
+Seoul P4
+
+0
+3
+3
+w_smd_leds
+Seoul_P5-II
+Seoul P5-II
+
+0
+7
+7
+w_smd_leds
+Seoul_Z7
+Seoul Z7
+
+0
+13
+9
+w_smd_leds
+osram_duris_p5
+Osram Duris P5
+
+0
+4
+2
+w_smd_leds
+osram_oslon
+Osram Oslon
+
+0
+3
+3
+w_smd_leds
+sfh5712
+Osram SFH 5712 2x2mm package
+
+0
+4
+4
+w_smd_leds
+sharp_doubledome
+Sharp DoubleDome
+
+0
+2
+2
+w_smd_lqfp
+LQFP-176
+LQFP-176
+
+0
+176
+176
+w_smd_lqfp
+TQFP-100
+TQFP-100
+
+0
+100
+100
+w_smd_lqfp
+TQFP-100-4
+TQFP-100, 12x12 0.4mm pitch
+
+0
+100
+100
+w_smd_lqfp
+TQFP-144
+TQFP-144
+
+0
+144
+144
+w_smd_lqfp
+lqfp32
+LQFP-32
+
+0
+32
+32
+w_smd_lqfp
+lqfp44
+LQFP-44
+
+0
+44
+44
+w_smd_lqfp
+lqfp48
+LQFP-48
+
+0
+48
+48
+w_smd_lqfp
+lqfp52
+LQFP-52
+
+0
+52
+52
+w_smd_lqfp
+lqfp64
+LQFP-64
+
+0
+64
+64
+w_smd_lqfp
+lqfp80
+LQFP-80
+
+0
+80
+80
+w_smd_lqfp
+lqfp80-05
+LQFP-80, 12x12 0.5mm pitch
+
+0
+80
+80
+w_smd_lqfp
+lqfp112
+LQFP-112
+
+0
+111
+111
+w_smd_lqfp
+lqfp128
+LQFP-128
+
+0
+128
+128
+w_smd_lqfp
+qfp120
+QFP-120 0.5mm pitch
+
+0
+120
+120
+w_smd_lqfp
+qfp120-08
+QFP-120 0.8mm pitch
+
+0
+120
+120
+w_smd_lqfp
+tqfp64-08
+TQFP-64 0.8mm pitch
+
+0
+64
+64
+w_smd_plcc
+PLCC20
+
+
+0
+20
+20
+w_smd_plcc
+PLCC28
+
+
+0
+28
+28
+w_smd_plcc
+PLCC32
+
+
+0
+32
+32
+w_smd_plcc
+PLCC44
+
+
+0
+44
+44
+w_smd_plcc
+PLCC52
+
+
+0
+52
+52
+w_smd_plcc
+PLCC68
+
+
+0
+68
+68
+w_smd_plcc
+PLCC84
+
+
+0
+84
+84
+w_smd_qfn
+DFN-6_Clock
+Oscillator Ceramic DFP, 6 pins
+
+0
+6
+6
+w_smd_qfn
+dfn-s-8
+Plastic QFP, Microchip DFN-S-8
+
+0
+9
+9
+w_smd_qfn
+dfn5
+Plastic QFP, ON DFN5 (SO-8FL)
+
+0
+25
+5
+w_smd_qfn
+dfn6-3x3
+Plastic DFN, Silicon Labs 6pin 3x3mm
+
+0
+7
+7
+w_smd_qfn
+dfn8
+Plastic QFP, ON DFN8
+
+0
+9
+9
+w_smd_qfn
+dfn8-2x3
+Plastic QFP, Microchip DFN8 2x3
+
+0
+9
+9
+w_smd_qfn
+dfn10-3x3
+Plastic DFN, 10 pins, 3x3, Linear Technology
+
+0
+12
+11
+w_smd_qfn
+dfn12
+Plastic QFP, Linear DFN12
+
+0
+13
+13
+w_smd_qfn
+dfn2018-6
+Plastic DFP, Diodes DFN2018-6
+
+0
+7
+7
+w_smd_qfn
+hclga-10l
+Plastic HCLGA, 10 pins, 25x25x10
+
+0
+10
+10
+w_smd_qfn
+hvson8
+Plastic QFP, NXP HVSON8
+
+0
+9
+9
+w_smd_qfn
+lfcsp-48
+Plastic Lead Frame CSP, National CP-48-3
+
+0
+52
+49
+w_smd_qfn
+lfcsp-uq-10_13x16
+Plastic LFCSP, 10 pins, 13x16
+
+0
+10
+10
+w_smd_qfn
+lfcsp-uq-10_20x20
+Plastic LFCSP, 10 pins, 20x20
+
+0
+10
+10
+w_smd_qfn
+lfcsp-vq-12_30x30
+Plastic LFCSP, 12 pins, 30x30, National CP-12-3
+
+0
+13
+13
+w_smd_qfn
+lfcsp-wd-10_30x30
+Plastic LFCSP, 10 pins, 30x30, National CP-10-3
+
+0
+12
+11
+w_smd_qfn
+lga-24
+Plastic QFP, ST LGA-24 4x4x1mm
+
+0
+24
+24
+w_smd_qfn
+pqfp-10
+Plastic QFP-Narrow, 10 pins
+
+0
+10
+10
+w_smd_qfn
+pvqfn-n14
+Plastic QFP, TI PVQFN-N14
+
+0
+18
+15
+w_smd_qfn
+pvqfn-n16
+Plastic QFP, TI PVQFN-N16
+
+0
+22
+17
+w_smd_qfn
+pvqfn-n20
+Plastic QFP, TI PVQFN-N20
+
+0
+26
+21
+w_smd_qfn
+pvqfn-n24
+Plastic QFP, TI PVQFN-N24
+
+0
+38
+25
+w_smd_qfn
+pvqfn-n32
+Plastic QFP, TI S-PVQFN-N32
+
+0
+36
+33
+w_smd_qfn
+pvqfn-n40
+Plastic QFP, TI S-PVQFN-N40
+
+0
+49
+41
+w_smd_qfn
+pvqfn-n48
+Plastic QFP, TI S-PVQFN-N48
+
+0
+57
+49
+w_smd_qfn
+qfn-16
+Plastic QFP, Freescale QFN-16
+
+0
+20
+17
+w_smd_qfn
+qfn-20
+Plastic QFP, Microchip QFN-20
+
+0
+24
+21
+w_smd_qfn
+qfn-24
+Plastic QFP, Micrel QFN44-24LD-LP-1
+
+0
+28
+25
+w_smd_qfn
+qfn-28
+Plastic QFP, Microchip QFN-28
+
+0
+32
+29
+w_smd_qfn
+qfn-44
+Plastic QFP, Microchip QFN-44
+
+0
+48
+45
+w_smd_qfn
+qfn-64
+Plastic QFP, Microchip QFN-64
+
+0
+68
+65
+w_smd_qfn
+r-px2son-n8
+Plastic QFP, TI R-PX2SON-N8
+
+0
+8
+8
+w_smd_qfn
+r-qfn044-d
+Plastic QFP, Dream R-QFN044_D
+
+0
+48
+45
+w_smd_qfn
+sot883-1
+Plastic DFP, NXP XSON-8 SOT883-1
+
+0
+8
+8
+w_smd_qfn
+sot996-2
+Plastic DFP, NXP XSON8 SOT996-2
+
+0
+8
+8
+w_smd_qfn
+tdfn8
+Plastic QFP, Microchip TDFN8
+
+0
+9
+9
+w_smd_qfn
+wson
+Plastic QFP, TI WSON
+
+0
+9
+9
+w_smd_qfn
+xson8
+Plastic DFP, NXP XSON-8
+
+0
+8
+8
+w_smd_resistors
+r_0402
+SMT resistor, 0402
+
+0
+2
+2
+w_smd_resistors
+r_0603
+SMT resistor, 0603
+
+0
+2
+2
+w_smd_resistors
+r_0805
+SMT resistor, 0805
+
+0
+2
+2
+w_smd_resistors
+r_1206
+SMT resistor, 1206
+
+0
+2
+2
+w_smd_resistors
+r_1210
+SMT resistor, 1210
+
+0
+2
+2
+w_smd_resistors
+r_2010
+SMT resistor, 2010
+
+0
+2
+2
+w_smd_resistors
+r_2512
+SMT resistor, 2512
+
+0
+2
+2
+w_smd_resistors
+r_cat16-2
+SMT resistor net, Bourns CAT16 series, 2 way
+
+0
+4
+4
+w_smd_resistors
+r_cat16-4
+SMT resistor net, Bourns CAT16 series, 4 way
+
+0
+8
+8
+w_smd_resistors
+r_cat16-8
+SMT resistor net, Bourns CAT16 series, 8 way
+
+0
+16
+16
+w_smd_resistors
+trim_bi_23b
+SMT trimmer, BI Technologies 23B
+
+0
+3
+3
+w_smd_resistors
+trim_bourns_3214g
+SMT trimmer, Bourns 3214G
+
+0
+3
+3
+w_smd_resistors
+trim_bourns_3214j
+SMT trimmer, Bourns 3214J
+
+0
+3
+3
+w_smd_resistors
+trim_bourns_3214w
+SMT trimmer, Bourns 3214W
+
+0
+3
+3
+w_smd_resistors
+trim_bourns_3214x
+SMT trimmer, Bourns 3214X
+
+0
+3
+3
+w_smd_resistors
+trim_bourns_3223g
+SMT trimmer, Bourns 3223G
+
+0
+3
+3
+w_smd_resistors
+trim_bourns_3223j
+SMT trimmer, Bourns 3223J
+
+0
+3
+3
+w_smd_resistors
+trim_bourns_3223w
+SMT trimmer, Bourns 3223W
+
+0
+3
+3
+w_smd_resistors
+trim_diplohm_s11
+SMT trimmer, Diplohmatic S11
+
+0
+4
+3
+w_smd_resistors
+trim_diplohm_s13
+SMT trimmer, Diplohmatic S13
+
+0
+4
+3
+w_smd_resistors
+trim_murata_pva2a
+SMT trimmer, Murata PVA2A
+
+0
+3
+3
+w_smd_resistors
+trim_murata_pvf2
+SMT trimmer, Murata PVF2
+
+0
+3
+3
+w_smd_resistors
+trim_murata_pvz2a
+SMT trimmer, Murata PVZ2A
+
+0
+3
+3
+w_smd_resistors
+trim_murata_pvz2k
+SMT trimmer, Murata PVZ2K
+
+0
+3
+3
+w_smd_resistors
+trim_murata_pvz2r
+SMT trimmer, Murata PVZ2R
+
+0
+3
+3
+w_smd_strip
+bb02-hp04
+Smd dual-row strip connector, 2x2 pin, 2.54mm pitch
+
+0
+4
+4
+w_smd_strip
+bb02-hp04_peg
+Smd dual-row strip connector, 2x2 pin with pegs, 2.54mm pitch
+
+0
+4
+4
+w_smd_strip
+bb02-hp06
+Smd dual-row strip connector, 3x2 pin, 2.54mm pitch
+
+0
+6
+6
+w_smd_strip
+bb02-hp06_peg
+Smd dual-row strip connector, 3x2 pin with pegs, 2.54mm pitch
+
+0
+6
+6
+w_smd_strip
+bb02-hp08
+Smd dual-row strip connector, 4x2 pin, 2.54mm pitch
+
+0
+8
+8
+w_smd_strip
+bb02-hp08_peg
+Smd dual-row strip connector, 4x2 pin with pegs, 2.54mm pitch
+
+0
+8
+8
+w_smd_strip
+bb02-hp10
+Smd dual-row strip connector, 5x2 pin, 2.54mm pitch
+
+0
+10
+10
+w_smd_strip
+bb02-hp10_peg
+Smd dual-row strip connector, 5x2 pin with pegs, 2.54mm pitch
+
+0
+10
+10
+w_smd_strip
+bb02-hp12
+Smd dual-row strip connector, 6x2 pin, 2.54mm pitch
+
+0
+12
+12
+w_smd_strip
+bb02-hp12_peg
+Smd dual-row strip connector, 6x2 pin with pegs, 2.54mm pitch
+
+0
+12
+12
+w_smd_strip
+bb02-hp14
+Smd dual-row strip connector, 7x2 pin, 2.54mm pitch
+
+0
+14
+14
+w_smd_strip
+bb02-hp14_peg
+Smd dual-row strip connector, 7x2 pin with pegs, 2.54mm pitch
+
+0
+14
+14
+w_smd_strip
+bb02-hp16
+Smd dual-row strip connector, 8x2 pin, 2.54mm pitch
+
+0
+16
+16
+w_smd_strip
+bb02-hp16_peg
+Smd dual-row strip connector, 8x2 pin with pegs, 2.54mm pitch
+
+0
+16
+16
+w_smd_strip
+bb02-hp18
+Smd dual-row strip connector, 9x2 pin, 2.54mm pitch
+
+0
+18
+18
+w_smd_strip
+bb02-hp18_peg
+Smd dual-row strip connector, 9x2 pin with pegs, 2.54mm pitch
+
+0
+18
+18
+w_smd_strip
+bb02-hp20
+Smd dual-row strip connector, 10x2 pin, 2.54mm pitch
+
+0
+20
+20
+w_smd_strip
+bb02-hp20_peg
+Smd dual-row strip connector, 10x2 pin with pegs, 2.54mm pitch
+
+0
+20
+20
+w_smd_strip
+bb02-hp22
+Smd dual-row strip connector, 11x2 pin, 2.54mm pitch
+
+0
+22
+22
+w_smd_strip
+bb02-hp22_peg
+Smd dual-row strip connector, 11x2 pin with pegs, 2.54mm pitch
+
+0
+22
+22
+w_smd_strip
+bb02-hp24
+Smd dual-row strip connector, 12x2 pin, 2.54mm pitch
+
+0
+24
+24
+w_smd_strip
+bb02-hp24_peg
+Smd dual-row strip connector, 12x2 pin with pegs, 2.54mm pitch
+
+0
+24
+24
+w_smd_strip
+bb02-hp26
+Smd dual-row strip connector, 13x2 pin, 2.54mm pitch
+
+0
+26
+26
+w_smd_strip
+bb02-hp26_peg
+Smd dual-row strip connector, 13x2 pin with pegs, 2.54mm pitch
+
+0
+26
+26
+w_smd_strip
+bb02-hp28
+Smd dual-row strip connector, 14x2 pin, 2.54mm pitch
+
+0
+28
+28
+w_smd_strip
+bb02-hp28_peg
+Smd dual-row strip connector, 14x2 pin with pegs, 2.54mm pitch
+
+0
+28
+28
+w_smd_strip
+bb02-hp30
+Smd dual-row strip connector, 15x2 pin, 2.54mm pitch
+
+0
+30
+30
+w_smd_strip
+bb02-hp30_peg
+Smd dual-row strip connector, 15x2 pin with pegs, 2.54mm pitch
+
+0
+30
+30
+w_smd_strip
+bb02-hp32
+Smd dual-row strip connector, 16x2 pin, 2.54mm pitch
+
+0
+32
+32
+w_smd_strip
+bb02-hp32_peg
+Smd dual-row strip connector, 16x2 pin with pegs, 2.54mm pitch
+
+0
+32
+32
+w_smd_strip
+bb02-hp34
+Smd dual-row strip connector, 17x2 pin, 2.54mm pitch
+
+0
+34
+34
+w_smd_strip
+bb02-hp34_peg
+Smd dual-row strip connector, 17x2 pin with pegs, 2.54mm pitch
+
+0
+34
+34
+w_smd_strip
+bb02-hp36
+Smd dual-row strip connector, 18x2 pin, 2.54mm pitch
+
+0
+36
+36
+w_smd_strip
+bb02-hp36_peg
+Smd dual-row strip connector, 18x2 pin with pegs, 2.54mm pitch
+
+0
+36
+36
+w_smd_strip
+bb02-hp38
+Smd dual-row strip connector, 19x2 pin, 2.54mm pitch
+
+0
+38
+38
+w_smd_strip
+bb02-hp38_peg
+Smd dual-row strip connector, 19x2 pin with pegs, 2.54mm pitch
+
+0
+38
+38
+w_smd_strip
+bb02-hp40
+Smd dual-row strip connector, 20x2 pin, 2.54mm pitch
+
+0
+40
+40
+w_smd_strip
+bb02-hp40_peg
+Smd dual-row strip connector, 20x2 pin with pegs, 2.54mm pitch
+
+0
+40
+40
+w_smd_strip
+bb02-hp42
+Smd dual-row strip connector, 21x2 pin, 2.54mm pitch
+
+0
+42
+42
+w_smd_strip
+bb02-hp42_peg
+Smd dual-row strip connector, 21x2 pin with pegs, 2.54mm pitch
+
+0
+42
+42
+w_smd_strip
+bb02-hp44
+Smd dual-row strip connector, 22x2 pin, 2.54mm pitch
+
+0
+44
+44
+w_smd_strip
+bb02-hp44_peg
+Smd dual-row strip connector, 22x2 pin with pegs, 2.54mm pitch
+
+0
+44
+44
+w_smd_strip
+bb02-hp46
+Smd dual-row strip connector, 23x2 pin, 2.54mm pitch
+
+0
+46
+46
+w_smd_strip
+bb02-hp46_peg
+Smd dual-row strip connector, 23x2 pin with pegs, 2.54mm pitch
+
+0
+46
+46
+w_smd_strip
+bb02-hp48
+Smd dual-row strip connector, 24x2 pin, 2.54mm pitch
+
+0
+48
+48
+w_smd_strip
+bb02-hp48_peg
+Smd dual-row strip connector, 24x2 pin with pegs, 2.54mm pitch
+
+0
+48
+48
+w_smd_strip
+bb02-hp50
+Smd dual-row strip connector, 25x2 pin, 2.54mm pitch
+
+0
+50
+50
+w_smd_strip
+bb02-hp50_peg
+Smd dual-row strip connector, 25x2 pin with pegs, 2.54mm pitch
+
+0
+50
+50
+w_smd_strip
+bb02-hp52
+Smd dual-row strip connector, 26x2 pin, 2.54mm pitch
+
+0
+52
+52
+w_smd_strip
+bb02-hp52_peg
+Smd dual-row strip connector, 26x2 pin with pegs, 2.54mm pitch
+
+0
+52
+52
+w_smd_strip
+bb02-hp54
+Smd dual-row strip connector, 27x2 pin, 2.54mm pitch
+
+0
+54
+54
+w_smd_strip
+bb02-hp54_peg
+Smd dual-row strip connector, 27x2 pin with pegs, 2.54mm pitch
+
+0
+54
+54
+w_smd_strip
+bb02-hp56
+Smd dual-row strip connector, 28x2 pin, 2.54mm pitch
+
+0
+56
+56
+w_smd_strip
+bb02-hp56_peg
+Smd dual-row strip connector, 28x2 pin with pegs, 2.54mm pitch
+
+0
+56
+56
+w_smd_strip
+bb02-hp58
+Smd dual-row strip connector, 29x2 pin, 2.54mm pitch
+
+0
+58
+58
+w_smd_strip
+bb02-hp58_peg
+Smd dual-row strip connector, 29x2 pin with pegs, 2.54mm pitch
+
+0
+58
+58
+w_smd_strip
+bb02-hp60
+Smd dual-row strip connector, 30x2 pin, 2.54mm pitch
+
+0
+60
+60
+w_smd_strip
+bb02-hp60_peg
+Smd dual-row strip connector, 30x2 pin with pegs, 2.54mm pitch
+
+0
+60
+60
+w_smd_strip
+bb02-hp62
+Smd dual-row strip connector, 31x2 pin, 2.54mm pitch
+
+0
+62
+62
+w_smd_strip
+bb02-hp62_peg
+Smd dual-row strip connector, 31x2 pin with pegs, 2.54mm pitch
+
+0
+62
+62
+w_smd_strip
+bb02-hp64
+Smd dual-row strip connector, 32x2 pin, 2.54mm pitch
+
+0
+64
+64
+w_smd_strip
+bb02-hp64_peg
+Smd dual-row strip connector, 32x2 pin with pegs, 2.54mm pitch
+
+0
+64
+64
+w_smd_strip
+bb02-hp66
+Smd dual-row strip connector, 33x2 pin, 2.54mm pitch
+
+0
+66
+66
+w_smd_strip
+bb02-hp66_peg
+Smd dual-row strip connector, 33x2 pin with pegs, 2.54mm pitch
+
+0
+66
+66
+w_smd_strip
+bb02-hp68
+Smd dual-row strip connector, 34x2 pin, 2.54mm pitch
+
+0
+68
+68
+w_smd_strip
+bb02-hp68_peg
+Smd dual-row strip connector, 34x2 pin with pegs, 2.54mm pitch
+
+0
+68
+68
+w_smd_strip
+bb02-hp70
+Smd dual-row strip connector, 35x2 pin, 2.54mm pitch
+
+0
+70
+70
+w_smd_strip
+bb02-hp70_peg
+Smd dual-row strip connector, 35x2 pin with pegs, 2.54mm pitch
+
+0
+70
+70
+w_smd_strip
+bb02-hp72
+Smd dual-row strip connector, 36x2 pin, 2.54mm pitch
+
+0
+72
+72
+w_smd_strip
+bb02-hp72_peg
+Smd dual-row strip connector, 36x2 pin with pegs, 2.54mm pitch
+
+0
+72
+72
+w_smd_strip
+bb02-hp74
+Smd dual-row strip connector, 37x2 pin, 2.54mm pitch
+
+0
+74
+74
+w_smd_strip
+bb02-hp74_peg
+Smd dual-row strip connector, 37x2 pin with pegs, 2.54mm pitch
+
+0
+74
+74
+w_smd_strip
+bb02-hp76
+Smd dual-row strip connector, 38x2 pin, 2.54mm pitch
+
+0
+76
+76
+w_smd_strip
+bb02-hp76_peg
+Smd dual-row strip connector, 38x2 pin with pegs, 2.54mm pitch
+
+0
+76
+76
+w_smd_strip
+bb02-hp78
+Smd dual-row strip connector, 39x2 pin, 2.54mm pitch
+
+0
+78
+78
+w_smd_strip
+bb02-hp78_peg
+Smd dual-row strip connector, 39x2 pin with pegs, 2.54mm pitch
+
+0
+78
+78
+w_smd_strip
+bb02-hp80
+Smd dual-row strip connector, 40x2 pin, 2.54mm pitch
+
+0
+80
+80
+w_smd_strip
+bb02-hp80_peg
+Smd dual-row strip connector, 40x2 pin with pegs, 2.54mm pitch
+
+0
+80
+80
+w_smd_strip
+bb02-hy02a
+Smd strip connector, 2 pin, 2.54mm pitch
+
+0
+2
+2
+w_smd_strip
+bb02-hy03a
+Smd strip connector, 3 pin, 2.54mm pitch
+
+0
+3
+3
+w_smd_strip
+bb02-hy04a
+Smd strip connector, 4 pin, 2.54mm pitch
+
+0
+4
+4
+w_smd_strip
+bb02-hy05a
+Smd strip connector, 5 pin, 2.54mm pitch
+
+0
+5
+5
+w_smd_strip
+bb02-hy06a
+Smd strip connector, 6 pin, 2.54mm pitch
+
+0
+6
+6
+w_smd_strip
+bb02-hy07a
+Smd strip connector, 7 pin, 2.54mm pitch
+
+0
+7
+7
+w_smd_strip
+bb02-hy08a
+Smd strip connector, 8 pin, 2.54mm pitch
+
+0
+8
+8
+w_smd_strip
+bb02-hy09a
+Smd strip connector, 9 pin, 2.54mm pitch
+
+0
+9
+9
+w_smd_strip
+bb02-hy10a
+Smd strip connector, 10 pin, 2.54mm pitch
+
+0
+10
+10
+w_smd_strip
+bb02-hy11a
+Smd strip connector, 11 pin, 2.54mm pitch
+
+0
+11
+11
+w_smd_strip
+bb02-hy12a
+Smd strip connector, 12 pin, 2.54mm pitch
+
+0
+12
+12
+w_smd_strip
+bb02-hy13a
+Smd strip connector, 13 pin, 2.54mm pitch
+
+0
+13
+13
+w_smd_strip
+bb02-hy14a
+Smd strip connector, 14 pin, 2.54mm pitch
+
+0
+14
+14
+w_smd_strip
+bb02-hy15a
+Smd strip connector, 15 pin, 2.54mm pitch
+
+0
+15
+15
+w_smd_strip
+bb02-hy16a
+Smd strip connector, 16 pin, 2.54mm pitch
+
+0
+16
+16
+w_smd_strip
+bb02-hy17a
+Smd strip connector, 17 pin, 2.54mm pitch
+
+0
+17
+17
+w_smd_strip
+bb02-hy18a
+Smd strip connector, 18 pin, 2.54mm pitch
+
+0
+18
+18
+w_smd_strip
+bb02-hy19a
+Smd strip connector, 19 pin, 2.54mm pitch
+
+0
+19
+19
+w_smd_strip
+bb02-hy20a
+Smd strip connector, 20 pin, 2.54mm pitch
+
+0
+20
+20
+w_smd_strip
+bb02-hy21a
+Smd strip connector, 21 pin, 2.54mm pitch
+
+0
+21
+21
+w_smd_strip
+bb02-hy22a
+Smd strip connector, 22 pin, 2.54mm pitch
+
+0
+22
+22
+w_smd_strip
+bb02-hy23a
+Smd strip connector, 23 pin, 2.54mm pitch
+
+0
+23
+23
+w_smd_strip
+bb02-hy24a
+Smd strip connector, 24 pin, 2.54mm pitch
+
+0
+24
+24
+w_smd_strip
+bb02-hy25a
+Smd strip connector, 25 pin, 2.54mm pitch
+
+0
+25
+25
+w_smd_strip
+bb02-hy26a
+Smd strip connector, 26 pin, 2.54mm pitch
+
+0
+26
+26
+w_smd_strip
+bb02-hy27a
+Smd strip connector, 27 pin, 2.54mm pitch
+
+0
+27
+27
+w_smd_strip
+bb02-hy28a
+Smd strip connector, 28 pin, 2.54mm pitch
+
+0
+28
+28
+w_smd_strip
+bb02-hy29a
+Smd strip connector, 29 pin, 2.54mm pitch
+
+0
+29
+29
+w_smd_strip
+bb02-hy30a
+Smd strip connector, 30 pin, 2.54mm pitch
+
+0
+30
+30
+w_smd_strip
+bb02-hy31a
+Smd strip connector, 31 pin, 2.54mm pitch
+
+0
+31
+31
+w_smd_strip
+bb02-hy32a
+Smd strip connector, 32 pin, 2.54mm pitch
+
+0
+32
+32
+w_smd_strip
+bb02-hy33a
+Smd strip connector, 33 pin, 2.54mm pitch
+
+0
+33
+33
+w_smd_strip
+bb02-hy34a
+Smd strip connector, 34 pin, 2.54mm pitch
+
+0
+34
+34
+w_smd_strip
+bb02-hy35a
+Smd strip connector, 35 pin, 2.54mm pitch
+
+0
+35
+35
+w_smd_strip
+bb02-hy36a
+Smd strip connector, 36 pin, 2.54mm pitch
+
+0
+36
+36
+w_smd_strip
+bb02-hy37a
+Smd strip connector, 37 pin, 2.54mm pitch
+
+0
+37
+37
+w_smd_strip
+bb02-hy38a
+Smd strip connector, 38 pin, 2.54mm pitch
+
+0
+38
+38
+w_smd_strip
+bb02-hy39a
+Smd strip connector, 39 pin, 2.54mm pitch
+
+0
+39
+39
+w_smd_strip
+bb02-hy40a
+Smd strip connector, 40 pin, 2.54mm pitch
+
+0
+40
+40
+w_smd_strip
+bb080_06
+Smd dual-row strip connector, 3x2 pin, GCT BB080 series
+
+0
+6
+6
+w_smd_strip
+bb080_06_peg
+Smd dual-row strip connector, 3x2 pin with pegs, GCT BB080 series
+
+0
+6
+6
+w_smd_strip
+bb080_08
+Smd dual-row strip connector, 4x2 pin, GCT BB080 series
+
+0
+8
+8
+w_smd_strip
+bb080_08_peg
+Smd dual-row strip connector, 4x2 pin with pegs, GCT BB080 series
+
+0
+8
+8
+w_smd_strip
+bb080_10
+Smd dual-row strip connector, 5x2 pin, GCT BB080 series
+
+0
+10
+10
+w_smd_strip
+bb080_10_peg
+Smd dual-row strip connector, 5x2 pin with pegs, GCT BB080 series
+
+0
+10
+10
+w_smd_strip
+bb080_12
+Smd dual-row strip connector, 6x2 pin, GCT BB080 series
+
+0
+12
+12
+w_smd_strip
+bb080_12_peg
+Smd dual-row strip connector, 6x2 pin with pegs, GCT BB080 series
+
+0
+12
+12
+w_smd_strip
+bb080_14
+Smd dual-row strip connector, 7x2 pin, GCT BB080 series
+
+0
+14
+14
+w_smd_strip
+bb080_14_peg
+Smd dual-row strip connector, 7x2 pin with pegs, GCT BB080 series
+
+0
+14
+14
+w_smd_strip
+bb080_16
+Smd dual-row strip connector, 8x2 pin, GCT BB080 series
+
+0
+16
+16
+w_smd_strip
+bb080_16_peg
+Smd dual-row strip connector, 8x2 pin with pegs, GCT BB080 series
+
+0
+16
+16
+w_smd_strip
+bb080_18
+Smd dual-row strip connector, 9x2 pin, GCT BB080 series
+
+0
+18
+18
+w_smd_strip
+bb080_18_peg
+Smd dual-row strip connector, 9x2 pin with pegs, GCT BB080 series
+
+0
+18
+18
+w_smd_strip
+bb080_20
+Smd dual-row strip connector, 10x2 pin, GCT BB080 series
+
+0
+20
+20
+w_smd_strip
+bb080_20_peg
+Smd dual-row strip connector, 10x2 pin with pegs, GCT BB080 series
+
+0
+20
+20
+w_smd_strip
+bb080_22
+Smd dual-row strip connector, 11x2 pin, GCT BB080 series
+
+0
+22
+22
+w_smd_strip
+bb080_22_peg
+Smd dual-row strip connector, 11x2 pin with pegs, GCT BB080 series
+
+0
+22
+22
+w_smd_strip
+bb080_24
+Smd dual-row strip connector, 12x2 pin, GCT BB080 series
+
+0
+24
+24
+w_smd_strip
+bb080_24_peg
+Smd dual-row strip connector, 12x2 pin with pegs, GCT BB080 series
+
+0
+24
+24
+w_smd_strip
+bb080_26
+Smd dual-row strip connector, 13x2 pin, GCT BB080 series
+
+0
+26
+26
+w_smd_strip
+bb080_26_peg
+Smd dual-row strip connector, 13x2 pin with pegs, GCT BB080 series
+
+0
+26
+26
+w_smd_strip
+bb080_28
+Smd dual-row strip connector, 14x2 pin, GCT BB080 series
+
+0
+28
+28
+w_smd_strip
+bb080_28_peg
+Smd dual-row strip connector, 14x2 pin with pegs, GCT BB080 series
+
+0
+28
+28
+w_smd_strip
+bb080_30
+Smd dual-row strip connector, 15x2 pin, GCT BB080 series
+
+0
+30
+30
+w_smd_strip
+bb080_30_peg
+Smd dual-row strip connector, 15x2 pin with pegs, GCT BB080 series
+
+0
+30
+30
+w_smd_strip
+bb080_32
+Smd dual-row strip connector, 16x2 pin, GCT BB080 series
+
+0
+32
+32
+w_smd_strip
+bb080_32_peg
+Smd dual-row strip connector, 16x2 pin with pegs, GCT BB080 series
+
+0
+32
+32
+w_smd_strip
+bb080_34
+Smd dual-row strip connector, 17x2 pin, GCT BB080 series
+
+0
+34
+34
+w_smd_strip
+bb080_34_peg
+Smd dual-row strip connector, 17x2 pin with pegs, GCT BB080 series
+
+0
+34
+34
+w_smd_strip
+bb080_36
+Smd dual-row strip connector, 18x2 pin, GCT BB080 series
+
+0
+36
+36
+w_smd_strip
+bb080_36_peg
+Smd dual-row strip connector, 18x2 pin with pegs, GCT BB080 series
+
+0
+36
+36
+w_smd_strip
+bb080_38
+Smd dual-row strip connector, 19x2 pin, GCT BB080 series
+
+0
+38
+38
+w_smd_strip
+bb080_38_peg
+Smd dual-row strip connector, 19x2 pin with pegs, GCT BB080 series
+
+0
+38
+38
+w_smd_strip
+bb080_40
+Smd dual-row strip connector, 20x2 pin, GCT BB080 series
+
+0
+40
+40
+w_smd_strip
+bb080_40_peg
+Smd dual-row strip connector, 20x2 pin with pegs, GCT BB080 series
+
+0
+40
+40
+w_smd_strip
+bb080_42
+Smd dual-row strip connector, 21x2 pin, GCT BB080 series
+
+0
+42
+42
+w_smd_strip
+bb080_42_peg
+Smd dual-row strip connector, 21x2 pin with pegs, GCT BB080 series
+
+0
+42
+42
+w_smd_strip
+bb080_44
+Smd dual-row strip connector, 22x2 pin, GCT BB080 series
+
+0
+44
+44
+w_smd_strip
+bb080_44_peg
+Smd dual-row strip connector, 22x2 pin with pegs, GCT BB080 series
+
+0
+44
+44
+w_smd_strip
+bb080_46
+Smd dual-row strip connector, 23x2 pin, GCT BB080 series
+
+0
+46
+46
+w_smd_strip
+bb080_46_peg
+Smd dual-row strip connector, 23x2 pin with pegs, GCT BB080 series
+
+0
+46
+46
+w_smd_strip
+bb080_48
+Smd dual-row strip connector, 24x2 pin, GCT BB080 series
+
+0
+48
+48
+w_smd_strip
+bb080_48_peg
+Smd dual-row strip connector, 24x2 pin with pegs, GCT BB080 series
+
+0
+48
+48
+w_smd_strip
+bb080_50
+Smd dual-row strip connector, 25x2 pin, GCT BB080 series
+
+0
+50
+50
+w_smd_strip
+bb080_50_peg
+Smd dual-row strip connector, 25x2 pin with pegs, GCT BB080 series
+
+0
+50
+50
+w_smd_strip
+bb080_52
+Smd dual-row strip connector, 26x2 pin, GCT BB080 series
+
+0
+52
+52
+w_smd_strip
+bb080_52_peg
+Smd dual-row strip connector, 26x2 pin with pegs, GCT BB080 series
+
+0
+52
+52
+w_smd_strip
+bb080_54
+Smd dual-row strip connector, 27x2 pin, GCT BB080 series
+
+0
+54
+54
+w_smd_strip
+bb080_54_peg
+Smd dual-row strip connector, 27x2 pin with pegs, GCT BB080 series
+
+0
+54
+54
+w_smd_strip
+bb080_56
+Smd dual-row strip connector, 28x2 pin, GCT BB080 series
+
+0
+56
+56
+w_smd_strip
+bb080_56_peg
+Smd dual-row strip connector, 28x2 pin with pegs, GCT BB080 series
+
+0
+56
+56
+w_smd_strip
+bb080_58
+Smd dual-row strip connector, 29x2 pin, GCT BB080 series
+
+0
+58
+58
+w_smd_strip
+bb080_58_peg
+Smd dual-row strip connector, 29x2 pin with pegs, GCT BB080 series
+
+0
+58
+58
+w_smd_strip
+bb080_60
+Smd dual-row strip connector, 30x2 pin, GCT BB080 series
+
+0
+60
+60
+w_smd_strip
+bb080_60_peg
+Smd dual-row strip connector, 30x2 pin with pegs, GCT BB080 series
+
+0
+60
+60
+w_smd_strip
+bb080_62
+Smd dual-row strip connector, 31x2 pin, GCT BB080 series
+
+0
+62
+62
+w_smd_strip
+bb080_62_peg
+Smd dual-row strip connector, 31x2 pin with pegs, GCT BB080 series
+
+0
+62
+62
+w_smd_strip
+bb080_64
+Smd dual-row strip connector, 32x2 pin, GCT BB080 series
+
+0
+64
+64
+w_smd_strip
+bb080_64_peg
+Smd dual-row strip connector, 32x2 pin with pegs, GCT BB080 series
+
+0
+64
+64
+w_smd_strip
+bb080_66
+Smd dual-row strip connector, 33x2 pin, GCT BB080 series
+
+0
+66
+66
+w_smd_strip
+bb080_66_peg
+Smd dual-row strip connector, 33x2 pin with pegs, GCT BB080 series
+
+0
+66
+66
+w_smd_strip
+bb080_68
+Smd dual-row strip connector, 34x2 pin, GCT BB080 series
+
+0
+68
+68
+w_smd_strip
+bb080_68_peg
+Smd dual-row strip connector, 34x2 pin with pegs, GCT BB080 series
+
+0
+68
+68
+w_smd_strip
+bb080_70
+Smd dual-row strip connector, 35x2 pin, GCT BB080 series
+
+0
+70
+70
+w_smd_strip
+bb080_70_peg
+Smd dual-row strip connector, 35x2 pin with pegs, GCT BB080 series
+
+0
+70
+70
+w_smd_strip
+bb080_72
+Smd dual-row strip connector, 36x2 pin, GCT BB080 series
+
+0
+72
+72
+w_smd_strip
+bb080_72_peg
+Smd dual-row strip connector, 36x2 pin with pegs, GCT BB080 series
+
+0
+72
+72
+w_smd_strip
+bb080_74
+Smd dual-row strip connector, 37x2 pin, GCT BB080 series
+
+0
+74
+74
+w_smd_strip
+bb080_74_peg
+Smd dual-row strip connector, 37x2 pin with pegs, GCT BB080 series
+
+0
+74
+74
+w_smd_strip
+bb080_76
+Smd dual-row strip connector, 38x2 pin, GCT BB080 series
+
+0
+76
+76
+w_smd_strip
+bb080_76_peg
+Smd dual-row strip connector, 38x2 pin with pegs, GCT BB080 series
+
+0
+76
+76
+w_smd_strip
+bb080_78
+Smd dual-row strip connector, 39x2 pin, GCT BB080 series
+
+0
+78
+78
+w_smd_strip
+bb080_78_peg
+Smd dual-row strip connector, 39x2 pin with pegs, GCT BB080 series
+
+0
+78
+78
+w_smd_strip
+bb080_80
+Smd dual-row strip connector, 40x2 pin, GCT BB080 series
+
+0
+80
+80
+w_smd_strip
+bb080_80_peg
+Smd dual-row strip connector, 40x2 pin with pegs, GCT BB080 series
+
+0
+80
+80
+w_smd_strip
+bb080_82
+Smd dual-row strip connector, 41x2 pin, GCT BB080 series
+
+0
+82
+82
+w_smd_strip
+bb080_82_peg
+Smd dual-row strip connector, 41x2 pin with pegs, GCT BB080 series
+
+0
+82
+82
+w_smd_strip
+bb080_84
+Smd dual-row strip connector, 42x2 pin, GCT BB080 series
+
+0
+84
+84
+w_smd_strip
+bb080_84_peg
+Smd dual-row strip connector, 42x2 pin with pegs, GCT BB080 series
+
+0
+84
+84
+w_smd_strip
+bb080_86
+Smd dual-row strip connector, 43x2 pin, GCT BB080 series
+
+0
+86
+86
+w_smd_strip
+bb080_86_peg
+Smd dual-row strip connector, 43x2 pin with pegs, GCT BB080 series
+
+0
+86
+86
+w_smd_strip
+bb080_88
+Smd dual-row strip connector, 44x2 pin, GCT BB080 series
+
+0
+88
+88
+w_smd_strip
+bb080_88_peg
+Smd dual-row strip connector, 44x2 pin with pegs, GCT BB080 series
+
+0
+88
+88
+w_smd_strip
+bb080_90
+Smd dual-row strip connector, 45x2 pin, GCT BB080 series
+
+0
+90
+90
+w_smd_strip
+bb080_90_peg
+Smd dual-row strip connector, 45x2 pin with pegs, GCT BB080 series
+
+0
+90
+90
+w_smd_strip
+bb080_92
+Smd dual-row strip connector, 46x2 pin, GCT BB080 series
+
+0
+92
+92
+w_smd_strip
+bb080_92_peg
+Smd dual-row strip connector, 46x2 pin with pegs, GCT BB080 series
+
+0
+92
+92
+w_smd_strip
+bb080_94
+Smd dual-row strip connector, 47x2 pin, GCT BB080 series
+
+0
+94
+94
+w_smd_strip
+bb080_94_peg
+Smd dual-row strip connector, 47x2 pin with pegs, GCT BB080 series
+
+0
+94
+94
+w_smd_strip
+bb080_96
+Smd dual-row strip connector, 48x2 pin, GCT BB080 series
+
+0
+96
+96
+w_smd_strip
+bb080_96_peg
+Smd dual-row strip connector, 48x2 pin with pegs, GCT BB080 series
+
+0
+96
+96
+w_smd_strip
+bb080_98
+Smd dual-row strip connector, 49x2 pin, GCT BB080 series
+
+0
+98
+98
+w_smd_strip
+bb080_98_peg
+Smd dual-row strip connector, 49x2 pin with pegs, GCT BB080 series
+
+0
+98
+98
+w_smd_strip
+bb080_100
+Smd dual-row strip connector, 50x2 pin, GCT BB080 series
+
+0
+100
+100
+w_smd_strip
+bb080_100_peg
+Smd dual-row strip connector, 50x2 pin with pegs, GCT BB080 series
+
+0
+100
+100
+w_smd_trans
+d-pak
+D-pak
+
+0
+3
+3
+w_smd_trans
+d-pak-5
+D-pak 5pin
+
+0
+6
+6
+w_smd_trans
+d2-pak
+D2-pak
+
+0
+3
+3
+w_smd_trans
+d2-pak-7
+D2-pak-7
+
+0
+8
+7
+w_smd_trans
+powermite3
+PowerMite3
+
+0
+3
+3
+w_smd_trans
+ppak
+ST PPAK
+
+0
+5
+5
+w_smd_trans
+sc70
+SC70
+
+0
+3
+3
+w_smd_trans
+sc70-5
+SC70-5
+
+0
+5
+5
+w_smd_trans
+sc70-6
+SC70-6
+
+0
+6
+6
+w_smd_trans
+sot23
+SOT23
+
+0
+3
+3
+w_smd_trans
+sot23-5
+SOT23-5
+
+0
+5
+5
+w_smd_trans
+sot23-6
+SOT23-6
+
+0
+6
+6
+w_smd_trans
+sot23-8
+SOT23-8
+
+0
+8
+8
+w_smd_trans
+sot89
+SOT89
+
+0
+4
+3
+w_smd_trans
+sot143B
+SOT143B
+
+0
+4
+4
+w_smd_trans
+sot143r
+SOT143R
+
+0
+4
+4
+w_smd_trans
+sot223
+SOT223
+
+0
+4
+4
+w_smd_trans
+sot323
+SOT323
+
+0
+3
+3
+w_smd_trans
+sot323-5
+SOT323-5
+
+0
+5
+5
+w_smd_trans
+sot323-6
+SOT323-6
+
+0
+6
+6
+w_smd_trans
+sot404
+SOT404
+
+0
+3
+3
+w_smd_trans
+sot428
+SOT428
+
+0
+3
+3
+w_smd_trans
+to263
+to263
+
+0
+4
+3
+w_smd_trans
+to263ab
+to263ab
+
+0
+3
+3
+w_smd_trans
+tsot-6
+TSOT-6
+
+0
+6
+6
+w_switch
+PCB_PUSH
+PCB pushbutton, Tyco FSM6x6 series
+pushbutton
+0
+4
+4
+w_switch
+PCB_PUSH2
+PCB pushbutton, TEC R18-801A series
+pushbutton
+0
+4
+2
+w_switch
+dip_1-300
+Dip switch, DIL2 x 0,3"
+DIP
+0
+2
+2
+w_switch
+dip_2-300
+Dip switch, DIL4 x 0,3"
+DIP
+0
+4
+4
+w_switch
+dip_3-300
+Dip switch, DIL6 x 0,3"
+DIP
+0
+6
+6
+w_switch
+dip_4-300
+Dip switch, DIL8 x 0,3"
+DIP
+0
+8
+8
+w_switch
+dip_5-300
+Dip switch, DIL10 x 0,3"
+DIP
+0
+10
+10
+w_switch
+dip_6-300
+Dip switch, DIL12 x 0,3"
+DIP
+0
+12
+12
+w_switch
+dip_7-300
+Dip switch, DIL14 x 0,3"
+DIP
+0
+14
+14
+w_switch
+dip_8-300
+Dip switch, DIL16 x 0,3"
+DIP
+0
+16
+16
+w_switch
+dip_9-300
+Dip switch, DIL18 x 0,3"
+DIP
+0
+18
+18
+w_switch
+dip_10-300
+Dip switch, DIL20 x 0,3"
+DIP
+0
+20
+20
+w_switch
+dip_12-300
+Dip switch, DIL24 x 0,3"
+DIP
+0
+24
+24
+w_switch
+pcb_push_xiejia_pb-11d01
+PCB pushbutton, Xiejia PB-11D01
+pushbutton
+0
+2
+2
+w_switch
+pcb_push_xiejia_pb-11d03
+PCB pushbutton, Xiejia PB-11D03
+pushbutton
+0
+3
+3
+w_switch
+pcb_push_xiejia_pb-11d14
+PCB pushbutton, Xiejia PB-11D14
+pushbutton
+0
+4
+4
+w_switch
+smd_push
+SMD Pushbutton
+
+0
+2
+2
+w_switch
+smd_push2
+SMD Pushbutton 2
+
+0
+4
+4
+w_switch
+smd_push_xiejia_pb-11d06
+SMD pushbutton, Xiejia PB-11D06
+pushbutton
+0
+2
+2
+w_switch
+switch_100sp5
+E-Switch 100SP5
+
+0
+3
+3
+w_switch
+switch_mfp116dg-ra
+Knitter MFP 116 DG-RA
+
+0
+5
+3
+w_switch
+switch_mmp122-r
+Knitter MMP122-R
+
+0
+3
+3
+w_to
+Multiwatt11
+MultiWatt 11 pins
+
+0
+11
+11
+w_to
+Multiwatt15
+MultiWatt 15 pins
+
+0
+15
+15
+w_to
+Pentawatt
+Pentawatt 5 pins
+
+0
+5
+5
+w_to
+hzip25-100f
+HZIP25-1.00F
+
+0
+25
+25
+w_to
+ipak
+IPAK
+
+0
+3
+3
+w_to
+ipak_std
+IPAK, standard design without bended pins
+
+0
+3
+3
+w_to
+sot82
+SOT82
+
+0
+3
+3
+w_to
+sot82_std
+SOT82, standard design without bended pins
+
+0
+3
+3
+w_to
+to3-2
+TO3, 2 pins
+
+0
+4
+3
+w_to
+to3-4
+TO3, 4 pins
+
+0
+6
+5
+w_to
+to3-8
+TO3, 8 pins
+
+0
+10
+9
+w_to
+to18
+TO18 package
+
+0
+3
+3
+w_to
+to18-4
+TO18, 4 pins
+
+0
+4
+4
+w_to
+to92_3
+TO92
+
+0
+3
+3
+w_to
+to92_3_flat
+TO92 flat pins
+
+0
+3
+3
+w_to
+to99
+TO99 package
+
+0
+8
+8
+w_to
+to220
+TO220
+
+0
+3
+3
+w_to
+to220-2
+TO220, 2 pins
+
+0
+2
+2
+w_to
+to220-2-horiz
+TO220, 2 pins, horizontal
+
+0
+3
+3
+w_to
+to220-2-horiz_5770
+TO220, 2 pins, horizontal, with Aavid 5770 type Heatsink
+
+0
+2
+2
+w_to
+to220-2-horiz_5771
+TO220, 2 pins, horizontal, with Aavid 5771 type Heatsink
+
+0
+2
+2
+w_to
+to220-2-horiz_5772
+TO220, 2 pins, horizontal, with Aavid 5772 type Heatsink
+
+0
+2
+2
+w_to
+to220-2_11cw
+TO220, 2 pins, with 11°C/W heat sink
+
+0
+4
+2
+w_to
+to220-2_14cw
+TO220, 2 pins, with 14°C/W heat sink
+
+0
+4
+2
+w_to
+to220-2_5770
+TO220, 2 pins, with Aavid 5770 type heatsink
+
+0
+3
+2
+w_to
+to220-2_5771
+TO220, 2 pins, with Aavid 5771 type heatsink
+
+0
+3
+2
+w_to
+to220-2_5772
+TO220, 2 pins, with Aavid 5772 type heatsink
+
+0
+3
+2
+w_to
+to220-5
+TO220, 5pins
+
+0
+5
+5
+w_to
+to220-5-horiz
+TO220, 5 pins, horizontal
+
+0
+6
+6
+w_to
+to220-5-horiz_5770
+TO220, 5 pins, horizontal, with Aavid 5770 type Heatsink
+
+0
+5
+5
+w_to
+to220-5-horiz_5771
+TO220, 5 pins, horizontal, with Aavid 5771 type Heatsink
+
+0
+5
+5
+w_to
+to220-5-horiz_5772
+TO220, 5 pins, horizontal, with Aavid 5772 type Heatsink
+
+0
+5
+5
+w_to
+to220-5_11cw
+TO220, 5pins, with 11°C/W Aavid 0S172 type heat sink
+
+0
+7
+5
+w_to
+to220-5_14cw
+TO220, 5pins, with 14°C/W Aavid 0S172 type heat sink
+
+0
+7
+5
+w_to
+to220-5_5770
+TO220, 5 pins, with Aavid 5770 type heatsink
+
+0
+6
+5
+w_to
+to220-5_5771
+TO220, 5 pins, with Aavid 5771 type heatsink
+
+0
+6
+5
+w_to
+to220-5_5772
+TO220, 5 pins, with Aavid 5772 type heatsink
+
+0
+6
+5
+w_to
+to220-15
+TO220, 15pins
+
+0
+15
+15
+w_to
+to220-horiz
+TO220, horizontal
+
+0
+4
+4
+w_to
+to220-horiz_5770
+TO220, horizontal, with Aavid 5770 type Heatsink
+
+0
+3
+3
+w_to
+to220-horiz_5771
+TO220, horizontal, with Aavid 5771 type Heatsink
+
+0
+3
+3
+w_to
+to220-horiz_5772
+TO220, horizontal, with Aavid 5772 type Heatsink
+
+0
+3
+3
+w_to
+to220_11cw
+TO220 with 11°C/W heat sink
+
+0
+5
+3
+w_to
+to220_14cw
+TO220 with 14°C/W heat sink
+
+0
+5
+3
+w_to
+to220_5770
+TO220, with Aavid 5770 type heatsink
+
+0
+4
+3
+w_to
+to220_5771
+TO220, with Aavid 5771 type heatsink
+
+0
+4
+3
+w_to
+to220_5772
+TO220, with Aavid 5772 type heatsink
+
+0
+4
+3
+w_to
+to220_std
+TO220, standard design witount bended pins
+
+0
+3
+3
+w_to
+to220_std_11cw
+TO220, standard design, with 11°C/W heat sink
+
+0
+5
+3
+w_to
+to220_std_14cw
+TO220, standard design, with 14°C/W heat sink
+
+0
+5
+3
+w_to
+to220_std_5770
+TO220, standard design, with Aavid 5770 type heatsink
+
+0
+4
+3
+w_to
+to220_std_5771
+TO220, standard design, with Aavid 5771 type heatsink
+
+0
+4
+3
+w_to
+to220_std_5772
+TO220, standard design, with Aavid 5772 type heatsink
+
+0
+4
+3
+w_to
+to225
+TO225
+
+0
+3
+3
+w_to
+to225_std
+TO225, standard design without bended pins
+
+0
+3
+3
+w_to
+to247
+TO247
+
+0
+3
+3
+w_to
+top3
+TOP3
+
+0
+3
+3
+w_vacuum
+socket_gzc7-y
+GZC7-Y 7-pin vacuum tube socket
+
+0
+7
+7
+w_vacuum
+socket_gzc9-b
+GZC9-B 9-pin vacuum tube socket
+
+0
+9
+9
+w_vacuum
+tube_gzc7-y
+GZC7-Y 7-pin vacuum tube socket, with tube
+
+0
+7
+7
+w_vacuum
+tube_gzc9-b
+GZC9-B 9-pin vacuum tube socket, with tube
+
+0
+9
+9
