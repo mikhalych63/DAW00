@@ -8182,7 +8182,7 @@
 			(at 124.46 165.1 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -8190,7 +8190,7 @@
 			(at 124.46 171.45 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8199,7 +8199,7 @@
 			(at 124.46 171.45 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8208,7 +8208,7 @@
 			(at 124.46 171.45 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8248,7 +8248,7 @@
 			(at 139.7 71.12 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -8257,7 +8257,7 @@
 			(at 140.97 68.58 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8266,7 +8266,7 @@
 			(at 140.97 68.58 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -8274,7 +8274,16 @@
 			(at 140.97 68.58 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "2200u"
+			(at 140.97 68.58 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8315,7 +8324,7 @@
 			(at 109.22 166.9796 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -8323,7 +8332,7 @@
 			(at 109.22 161.29 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8332,7 +8341,7 @@
 			(at 109.22 161.29 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8341,7 +8350,7 @@
 			(at 109.22 173.99 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8350,7 +8359,7 @@
 			(at 109.22 173.99 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8395,7 +8404,7 @@
 			(at 127.127 114.173 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -8404,7 +8413,7 @@
 			(at 128.27 114.935 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 					(italic yes)
 				)
 				(justify left)
@@ -8415,7 +8424,7 @@
 			(at 121.92 113.03 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(justify left)
 				(hide yes)
@@ -8425,7 +8434,7 @@
 			(at 121.92 113.03 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8470,7 +8479,7 @@
 			(at 54.61 29.845 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -8478,7 +8487,7 @@
 			(at 52.07 30.48 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8487,7 +8496,7 @@
 			(at 52.07 30.48 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8496,7 +8505,7 @@
 			(at 52.07 29.21 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8532,11 +8541,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "CAP_10n_50V_X7R_0603"
 			(at 173.609 181.483 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -8544,7 +8553,7 @@
 			(at 172.4152 175.26 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8553,7 +8562,7 @@
 			(at 171.45 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8562,7 +8571,7 @@
 			(at 171.45 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8571,7 +8580,16 @@
 			(at 171.45 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "10n"
+			(at 171.45 179.07 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8614,7 +8632,7 @@
 			(at 177.8 57.15 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -8622,7 +8640,7 @@
 			(at 177.8 62.23 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8631,7 +8649,7 @@
 			(at 177.8 62.23 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8640,7 +8658,7 @@
 			(at 177.8 62.23 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8679,7 +8697,7 @@
 			(at 33.4518 168.3258 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -8687,7 +8705,7 @@
 			(at 33.02 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8696,7 +8714,7 @@
 			(at 33.02 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8705,7 +8723,7 @@
 			(at 33.02 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8744,7 +8762,7 @@
 			(at 109.347 187.2742 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -8752,7 +8770,7 @@
 			(at 109.22 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8761,7 +8779,7 @@
 			(at 109.22 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8770,7 +8788,7 @@
 			(at 109.22 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8810,7 +8828,7 @@
 			(at 62.23 121.285 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -8819,7 +8837,7 @@
 			(at 50.8 127.635 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 					(italic yes)
 				)
 				(justify left)
@@ -8830,7 +8848,7 @@
 			(at 55.88 125.73 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(justify left)
 				(hide yes)
@@ -8840,7 +8858,7 @@
 			(at 55.88 125.73 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8886,7 +8904,7 @@
 			(at 108.458 42.672 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify right)
 			)
@@ -8895,7 +8913,7 @@
 			(at 118.11 53.34 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 					(italic yes)
 				)
 				(justify left)
@@ -8906,7 +8924,7 @@
 			(at 110.49 48.26 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(justify left)
 				(hide yes)
@@ -8916,7 +8934,7 @@
 			(at 110.49 48.26 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8963,7 +8981,7 @@
 			(at 115.824 109.982 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -8971,7 +8989,7 @@
 			(at 115.57 107.95 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -8980,7 +8998,7 @@
 			(at 115.57 107.95 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -8988,7 +9006,7 @@
 			(at 115.57 107.95 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9026,11 +9044,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0,33uF"
+		(property "Value" "CAP_330n_50V_X7R_0603"
 			(at 45.339 180.848 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9038,7 +9056,7 @@
 			(at 42.8752 181.61 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9047,7 +9065,7 @@
 			(at 41.91 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9056,7 +9074,7 @@
 			(at 41.91 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9065,7 +9083,16 @@
 			(at 41.91 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "330n"
+			(at 41.91 177.8 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9107,7 +9134,7 @@
 			(at 177.165 120.015 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -9116,7 +9143,7 @@
 			(at 175.26 118.11 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9125,7 +9152,7 @@
 			(at 175.26 118.11 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9134,7 +9161,7 @@
 			(at 175.26 118.11 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9172,7 +9199,7 @@
 			(at 159.385 93.98 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9197,7 +9224,7 @@
 			(at 156.21 90.17 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9238,7 +9265,7 @@
 			(at 100.33 100.584 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9263,7 +9290,7 @@
 			(at 100.33 99.06 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9301,11 +9328,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "CAP_100n_50V_X7R_0603"
 			(at 76.454 180.213 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9313,7 +9340,7 @@
 			(at 74.6252 181.61 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9322,7 +9349,7 @@
 			(at 73.66 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9331,7 +9358,7 @@
 			(at 73.66 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9340,7 +9367,16 @@
 			(at 73.66 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "100n"
+			(at 73.66 177.8 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9382,7 +9418,7 @@
 			(at 96.647 187.2742 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9390,7 +9426,7 @@
 			(at 96.52 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9399,7 +9435,7 @@
 			(at 96.52 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9408,7 +9444,7 @@
 			(at 96.52 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9443,11 +9479,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0,33uF"
+		(property "Value" "CAP_330n_50V_X7R_0603"
 			(at 99.949 180.594 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9455,7 +9491,7 @@
 			(at 97.4852 181.61 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9464,7 +9500,7 @@
 			(at 96.52 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9473,7 +9509,7 @@
 			(at 96.52 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9482,7 +9518,16 @@
 			(at 96.52 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "330n"
+			(at 96.52 177.8 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9524,7 +9569,7 @@
 			(at 74.295 62.865 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9532,7 +9577,7 @@
 			(at 74.93 60.96 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9541,7 +9586,7 @@
 			(at 74.93 60.96 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9550,7 +9595,7 @@
 			(at 74.93 59.69 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9589,7 +9634,7 @@
 			(at 155.194 65.786 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9597,7 +9642,7 @@
 			(at 154.94 64.77 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9606,7 +9651,7 @@
 			(at 154.94 64.77 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9614,7 +9659,7 @@
 			(at 154.94 64.77 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9656,7 +9701,7 @@
 			(at 61.595 43.815 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -9665,7 +9710,7 @@
 			(at 55.88 53.34 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 					(italic yes)
 				)
 				(justify left)
@@ -9676,7 +9721,7 @@
 			(at 63.5 48.26 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(justify left)
 				(hide yes)
@@ -9686,7 +9731,7 @@
 			(at 63.5 48.26 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9733,7 +9778,7 @@
 			(at 162.814 89.662 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9759,7 +9804,7 @@
 			(at 161.29 86.36 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9804,7 +9849,7 @@
 			(at 86.36 24.13 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9812,7 +9857,7 @@
 			(at 80.01 24.13 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9821,7 +9866,7 @@
 			(at 80.01 24.13 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9830,7 +9875,7 @@
 			(at 80.01 24.13 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9869,7 +9914,7 @@
 			(at 190.5 186.69 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9877,7 +9922,7 @@
 			(at 190.5 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9885,7 +9930,7 @@
 			(at 190.5 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9893,7 +9938,7 @@
 			(at 190.5 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9931,7 +9976,7 @@
 			(at 120.65 119.634 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -9956,7 +10001,7 @@
 			(at 120.65 118.11 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -9993,11 +10038,11 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "4.7K"
 			(at 72.898 56.642 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10022,7 +10067,7 @@
 			(at 74.93 57.15 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10060,11 +10105,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "CAP_100n_50V_X7R_0603"
 			(at 127.127 180.086 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10072,7 +10117,7 @@
 			(at 125.4252 181.61 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10081,7 +10126,7 @@
 			(at 124.46 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10090,7 +10135,7 @@
 			(at 124.46 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10099,7 +10144,16 @@
 			(at 124.46 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "100n"
+			(at 124.46 177.8 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10141,7 +10195,7 @@
 			(at 140.97 164.084 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10149,7 +10203,7 @@
 			(at 140.97 167.64 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10157,7 +10211,7 @@
 			(at 140.97 167.64 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10165,7 +10219,7 @@
 			(at 140.97 167.64 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10204,7 +10258,7 @@
 			(at 73.787 187.2742 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10212,7 +10266,7 @@
 			(at 73.66 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10221,7 +10275,7 @@
 			(at 73.66 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10230,7 +10284,7 @@
 			(at 73.66 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10269,7 +10323,7 @@
 			(at 74.0918 168.3258 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10277,7 +10331,7 @@
 			(at 73.66 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10286,7 +10340,7 @@
 			(at 73.66 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10295,7 +10349,7 @@
 			(at 73.66 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10334,7 +10388,7 @@
 			(at 177.165 111.76 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -10343,7 +10397,7 @@
 			(at 175.26 110.49 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10352,7 +10406,7 @@
 			(at 175.26 110.49 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10361,7 +10415,7 @@
 			(at 175.26 110.49 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10400,7 +10454,7 @@
 			(at 122.047 55.9816 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10408,7 +10462,7 @@
 			(at 121.92 52.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10417,7 +10471,7 @@
 			(at 121.92 52.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10426,7 +10480,7 @@
 			(at 121.92 52.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10461,11 +10515,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330μ"
+		(property "Value" "CAP_330μ_35V"
 			(at 180.975 92.71 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -10474,7 +10528,7 @@
 			(at 180.34 90.17 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10483,7 +10537,7 @@
 			(at 180.34 90.17 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10491,7 +10545,16 @@
 			(at 180.34 90.17 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "330u"
+			(at 180.34 90.17 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10534,7 +10597,7 @@
 			(at 159.893 79.375 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10542,7 +10605,7 @@
 			(at 160.02 76.2 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10551,7 +10614,7 @@
 			(at 160.02 76.2 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10560,7 +10623,7 @@
 			(at 160.02 74.93 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10599,7 +10662,7 @@
 			(at 62.23 33.655 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10607,7 +10670,7 @@
 			(at 59.69 34.29 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10616,7 +10679,7 @@
 			(at 59.69 34.29 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10625,7 +10688,7 @@
 			(at 59.69 33.02 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10663,7 +10726,7 @@
 			(at 168.275 135.255 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10689,7 +10752,7 @@
 			(at 165.1 132.08 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10698,7 +10761,7 @@
 			(at 165.735 135.89 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10738,7 +10801,7 @@
 			(at 156.21 124.46 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10747,7 +10810,7 @@
 			(at 161.29 115.57 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10756,7 +10819,7 @@
 			(at 161.29 115.57 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10764,7 +10827,7 @@
 			(at 161.29 115.57 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10805,7 +10868,7 @@
 			(at 65.405 130.175 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10830,7 +10893,7 @@
 			(at 62.23 128.27 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10872,7 +10935,7 @@
 			(at 52.705 59.055 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10880,7 +10943,7 @@
 			(at 53.34 57.15 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10889,7 +10952,7 @@
 			(at 53.34 57.15 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10898,7 +10961,7 @@
 			(at 53.34 55.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10936,7 +10999,7 @@
 			(at 58.42 168.8846 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -10944,7 +11007,7 @@
 			(at 58.42 167.64 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 					(italic yes)
 				)
 				(hide yes)
@@ -10954,7 +11017,7 @@
 			(at 58.42 173.99 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10963,7 +11026,7 @@
 			(at 58.42 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -10972,7 +11035,7 @@
 			(at 58.42 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11016,7 +11079,7 @@
 			(at 148.59 85.852 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11024,7 +11087,7 @@
 			(at 148.59 95.25 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11033,7 +11096,7 @@
 			(at 148.59 95.25 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11042,7 +11105,7 @@
 			(at 148.59 95.25 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11107,7 +11170,7 @@
 			(at 44.45 100.584 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11132,7 +11195,7 @@
 			(at 44.45 99.06 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11173,7 +11236,7 @@
 			(at 125.73 44.45 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11198,7 +11261,7 @@
 			(at 123.19 45.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11239,7 +11302,7 @@
 			(at 156.21 127 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11248,7 +11311,7 @@
 			(at 161.29 118.11 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11257,7 +11320,7 @@
 			(at 161.29 118.11 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11265,7 +11328,7 @@
 			(at 161.29 118.11 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11306,7 +11369,7 @@
 			(at 46.228 49.784 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11332,7 +11395,7 @@
 			(at 50.8 48.26 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11341,7 +11404,7 @@
 			(at 46.355 49.53 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11382,7 +11445,7 @@
 			(at 172.72 162.56 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11390,7 +11453,7 @@
 			(at 172.72 167.64 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11398,7 +11461,7 @@
 			(at 172.72 167.64 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11406,7 +11469,7 @@
 			(at 172.72 167.64 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11445,7 +11508,7 @@
 			(at 171.45 186.69 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11453,7 +11516,7 @@
 			(at 171.45 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11461,7 +11524,7 @@
 			(at 171.45 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11469,7 +11532,7 @@
 			(at 171.45 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11507,7 +11570,7 @@
 			(at 100.965 89.535 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11532,7 +11595,7 @@
 			(at 100.33 87.63 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11573,7 +11636,7 @@
 			(at 157.226 99.314 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11599,7 +11662,7 @@
 			(at 156.21 97.79 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11608,7 +11671,7 @@
 			(at 160.655 97.155 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11648,7 +11711,7 @@
 			(at 115.57 130.175 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11674,7 +11737,7 @@
 			(at 111.76 128.27 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11683,7 +11746,7 @@
 			(at 116.205 128.905 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11723,15 +11786,15 @@
 			(at 172.466 87.376 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
-		(property "Footprint" "my:L_Axial_L26.0mm_D9.0mm_P5.08mm_Vertical"
+		(property "Footprint" "00-mylib:L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5"
 			(at 172.72 86.36 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11740,7 +11803,7 @@
 			(at 172.72 86.36 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11748,7 +11811,7 @@
 			(at 172.72 86.36 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11789,7 +11852,7 @@
 			(at 109.22 96.012 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11797,7 +11860,7 @@
 			(at 109.22 93.98 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11806,7 +11869,7 @@
 			(at 109.22 93.98 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11814,7 +11877,7 @@
 			(at 109.22 93.98 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11852,11 +11915,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10,0uF"
+		(property "Value" "CAP_10u0_50V_X7R_1206"
 			(at 194.564 181.356 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -11864,7 +11927,7 @@
 			(at 191.4652 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11873,7 +11936,7 @@
 			(at 190.5 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11882,7 +11945,7 @@
 			(at 190.5 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11891,7 +11954,16 @@
 			(at 190.5 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "10u"
+			(at 190.5 179.07 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -11933,7 +12005,7 @@
 			(at 67.945 22.225 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -11942,7 +12014,7 @@
 			(at 62.23 31.75 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 					(italic yes)
 				)
 				(justify left)
@@ -11953,7 +12025,7 @@
 			(at 69.85 26.67 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(justify left)
 				(hide yes)
@@ -11963,7 +12035,7 @@
 			(at 69.85 26.67 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12010,7 +12082,7 @@
 			(at 165.1 128.524 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12035,7 +12107,7 @@
 			(at 165.1 127 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12076,7 +12148,7 @@
 			(at 40.64 127 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12102,7 +12174,7 @@
 			(at 44.45 125.73 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12111,7 +12183,7 @@
 			(at 40.64 127 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12151,7 +12223,7 @@
 			(at 78.105 34.925 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12176,7 +12248,7 @@
 			(at 80.01 34.29 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12218,7 +12290,7 @@
 			(at 180.34 186.69 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12226,7 +12298,7 @@
 			(at 180.34 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12234,7 +12306,7 @@
 			(at 180.34 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12242,7 +12314,7 @@
 			(at 180.34 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12281,7 +12353,7 @@
 			(at 58.547 187.2742 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12289,7 +12361,7 @@
 			(at 58.42 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12298,7 +12370,7 @@
 			(at 58.42 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12307,7 +12379,7 @@
 			(at 58.42 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12346,7 +12418,7 @@
 			(at 124.587 187.2742 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12354,7 +12426,7 @@
 			(at 124.46 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12363,7 +12435,7 @@
 			(at 124.46 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12372,7 +12444,7 @@
 			(at 124.46 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12410,7 +12482,7 @@
 			(at 156.21 119.126 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12418,7 +12490,7 @@
 			(at 161.29 110.49 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12427,7 +12499,7 @@
 			(at 161.29 110.49 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12435,7 +12507,7 @@
 			(at 161.29 110.49 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12474,11 +12546,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "CAP_100n_50V_X7R_0603"
 			(at 183.515 181.737 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12486,7 +12558,7 @@
 			(at 181.3052 175.26 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12495,7 +12567,7 @@
 			(at 180.34 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12504,7 +12576,7 @@
 			(at 180.34 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12513,7 +12585,16 @@
 			(at 180.34 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "100n"
+			(at 180.34 179.07 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12555,7 +12636,7 @@
 			(at 170.18 61.595 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12563,7 +12644,7 @@
 			(at 170.18 62.992 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12572,7 +12653,7 @@
 			(at 170.18 64.77 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12581,7 +12662,7 @@
 			(at 170.18 64.77 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12623,7 +12704,7 @@
 			(at 185.42 69.85 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -12632,7 +12713,7 @@
 			(at 182.88 67.31 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12641,7 +12722,7 @@
 			(at 182.88 67.31 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12650,7 +12731,7 @@
 			(at 182.88 67.31 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12691,7 +12772,7 @@
 			(at 36.83 107.315 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12717,7 +12798,7 @@
 			(at 36.83 101.6 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12726,7 +12807,7 @@
 			(at 36.83 96.52 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12766,7 +12847,7 @@
 			(at 88.265 31.115 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12791,7 +12872,7 @@
 			(at 87.63 29.21 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12833,7 +12914,7 @@
 			(at 94.615 62.865 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12841,7 +12922,7 @@
 			(at 95.25 60.96 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12850,7 +12931,7 @@
 			(at 95.25 60.96 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12859,7 +12940,7 @@
 			(at 95.25 59.69 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12894,11 +12975,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330μ"
+		(property "Value" "CAP_330μ_35V"
 			(at 168.275 123.19 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -12907,7 +12988,7 @@
 			(at 170.18 114.3 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12916,7 +12997,7 @@
 			(at 170.18 114.3 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -12924,7 +13005,16 @@
 			(at 170.18 114.3 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "330u"
+			(at 170.18 114.3 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12966,7 +13056,7 @@
 			(at 205.105 88.265 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -12975,7 +13065,7 @@
 			(at 203.2 86.36 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12984,7 +13074,7 @@
 			(at 203.2 86.36 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -12993,7 +13083,7 @@
 			(at 203.2 86.36 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13031,7 +13121,7 @@
 			(at 87.63 53.34 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13039,7 +13129,7 @@
 			(at 88.9 50.8 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13048,7 +13138,7 @@
 			(at 88.9 50.8 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13056,7 +13146,7 @@
 			(at 88.9 50.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13097,7 +13187,7 @@
 			(at 102.235 111.125 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13122,7 +13212,7 @@
 			(at 100.33 113.03 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13163,7 +13253,7 @@
 			(at 103.505 120.65 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13171,7 +13261,7 @@
 			(at 100.33 118.11 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13180,7 +13270,7 @@
 			(at 100.33 118.11 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13188,7 +13278,7 @@
 			(at 100.33 118.11 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13229,7 +13319,7 @@
 			(at 81.788 53.594 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13237,7 +13327,7 @@
 			(at 78.74 50.8 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13246,7 +13336,7 @@
 			(at 78.74 50.8 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13254,7 +13344,7 @@
 			(at 78.74 50.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13295,7 +13385,7 @@
 			(at 44.958 22.606 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13320,7 +13410,7 @@
 			(at 44.45 24.13 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13363,7 +13453,7 @@
 			(at 147.955 70.485 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -13372,7 +13462,7 @@
 			(at 148.59 68.58 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13381,7 +13471,7 @@
 			(at 148.59 68.58 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13389,7 +13479,16 @@
 			(at 148.59 68.58 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "2200u"
+			(at 148.59 68.58 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13430,7 +13529,7 @@
 			(at 157.48 166.3192 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13438,7 +13537,7 @@
 			(at 157.48 164.465 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13447,7 +13546,7 @@
 			(at 157.48 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13456,7 +13555,7 @@
 			(at 157.48 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13465,7 +13564,7 @@
 			(at 157.48 172.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13515,7 +13614,7 @@
 			(at 162.306 106.426 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13541,7 +13640,7 @@
 			(at 162.56 102.87 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13586,7 +13685,7 @@
 			(at 80.137 40.7416 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13594,7 +13693,7 @@
 			(at 80.01 36.83 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13603,7 +13702,7 @@
 			(at 80.01 36.83 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13612,7 +13711,7 @@
 			(at 80.01 36.83 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13650,7 +13749,7 @@
 			(at 115.824 80.772 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13658,7 +13757,7 @@
 			(at 115.57 78.74 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13667,7 +13766,7 @@
 			(at 115.57 78.74 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13675,7 +13774,7 @@
 			(at 115.57 78.74 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13716,7 +13815,7 @@
 			(at 86.36 73.025 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13742,7 +13841,7 @@
 			(at 83.82 71.12 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13751,7 +13850,7 @@
 			(at 88.265 71.12 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13792,7 +13891,7 @@
 			(at 50.165 55.245 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13800,7 +13899,7 @@
 			(at 50.8 52.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13809,7 +13908,7 @@
 			(at 50.8 52.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13818,7 +13917,7 @@
 			(at 50.8 50.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13856,7 +13955,7 @@
 			(at 47.498 28.194 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13882,7 +13981,7 @@
 			(at 52.07 26.67 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -13891,7 +13990,7 @@
 			(at 47.625 27.94 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -13932,7 +14031,7 @@
 			(at 127.127 84.963 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -13941,7 +14040,7 @@
 			(at 128.27 85.725 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 					(italic yes)
 				)
 				(justify left)
@@ -13952,7 +14051,7 @@
 			(at 121.92 83.82 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(justify left)
 				(hide yes)
@@ -13962,7 +14061,7 @@
 			(at 121.92 83.82 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14006,7 +14105,7 @@
 			(at 142.24 106.68 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14031,7 +14130,7 @@
 			(at 139.7 105.41 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14070,11 +14169,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "CAP_100n_50V_X7R_0603"
 			(at 143.764 181.61 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14082,7 +14181,7 @@
 			(at 141.9352 175.26 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14091,7 +14190,7 @@
 			(at 140.97 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14100,7 +14199,7 @@
 			(at 140.97 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14109,7 +14208,16 @@
 			(at 140.97 179.07 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "100n"
+			(at 140.97 179.07 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14150,7 +14258,7 @@
 			(at 67.945 113.03 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14158,7 +14266,7 @@
 			(at 60.96 93.98 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14167,7 +14275,7 @@
 			(at 60.96 93.98 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14176,7 +14284,7 @@
 			(at 60.96 93.98 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14259,7 +14367,7 @@
 			(at 44.958 43.688 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14284,7 +14392,7 @@
 			(at 44.45 45.72 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14325,7 +14433,7 @@
 			(at 197.485 91.44 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14350,7 +14458,7 @@
 			(at 194.31 90.17 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14387,11 +14495,11 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "4.7K"
 			(at 96.774 57.15 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14416,7 +14524,7 @@
 			(at 95.25 57.15 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14457,7 +14565,7 @@
 			(at 142.24 82.55 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14482,7 +14590,7 @@
 			(at 139.7 81.28 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14525,7 +14633,7 @@
 			(at 185.42 45.72 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -14534,7 +14642,7 @@
 			(at 182.88 44.45 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14543,7 +14651,7 @@
 			(at 182.88 44.45 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14552,7 +14660,7 @@
 			(at 182.88 44.45 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14591,7 +14699,7 @@
 			(at 96.9518 167.0558 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14599,7 +14707,7 @@
 			(at 96.52 171.45 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14608,7 +14716,7 @@
 			(at 96.52 171.45 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14617,7 +14725,7 @@
 			(at 96.52 171.45 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14656,7 +14764,7 @@
 			(at 140.97 186.69 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14664,7 +14772,7 @@
 			(at 140.97 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14672,7 +14780,7 @@
 			(at 140.97 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14680,7 +14788,7 @@
 			(at 140.97 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14715,11 +14823,11 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330μ"
+		(property "Value" "CAP_330μ_35V"
 			(at 188.595 92.71 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -14728,7 +14836,7 @@
 			(at 187.96 90.17 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14737,7 +14845,7 @@
 			(at 187.96 90.17 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14745,7 +14853,16 @@
 			(at 187.96 90.17 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value1" "330u"
+			(at 187.96 90.17 0)
+			(effects
+				(font
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14786,7 +14903,7 @@
 			(at 140.716 100.584 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14812,7 +14929,7 @@
 			(at 139.7 99.06 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14821,7 +14938,7 @@
 			(at 142.875 99.695 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14861,7 +14978,7 @@
 			(at 140.716 89.154 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14887,7 +15004,7 @@
 			(at 139.7 87.63 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14896,7 +15013,7 @@
 			(at 142.24 90.17 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14937,7 +15054,7 @@
 			(at 184.277 135.9916 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -14945,7 +15062,7 @@
 			(at 184.15 132.08 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14954,7 +15071,7 @@
 			(at 184.15 132.08 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -14963,7 +15080,7 @@
 			(at 184.15 132.08 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15001,7 +15118,7 @@
 			(at 120.65 90.424 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15026,7 +15143,7 @@
 			(at 120.65 88.9 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15067,7 +15184,7 @@
 			(at 67.31 127.508 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15092,7 +15209,7 @@
 			(at 67.31 125.73 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15133,7 +15250,7 @@
 			(at 101.6 85.725 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15158,7 +15275,7 @@
 			(at 100.33 83.82 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15199,7 +15316,7 @@
 			(at 44.45 105.918 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15224,7 +15341,7 @@
 			(at 44.45 104.14 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15266,7 +15383,7 @@
 			(at 35.0266 178.943 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -15275,7 +15392,7 @@
 			(at 33.02 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15284,7 +15401,7 @@
 			(at 33.02 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15293,7 +15410,7 @@
 			(at 33.02 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15302,7 +15419,7 @@
 			(at 33.02 177.8 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15344,7 +15461,7 @@
 			(at 170.18 104.394 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15352,7 +15469,7 @@
 			(at 170.18 107.95 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15360,7 +15477,7 @@
 			(at 170.18 107.95 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15368,7 +15485,7 @@
 			(at 170.18 107.95 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15406,7 +15523,7 @@
 			(at 154.94 63.5 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15415,7 +15532,7 @@
 			(at 163.83 68.58 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15424,7 +15541,7 @@
 			(at 163.83 68.58 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15432,7 +15549,7 @@
 			(at 163.83 68.58 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15473,7 +15590,7 @@
 			(at 80.01 69.215 90)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15498,7 +15615,7 @@
 			(at 80.01 67.31 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15540,7 +15657,7 @@
 			(at 205.105 95.885 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
@@ -15549,7 +15666,7 @@
 			(at 203.2 93.98 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15558,7 +15675,7 @@
 			(at 203.2 93.98 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15567,7 +15684,7 @@
 			(at 203.2 93.98 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15605,7 +15722,7 @@
 			(at 102.87 76.835 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15613,7 +15730,7 @@
 			(at 100.33 78.74 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15622,7 +15739,7 @@
 			(at 100.33 78.74 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15630,7 +15747,7 @@
 			(at 100.33 78.74 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15671,7 +15788,7 @@
 			(at 156.21 121.92 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15680,7 +15797,7 @@
 			(at 161.29 113.03 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15689,7 +15806,7 @@
 			(at 161.29 113.03 90)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15697,7 +15814,7 @@
 			(at 161.29 113.03 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15739,7 +15856,7 @@
 			(at 194.7418 81.9658 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15747,7 +15864,7 @@
 			(at 194.31 86.36 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15756,7 +15873,7 @@
 			(at 194.31 86.36 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15765,7 +15882,7 @@
 			(at 194.31 86.36 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15803,7 +15920,7 @@
 			(at 71.12 73.025 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15829,7 +15946,7 @@
 			(at 74.93 71.12 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15838,7 +15955,7 @@
 			(at 71.12 72.39 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15879,7 +15996,7 @@
 			(at 157.48 186.69 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15887,7 +16004,7 @@
 			(at 157.48 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15895,7 +16012,7 @@
 			(at 157.48 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15903,7 +16020,7 @@
 			(at 157.48 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15942,7 +16059,7 @@
 			(at 42.037 187.2742 0)
 			(effects
 				(font
-					(size 0.63 0.63)
+					(size 0.635 0.635)
 				)
 			)
 		)
@@ -15950,7 +16067,7 @@
 			(at 41.91 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15959,7 +16076,7 @@
 			(at 41.91 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)
@@ -15968,7 +16085,7 @@
 			(at 41.91 182.88 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(hide yes)
 			)

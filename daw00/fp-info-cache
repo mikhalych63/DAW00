@@ -1,4 +1,11 @@
-25149651732323750
+25156489916351756
+00-mylib
+Amanero Combo384
+USB class 2 to I2S 32bit and DSD output Adapter 
+
+0
+20
+20
 00-mylib
 Amp Terminal Block
 
@@ -17,6 +24,20 @@ BUS ISA AT Edge connector
 Fuse_Blade_vertical
 car blade fuse direct solder
 car blade fuse
+0
+2
+2
+00-mylib
+L_CommonModeChoke_Coilcraft_1812CAN
+Coilcraft 1812CAN Series Common Mode Choke, https://www.coilcraft.com/pdfs/1812can.pdf
+surface mount common mode bead
+0
+4
+4
+00-mylib
+L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5
+L_Toroid, Vertical series, Radial, pin pitch=12.70mm, , length*width=33.02*17.78mm^2, Pulse, KM-5, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf
+L_Toroid Vertical series Radial pin pitch 12.70mm  length 33.02mm width 17.78mm Pulse KM-5
 0
 2
 2
@@ -48,6 +69,13 @@ Connector
 0
 12
 12
+00-mylib
+ЕнисейЛОГО
+
+
+0
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)

@@ -829,6 +829,7 @@
 		(property "Value" "MountingHole_3.2mm_M3"
 			(at 0 4.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "7ca105cc-0721-4ed6-9d80-cd2faa3fce2b")
 			(effects
 				(font
@@ -3206,6 +3207,7 @@
 		(property "Value" "MountingHole_3.2mm_M3"
 			(at 0 4.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "18d69464-07e7-48db-bebb-87cc3eaceb29")
 			(effects
 				(font
